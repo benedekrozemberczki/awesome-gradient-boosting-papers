@@ -126,7 +126,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Code]]( )
 
 - **Extreme Gradient Boosting and Behavioral Biometrics (AAAI 2017)**
-  - 
+  - Benjamin Manning
   - [[Paper]]( )
   - [[Code]]( )
 
