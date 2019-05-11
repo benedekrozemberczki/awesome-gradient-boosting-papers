@@ -1,6 +1,15 @@
 # awesome-gradient-boosting-research
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 A curated list of gradient boosting and adaptive boosting research papers with implementations.
 
+A collection of community detection papers with implementations.
+
+A similar collection on [[graph embedding]](https://github.com/benedekrozemberczki/awesome-graph-embedding) and [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+
+<p align="center">
+  <img width="460" src="coms.png">
+</p>
 [2019](#2019)
 [2018](#2018)
 [2017](#2017)
