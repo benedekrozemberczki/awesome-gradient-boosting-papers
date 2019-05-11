@@ -27,7 +27,7 @@ A curated list of gradient boosting and adaptive boosting research papers with i
 [1995](#1995) 
 [1994](#1994) 
 
-##2018
+## 2018
 - **Boosted Generative Models (AAAI 2018)**
   - Aditya Grover
   - [[Paper]]( )
