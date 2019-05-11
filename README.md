@@ -44,53 +44,13 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
-- **PoseHD%3A Boosting Human Detectors Using Human Pose Information (AAAI 2018)**
-  - Zhijian Liu, Bowen Pan, Yuliang Xiu
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Variational Inference%3A an Optimization Perspective (AISTATS 2018)**
-  - Francesco Locatello, Rajiv Khanna, Joydeep Ghosh
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Online Boosting Algorithms for Multi-label Ranking (AISTATS 2018)**
   - Young Hun Jung
   - [[Paper]]( )
   - [[Code]]( )
 
-- **GraphRep%3A Boosting Text Mining%2C NLP and Information Retrieval with Graphs (CIKM 2018)**
-  - Michalis Vazirgiannis, Fragkiskos D. Malliaros
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **DualBoost%3A Handling Missing Values with Feature Weights and Weak Classifiers that Abstain (CIKM 2018)**
+- **DualBoost: A Handling Missing Values with Feature Weights and Weak Classifiers that Abstain (CIKM 2018)**
   - Weihong Wang, Jie Xu, Yang Wang, Chen Cai
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Self-Supervised Learning via Knowledge Transfer (CVPR 2018)**
-  - Mehdi Noroozi, Ananth Vinjimoor, Paolo Favaro
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Adversarial Attacks With Momentum (CVPR 2018)**
-  - Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Domain Adaptation by Discovering Latent Domains (CVPR 2018)**
-  - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Dilated Convolutional Networks with Mixed Tensor Decompositions (ICLR 2018)**
-  - Nadav Cohen, Ronen Tamari
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting the Actor with Dual Critic (ICLR 2018)**
-  - Bo Dai, Albert Shaw, Niao He, Lihong Li
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -119,17 +79,12 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Boosting MCSes Enumeration (IJCAI 2018)**
-  - Éric Grégoire, Yacine Izza
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Ensemble Neural Relation Extraction with Adaptive Boosting (IJCAI 2018)**
   - Dongdong Yang, Senzhang Wang
   - [[Paper]]( )
   - [[Code]]( )
 
-- **UCBoost%3A A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits (IJCAI 2018)**
+- **UCBoost: A A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits (IJCAI 2018)**
   - Fang Liu, Sinong Wang, Swapna Buccapatnam
   - [[Paper]]( )
   - [[Code]]( )
@@ -154,7 +109,7 @@ A similar collection on [[graph embedding]](https://github.com/benedekrozembercz
   - [[Paper]]( )
   - [[Code]]( )
 
-- **CatBoost%3A unbiased boosting with categorical features (NIPS 2018)**
+- **CatBoost: A unbiased boosting with categorical features (NIPS 2018)**
   - Liudmila Ostroumova Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush
   - [[Paper]]( )
   - [[Code]]( )
