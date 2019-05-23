@@ -1597,50 +1597,43 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2002
-- **Content-Boosted Collaborative Filtering for Improved Recommendations (AAAI 2002)**
-  - Prem Melville, Raymond J. Mooney, Ramadass Nagarajan
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Minimum Majority Classification and Boosting (AAAI 2002)**
   - Philip M. Long
-  - [[Paper]]( )
+  - [[Paper]](http://phillong.info/publications/minmaj.pdf)
   - [[Code]]( )
 
 - **Ranking Algorithms for Named Entity Extraction: Boosting and the Voted Perceptron (ACL 2002)**
   - Michael Collins
-  - [[Paper]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/P02-1062)
   - [[Code]]( )
 
 - **Boosting to correct inductive bias in text classification (CIKM 2002)**
   - Yan Liu, Yiming Yang, Jaime G. Carbonell
-  - [[Paper]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=584792.584850)
   - [[Code]]( )
 
-- **Statistical Behavior and Consistency of Support Vector Machines%2C Boosting%2C and Beyond (ICML 2002)**
+- **Statistical Behavior and Consistency of Support Vector Machines, Boosting, and Beyond (ICML 2002)**
   - Tong Zhang
-  - [[Paper]]( )
+  - [[Paper]](https://www.researchgate.net/publication/221344927_Statistical_Behavior_and_Consistency_of_Support_Vector_Machines_Boosting_and_Beyond)
   - [[Code]]( )
 
 - **A Boosted Maximum Entropy Model for Learning Text Chunking (ICML 2002)**
   - Seong-Bae Park, Byoung-Tak Zhang
-  - [[Paper]]( )
+  - [[Paper]](https://www.researchgate.net/publication/221345636_A_Boosted_Maximum_Entropy_Model_for_Learning_Text_Chunking)
   - [[Code]]( )
 
-- **Towards %22Large Margin%22 Speech Recognizers by Boosting and Discriminative Training (ICML 2002)**
+- **Towards Large Margin Speech Recognizers by Boosting and Discriminative Training (ICML 2002)**
   - Carsten Meyer, Peter Beyerlein
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.semanticscholar.org/paper/Towards-Large-Margin-Speech-Recognizers-by-Boosting-Meyer-Beyerlein/8408479e36da812cdbf6bc15f7849c3e76a1016d)
 
 - **Incorporating Prior Knowledge into Boosting (ICML 2002)**
   - Robert E. Schapire, Marie Rochery, Mazin G. Rahim, Narendra K. Gupta
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://rob.schapire.net/papers/boostknowledge.pdf)
 
 - **Modeling Auction Price Uncertainty Using Boosting-based Conditional Density Estimation (ICML 2002)**
   - Robert E. Schapire, Peter Stone, David A. McAllester, Michael L. Littman, János A. Csirik
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.utexas.edu/~ai-lab/pubs/ICML02-tac.pdf)
 
 - **MARK: a boosting algorithm for heterogeneous kernel models (KDD 2002)**
   - Kristin P. Bennett, Michinari Momma, Mark J. Embrechts
@@ -1684,13 +1677,11 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Staged Mixture Modelling and Boosting (UAI 2002)**
   - Christopher Meek, Bo Thiesson, David Heckerman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1301.0586)
 
 - **Advances in Boosting (UAI 2002)**
   - Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://rob.schapire.net/papers/uai02.pdf)
 
 ## 2001
 - **Is regularization unnecessary for boosting? (AISTATS 2001)**
