@@ -65,33 +65,30 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **UCBoost: A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits (IJCAI 2018)**
   - Fang Liu, Sinong Wang, Swapna Buccapatnam, Ness B. Shroff
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/0338.pdf)
+  - [[Code]](https://smpybandits.github.io/docs/Policies.UCBoost.html)
 
 - **Adaboost with Auto-Evaluation for Conversational Models (IJCAI 2018)**
   - Juncen Li, Ping Luo, Ganbin Zhou, Fen Lin, Cheng Niu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/0580.pdf)
 
 - **Ensemble Neural Relation Extraction with Adaptive Boosting (IJCAI 2018)**
   - Dongdong Yang, Senzhang Wang, Zhoujun Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/0630.pdf)
 
 - **CatBoost: unbiased boosting with categorical features (NIPS 2018)**
   - Liudmila Ostroumova Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, Andrey Gulin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features.pdf)
+  - [[Code]](https://github.com/catboost/catboost)
 
 - **Multitask Boosting for Survival Analysis with Competing Risks (NIPS 2018)**
   - Alexis Bellot, Mihaela van der Schaar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/7413-multitask-boosting-for-survival-analysis-with-competing-risks)
 
 - **Multi-Layered Gradient Boosting Decision Trees (NIPS 2018)**
   - Ji Feng, Yang Yu, Zhi-Hua Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/7614-multi-layered-gradient-boosting-decision-trees.pdf)
+  - [[Code]](https://github.com/kingfengji/mGBDT)
 
 - **Boosted Sparse and Low-Rank Tensor Regression (NIPS 2018)**
   - Lifang He, Kun Chen, Wanwan Xu, Jiayu Zhou, Fei Wang
