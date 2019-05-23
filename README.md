@@ -35,11 +35,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **PoseHD: Boosting Human Detectors Using Human Pose Information (AAAI 2018)**
-  - Zhijian Liu, Bowen Pan, Yuliang Xiu, Cewu Lu
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Boosting Variational Inference: an Optimization Perspective (AISTATS 2018)**
   - Francesco Locatello, Rajiv Khanna, Joydeep Ghosh, Gunnar Rätsch
   - [[Paper]]( )
@@ -50,11 +45,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **GraphRep: Boosting Text Mining%2C NLP and Information Retrieval with Graphs (CIKM 2018)**
-  - Michalis Vazirgiannis, Fragkiskos D. Malliaros, Giannis Nikolentzos
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **DualBoost: Handling Missing Values with Feature Weights and Weak Classifiers that Abstain (CIKM 2018)**
   - Weihong Wang, Jie Xu, Yang Wang, Chen Cai, Fang Chen
   - [[Paper]]( )
@@ -62,26 +52,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Boosting Self-Supervised Learning via Knowledge Transfer (CVPR 2018)**
   - Mehdi Noroozi, Ananth Vinjimoor, Paolo Favaro, Hamed Pirsiavash
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Adversarial Attacks With Momentum (CVPR 2018)**
-  - Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Domain Adaptation by Discovering Latent Domains (CVPR 2018)**
-  - Massimiliano Mancini, Lorenzo Porzi, Samuel Rota Bulò, Barbara Caputo, Elisa Ricci
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting the Actor with Dual Critic (ICLR 2018)**
-  - Bo Dai, Albert Shaw, Niao He, Lihong Li, Le Song
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Dilated Convolutional Networks with Mixed Tensor Decompositions (ICLR 2018)**
-  - Nadav Cohen, Ronen Tamari, Amnon Shashua
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -112,21 +82,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Ensemble Neural Relation Extraction with Adaptive Boosting (IJCAI 2018)**
   - Dongdong Yang, Senzhang Wang, Zhoujun Li
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting MCSes Enumeration (IJCAI 2018)**
-  - Éric Grégoire, Yacine Izza, Jean-Marie Lagniez
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Combinatorial Problem Modeling with Machine Learning (IJCAI 2018)**
-  - Michele Lombardi, Michela Milano
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Black Box Variational Inference (NIPS 2018)**
-  - Francesco Locatello, Gideon Dresdner, Rajiv Khanna, Isabel Valera, Gunnar Rätsch
   - [[Paper]]( )
   - [[Code]]( )
 
