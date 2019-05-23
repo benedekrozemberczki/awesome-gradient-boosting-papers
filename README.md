@@ -1739,22 +1739,18 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 - **Experimental comparisons of online and batch versions of bagging and boosting (KDD 2001)**
   - Nikunj C. Oza, Stuart J. Russell
   - [[Paper]](https://people.eecs.berkeley.edu/~russell/papers/kdd01-online.pdf)
-  - [[Code]]( )
 
 - **Semi-supervised MarginBoost (NIPS 2001)**
   - Florence d'Alché-Buc, Yves Grandvalet, Christophe Ambroise
   - [[Paper]](https://pdfs.semanticscholar.org/2197/f1c2d55827b6928cc80030922569acce2d6c.pdf)
-  - [[Code]]( )
 
 - **Boosting and Maximum Likelihood for Exponential Models (NIPS 2001)**
   - Guy Lebanon, John D. Lafferty
   - [[Paper]](https://papers.nips.cc/paper/2042-boosting-and-maximum-likelihood-for-exponential-models.pdf)
-  - [[Code]]( )
 
 - **Fast and Robust Classification using Asymmetric AdaBoost and a Detector Cascade (NIPS 2001)**
   - Paul A. Viola, Michael J. Jones
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.4306&rep=rep1&type=pdf)
 
 ## 1999
 - **Boosting methodology for regression problems (AISTATS 1999)**
