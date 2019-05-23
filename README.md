@@ -1637,43 +1637,35 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **MARK: a boosting algorithm for heterogeneous kernel models (KDD 2002)**
   - Kristin P. Bennett, Michinari Momma, Mark J. Embrechts
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://homepages.rpiscrews.us/~bennek/papers/kdd2.pdf)
 
 - **Predicting rare classes: can boosting make any weak learner strong (KDD 2002)**
   - Mahesh V. Joshi, Ramesh C. Agarwal, Vipin Kumar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.1159&rep=rep1&type=pdf)
 
 - **Kernel Design Using Boosting (NIPS 2002)**
   - Koby Crammer, Joseph Keshet, Yoram Singer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/ff79/344807e972fdd7e5e1c3ed5c539dd1aeecbe.pdf)
 
 - **FloatBoost Learning for Classification (NIPS 2002)**
   - Stan Z. Li, ZhenQiu Zhang, Heung-Yeung Shum, HongJiang Zhang
   - [[Paper]]( )
-  - [[Code]]( )
 
 - **Discriminative Learning for Label Sequences via Boosting (NIPS 2002)**
   - Yasemin Altun, Thomas Hofmann, Mark Johnson
   - [[Paper]]( )
-  - [[Code]]( )
 
 - **Boosting Density Estimation (NIPS 2002)**
   - Saharon Rosset, Eran Segal
   - [[Paper]]( )
-  - [[Code]]( )
 
 - **Self Supervised Boosting (NIPS 2002)**
   - Max Welling, Richard S. Zemel, Geoffrey E. Hinton
   - [[Paper]]( )
-  - [[Code]]( )
 
 - **Boosted Dyadic Kernel Discriminants (NIPS 2002)**
   - Baback Moghaddam, Gregory Shakhnarovich
   - [[Paper]]( )
-  - [[Code]]( )
 
 - **Staged Mixture Modelling and Boosting (UAI 2002)**
   - Christopher Meek, Bo Thiesson, David Heckerman
@@ -1708,12 +1700,10 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 - **Boosting Neighborhood-Based Classifiers (ICML 2001)**
   - Marc Sebban, Richard Nock, Stéphane Lallich
   - [[Paper]](https://www.semanticscholar.org/paper/Boosting-Neighborhood-Based-Classifiers-Sebban-Nock/ee88e3bbe8a7e81cae7ee53da2c824de7c82f882)
-  - [[Code]]( )
 
 - **Boosting Noisy Data (ICML 2001)**
   - Abba Krieger, Chuan Long, Abraham J. Wyner
   - [[Paper]](https://www.researchgate.net/profile/Abba_Krieger/publication/221345435_Boosting_Noisy_Data/links/00463528a1ba641692000000.pdf)
-  - [[Code]]( )
 
 - **Some Theoretical Aspects of Boosting in the Presence of Noisy Data (ICML 2001)**
   - Wenxin Jiang
