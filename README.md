@@ -1591,27 +1591,22 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 - **Minimum Majority Classification and Boosting (AAAI 2002)**
   - Philip M. Long
   - [[Paper]](http://phillong.info/publications/minmaj.pdf)
-  - [[Code]]( )
 
 - **Ranking Algorithms for Named Entity Extraction: Boosting and the Voted Perceptron (ACL 2002)**
   - Michael Collins
   - [[Paper]](https://www.aclweb.org/anthology/P02-1062)
-  - [[Code]]( )
 
 - **Boosting to correct inductive bias in text classification (CIKM 2002)**
   - Yan Liu, Yiming Yang, Jaime G. Carbonell
   - [[Paper]](https://dl.acm.org/citation.cfm?id=584792.584850)
-  - [[Code]]( )
-
+  
 - **Statistical Behavior and Consistency of Support Vector Machines, Boosting, and Beyond (ICML 2002)**
   - Tong Zhang
   - [[Paper]](https://www.researchgate.net/publication/221344927_Statistical_Behavior_and_Consistency_of_Support_Vector_Machines_Boosting_and_Beyond)
-  - [[Code]]( )
 
 - **A Boosted Maximum Entropy Model for Learning Text Chunking (ICML 2002)**
   - Seong-Bae Park, Byoung-Tak Zhang
   - [[Paper]](https://www.researchgate.net/publication/221345636_A_Boosted_Maximum_Entropy_Model_for_Learning_Text_Chunking)
-  - [[Code]]( )
 
 - **Towards Large Margin Speech Recognizers by Boosting and Discriminative Training (ICML 2002)**
   - Carsten Meyer, Peter Beyerlein
