@@ -1928,22 +1928,15 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 1996
 - **Experiments with a New Boosting Algorithm (ICML 1996)**
   - Yoav Freund, Robert E. Schapire
-  - [[Paper]]( )
+  - [[Paper]](https://cseweb.ucsd.edu/~yfreund/papers/boostingexperiments.pdf)
   - [[Code]]( )
 
 ## 1995
 - **Boosting Decision Trees (NIPS 1995)**
   - Harris Drucker, Corinna Cortes
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1059-boosting-decision-trees.pdf)
 
 ## 1994
 - **Boosting and Other Machine Learning Algorithms (ICML 1994)**
   - Harris Drucker, Corinna Cortes, Lawrence D. Jackel, Yann LeCun, Vladimir Vapnik
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting the Performance of RBF Networks with Dynamic Decay Adjustment (NIPS 1994)**
-  - Michael R. Berthold, Jay Diamond
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/B9781558603356500155)
