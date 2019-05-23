@@ -32,43 +32,36 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2018
 - **Boosted Generative Models (AAAI 2018)**
   - Aditya Grover, Stefano Ermon
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1702.08484.pdf)
+  - [[Code]](https://github.com/ermongroup/bgm)
 
 - **Boosting Variational Inference: an Optimization Perspective (AISTATS 2018)**
   - Francesco Locatello, Rajiv Khanna, Joydeep Ghosh, Gunnar Rätsch
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1708.01733)
+  - [[Code]](https://github.com/ratschlab/boosting-bbvi)
 
 - **Online Boosting Algorithms for Multi-label Ranking (AISTATS 2018)**
   - Young Hun Jung, Ambuj Tewari
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1710.08079)
+  - [[Code]](https://github.com/yhjung88/OnlineMLRBoostingWithVFDT)
 
 - **DualBoost: Handling Missing Values with Feature Weights and Weak Classifiers that Abstain (CIKM 2018)**
   - Weihong Wang, Jie Xu, Yang Wang, Chen Cai, Fang Chen
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Self-Supervised Learning via Knowledge Transfer (CVPR 2018)**
-  - Mehdi Noroozi, Ananth Vinjimoor, Paolo Favaro, Hamed Pirsiavash
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://delivery.acm.org/10.1145/3270000/3269319/p1543-wang.pdf?ip=129.215.164.203&id=3269319&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2EEB9E991028F4E1F1%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1558633895_f01b39fd47b943fd01eade763a397e04)
 
 - **Functional Gradient Boosting based on Residual Network Perception (ICML 2018)**
   - Atsushi Nitanda, Taiji Suzuki
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1802.09031)
+  - [[Code]](https://github.com/anitan0925/ResFGB)
 
 - **Finding Influential Training Samples for Gradient Boosted Decision Trees (ICML 2018)**
   - Boris Sharchilev, Yury Ustinovskiy, Pavel Serdyukov, Maarten de Rijke
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1802.06640)
 
 - **Learning Deep ResNet Blocks Sequentially using Boosting Theory (ICML 2018)**
   - Furong Huang, Jordan T. Ash, John Langford, Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1706.04964)
+  - [[Code]](https://github.com/JordanAsh/boostresnet)
 
 - **UCBoost: A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits (IJCAI 2018)**
   - Fang Liu, Sinong Wang, Swapna Buccapatnam, Ness B. Shroff
@@ -102,8 +95,8 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Boosted Sparse and Low-Rank Tensor Regression (NIPS 2018)**
   - Lifang He, Kun Chen, Wanwan Xu, Jiayu Zhou, Fei Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1811.01158)
+  - [[Code]](https://github.com/LifangHe/NeurIPS18_SURF)
 
 ## 2017
 - **Boosting for Real-Time Multivariate Time Series Classification (AAAI 2017)**
