@@ -1902,13 +1902,11 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 1997
 - **Boosting the margin: A new explanation for the effectiveness of voting methods (ICML 1997)**
   - Robert E. Schapire, Yoav Freund, Peter Barlett, Wee Sun Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cc.gatech.edu/~isbell/tutorials/boostingmargins.pdf)
 
 - **Using output codes to boost multiclass learning problems (ICML 1997)**
   - Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://rob.schapire.net/papers/Schapire97.pdf)
 
 - **Improving Regressors using Boosting Techniques (ICML 1997)**
   - Harris Drucker
