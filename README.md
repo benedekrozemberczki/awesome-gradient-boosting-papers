@@ -1771,59 +1771,54 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 1999
 - **Boosting methodology for regression problems (AISTATS 1999)**
   - Greg Ridgeway, David Madigan, Thomas Richardson
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/5f19/6a8baa281b2190c4519305bec8f5c91c8e5a.pdf)
 
 - **Boosting Applied to Tagging and PP Attachment (EMNLP 1999)**
   - Steven Abney, Robert E. Schapire, Yoram Singer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/W99-0606)
 
 - **Lazy Bayesian Rules: A Lazy Semi-Naive Bayesian Learning Technique Competitive to Boosting Decision Trees (ICML 1999)**
   - Zijian Zheng, Geoffrey I. Webb, Kai Ming Ting
-  - [[Paper]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/067e/86836ddbcb5e2844e955c16e058366a18c77.pdf)
   - [[Code]]( )
 
 - **AdaCost: Misclassification Cost-Sensitive Boosting (ICML 1999)**
   - Wei Fan, Salvatore J. Stolfo, Junxin Zhang, Philip K. Chan
-  - [[Paper]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/9ddf/bc2cc5c1b13b80a1a487b9caa57e80edd863.pdf)
   - [[Code]]( )
 
 - **Boosting a Strong Learner: Evidence Against the Minimum Margin (ICML 1999)**
   - Michael Bonnell Harries
-  - [[Paper]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=657480)
   - [[Code]]( )
 
 - **Boosting Algorithms as Gradient Descent (NIPS 1999)**
   - Llew Mason, Jonathan Baxter, Peter L. Bartlett, Marcus R. Frean
-  - [[Paper]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1766-boosting-algorithms-as-gradient-descent.pdf)
   - [[Code]]( )
 
 - **Boosting with Multi-Way Branching in Decision Trees (NIPS 1999)**
   - Yishay Mansour, David A. McAllester
-  - [[Paper]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1659-boosting-with-multi-way-branching-in-decision-trees.pdf)
   - [[Code]]( )
 
 - **Potential Boosters (NIPS 1999)**
   - Nigel Duffy, David P. Helmbold
-  - [[Paper]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/4884/c765b6ceab7bdfb6703489810c8a386fd2a8.pdf)
   - [[Code]]( )
 
 ## 1998
 - **An Efficient Boosting Algorithm for Combining Preferences (ICML 1998)**
   - Yoav Freund, Raj D. Iyer, Robert E. Schapire, Yoram Singer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://jmlr.csail.mit.edu/papers/volume4/freund03a/freund03a.pdf)
 
 - **Query Learning Strategies Using Boosting and Bagging (ICML 1998)**
   - Naoki Abe, Hiroshi Mamitsuka
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.bic.kyoto-u.ac.jp/pathway/mami/pubs/Files/icml98.pdf)
 
 - **Regularizing AdaBoost (NIPS 1998)**
   - Gunnar Rätsch, Takashi Onoda, Klaus-Robert Müller
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/0afc/9de245547c675d40ad29240e2788c0416f91.pdf)
 
 ## 1997
 - **Boosting the margin: A new explanation for the effectiveness of voting methods (ICML 1997)**
