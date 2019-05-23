@@ -1912,18 +1912,15 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Improving Regressors using Boosting Techniques (ICML 1997)**
   - Harris Drucker
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/8d49/e2dedb817f2c3330e74b63c5fc86d2399ce3.pdf)
 
 - **Pruning Adaptive Boosting (ICML 1997)**
   - Dragos D. Margineantu, Thomas G. Dietterich
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/b25f/615fc139fbdeccc3bcf4462f908d7f8e37f9.pdf)
 
 - **Training Methods for Adaptive Boosting of Neural Networks (NIPS 1997)**
   - Holger Schwenk, Yoshua Bengio
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1335-training-methods-for-adaptive-boosting-of-neural-networks.pdf)
 
 ## 1996
 - **Experiments with a New Boosting Algorithm (ICML 1996)**
