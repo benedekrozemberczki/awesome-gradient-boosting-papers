@@ -1929,7 +1929,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 - **Experiments with a New Boosting Algorithm (ICML 1996)**
   - Yoav Freund, Robert E. Schapire
   - [[Paper]](https://cseweb.ucsd.edu/~yfreund/papers/boostingexperiments.pdf)
-  - [[Code]]( )
 
 ## 1995
 - **Boosting Decision Trees (NIPS 1995)**
