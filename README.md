@@ -1738,7 +1738,7 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Filters%2C Wrappers and a Boosting-Based Hybrid for Feature Selection (ICML 2001)**
+- **Filters, Wrappers and a Boosting-Based Hybrid for Feature Selection (ICML 2001)**
   - Sanmay Das
   - [[Paper]]( )
   - [[Code]]( )
