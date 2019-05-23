@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-  <img width="300" src="boosting.gif">
+  <img width="450" src="boosting.gif">
 </p>
 A curated list of gradient and adaptive boosting papers with implementations from the following conferences:
 
