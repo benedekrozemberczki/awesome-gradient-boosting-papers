@@ -1693,74 +1693,62 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2001
-- **Is regularization unnecessary for boosting%3F (AISTATS 2001)**
+- **Is regularization unnecessary for boosting? (AISTATS 2001)**
   - Wenxin Jiang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/2439718_Is_Regularization_Unnecessary_for_Boosting)
 
 - **Online Bagging and Boosting (AISTATS 2001)**
   - Nikunj C. Oza, Stuart J. Russell
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ti.arc.nasa.gov/m/profile/oza/files/ozru01a.pdf)
 
 - **A Comparison of Stacking with Meta Decision Trees to Bagging%2C Boosting%2C and Stacking with other Methods (ICDM 2001)**
   - Bernard Zenko, Ljupco Todorovski, Saso Dzeroski
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.3118&rep=rep1&type=pdf)
 
 - **Using Boosting to Simplify Classification Models (ICDM 2001)**
   - Virginia Wheway
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/989565)
 
 - **Evaluating Boosting Algorithms to Classify Rare Classes: Comparison and Improvements (ICDM 2001)**
   - Mahesh V. Joshi, Vipin Kumar, Ramesh C. Agarwal
-  - [[Paper]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/b829/fe743e4beeeed65d32d2d7931354df7a2f60.pdf)
   - [[Code]]( )
 
 - **Boosting Neighborhood-Based Classifiers (ICML 2001)**
   - Marc Sebban, Richard Nock, Stéphane Lallich
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting with Confidence Information (ICML 2001)**
-  - Craig W. Codrington
-  - [[Paper]]( )
+  - [[Paper]](https://www.semanticscholar.org/paper/Boosting-Neighborhood-Based-Classifiers-Sebban-Nock/ee88e3bbe8a7e81cae7ee53da2c824de7c82f882)
   - [[Code]]( )
 
 - **Boosting Noisy Data (ICML 2001)**
   - Abba Krieger, Chuan Long, Abraham J. Wyner
-  - [[Paper]]( )
+  - [[Paper]](https://www.researchgate.net/profile/Abba_Krieger/publication/221345435_Boosting_Noisy_Data/links/00463528a1ba641692000000.pdf)
   - [[Code]]( )
 
 - **Some Theoretical Aspects of Boosting in the Presence of Noisy Data (ICML 2001)**
   - Wenxin Jiang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=2494A2C06ACA22FA971AC1C29B53FF62?doi=10.1.1.27.7231&rep=rep1&type=pdf)
 
 - **Filters, Wrappers and a Boosting-Based Hybrid for Feature Selection (ICML 2001)**
   - Sanmay Das
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/93b6/25a0e35b59fa6a3e7dc1cbdb31268d62d69f.pdf)
 
 - **The distributed boosting algorithm (KDD 2001)**
   - Aleksandar Lazarevic, Zoran Obradovic
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/2488971_The_Distributed_Boosting_Algorithm)
 
 - **Experimental comparisons of online and batch versions of bagging and boosting (KDD 2001)**
   - Nikunj C. Oza, Stuart J. Russell
-  - [[Paper]]( )
+  - [[Paper]](https://people.eecs.berkeley.edu/~russell/papers/kdd01-online.pdf)
   - [[Code]]( )
 
 - **Semi-supervised MarginBoost (NIPS 2001)**
   - Florence d'Alché-Buc, Yves Grandvalet, Christophe Ambroise
-  - [[Paper]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/2197/f1c2d55827b6928cc80030922569acce2d6c.pdf)
   - [[Code]]( )
 
 - **Boosting and Maximum Likelihood for Exponential Models (NIPS 2001)**
   - Guy Lebanon, John D. Lafferty
-  - [[Paper]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2042-boosting-and-maximum-likelihood-for-exponential-models.pdf)
   - [[Code]]( )
 
 - **Fast and Robust Classification using Asymmetric AdaBoost and a Detector Cascade (NIPS 2001)**
