@@ -242,11 +242,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Using Spatial Order to Boost the Elimination of Incorrect Feature Matches (CVPR 2016)**
-  - Lior Talker, Yael Moses, Ilan Shimshoni
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Logistic Boosting Regression for Label Distribution Learning (CVPR 2016)**
   - Chao Xing, Xin Geng, Hui Xue
   - [[Paper]]( )
@@ -318,10 +313,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2015
-- **Probabilistic Graphical Models for Boosting Cardinal and Ordinal Peer Grading in MOOCs (AAAI 2015)**
-  - Fei Mi, Dit-Yan Yeung
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Online Boosting Algorithms for Anytime Transfer and Multitask Learning (AAAI 2015)**
   - Boyu Wang, Joelle Pineau
@@ -358,17 +349,12 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Boosting Object Proposals: From Pascal to COCO (ICCV 2015)**
-  - Jordi Pont-Tuset, Luc J. Van Gool
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Optimal and Adaptive Algorithms for Online Boosting (ICML 2015)**
   - Alina Beygelzimer, Satyen Kale, Haipeng Luo
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Rademacher Observations%2C Private Data%2C and Boosting (ICML 2015)**
+- **Rademacher Observations, Private Data, and Boosting (ICML 2015)**
   - Richard Nock, Giorgio Patrini, Arik Friedman
   - [[Paper]]( )
   - [[Code]]( )
