@@ -146,11 +146,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **IDAE: Imputation-boosted Denoising Autoencoder for Collaborative Filtering (CIKM 2017)**
-  - Jae-woong Lee, Jongwuk Lee
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **A Way to Boost Semi-NMF for Document Clustering (CIKM 2017)**
   - Aghiles Salah, Melissa Ailem, Mohamed Nadif
   - [[Paper]]( )
@@ -166,18 +161,8 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Boosting Image Captioning with Attributes (ICCV 2017)**
-  - Ting Yao, Yingwei Pan, Yehao Li, Zhaofan Qiu, Tao Mei
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **An Analysis of Boosted Linear Classifiers on Noisy Data with Applications to Multiple-Instance Learning (ICDM 2017)**
   - Rui Liu, Soumya Ray
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Deep Learning Risk Prediction with Generative Adversarial Networks for Electronic Health Records (ICDM 2017)**
-  - Zhengping Che, Yu Cheng, Shuangfei Zhai, Zhaonan Sun, Yan Liu
   - [[Paper]]( )
   - [[Code]]( )
 
