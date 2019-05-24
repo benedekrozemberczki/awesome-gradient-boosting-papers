@@ -1298,80 +1298,46 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2006
-- **Boosting Expert Ensembles for Rapid Concept Recall (AAAI 2006)**
-  - Achim Rettinger, Martin Zinkevich, Michael H. Bowling
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Gradient Boosting for Sequence Alignment (AAAI 2006)**
   - Charles Parker, Alan Fern, Prasad Tadepalli
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Meaningful Clustering of Senses Helps Boost Word Sense Disambiguation Performance (ACL 2006)**
-  - Roberto Navigli
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Statistical Word Alignment Using Labeled and Unlabeled Data (ACL 2006)**
-  - Hua Wu, Haifeng Wang, Zhanyi Liu
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting relevance model performance with query term dependence (CIKM 2006)**
-  - Koji Eguchi, W. Bruce Croft
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Unsupervised Relation Extraction by Using NER (EMNLP 2006)**
-  - Ronen Feldman, Benjamin Rosenfeld
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://web.engr.oregonstate.edu/~afern/papers/aaai06-align.pdf)
 
 - **Boosting Kernel Models for Regression (ICDM 2006)**
   - Ping Sun, Xin Yao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.bham.ac.uk/~xin/papers/icdm06SunYao.pdf)
 
 - **Boosting for Learning Multiple Classes with Imbalanced Class Distribution (ICDM 2006)**
   - Yanmin Sun, Mohamed S. Kamel, Yang Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://people.ee.duke.edu/~lcarin/ImbalancedClassDistribution.pdf)
 
 - **Boosting the Feature Space: Text Classification for Unstructured Data on the Web (ICDM 2006)**
   - Yang Song, Ding Zhou, Jian Huang, Isaac G. Councill, Hongyuan Zha, C. Lee Giles
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://sonyis.me/paperpdf/icdm06_song.pdf)
 
 - **Totally corrective boosting algorithms that maximize the margin (ICML 2006)**
   - Manfred K. Warmuth, Jun Liao, Gunnar Rätsch
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://users.soe.ucsc.edu/~manfred/pubs/C75.pdf)
+  
 - **How boosting the margin can also boost classifier complexity (ICML 2006)**
   - Lev Reyzin, Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://rob.schapire.net/papers/boost_complexity.pdf)
 
 - **Multiclass boosting with repartitioning (ICML 2006)**
   - Ling Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://authors.library.caltech.edu/72259/1/p569-li.pdf)
 
 - **AdaBoost is Consistent (NIPS 2006)**
   - Peter L. Bartlett, Mikhail Traskin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://jmlr.csail.mit.edu/papers/volume8/bartlett07b/bartlett07b.pdf)
 
 - **Boosting Structured Prediction for Imitation Learning (NIPS 2006)**
   - Nathan D. Ratliff, David M. Bradley, J. Andrew Bagnell, Joel E. Chestnutt
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3154-boosting-structured-prediction-for-imitation-learning.pdf)
 
 - **Chained Boosting (NIPS 2006)**
   - Christian R. Shelton, Wesley Huie, Kin Fai Kan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2981-chained-boosting)
 
 ## 2005
 - **Semantic Place Classification of Indoor Environments with Mobile Robots Using Boosting (AAAI 2005)**
