@@ -1487,43 +1487,35 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Training conditional random fields via gradient tree boosting (ICML 2004)**
   - Thomas G. Dietterich, Adam Ashenfelter, Yaroslav Bulatov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://web.engr.oregonstate.edu/~tgd/publications/ml2004-treecrf.pdf)
 
 - **Boosting margin based distance functions for clustering (ICML 2004)**
   - Tomer Hertz, Aharon Bar-Hillel, Daphna Weinshall
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.huji.ac.il/~daphna/papers/distboost-icml.pdf)
 
 - **Column-generation boosting methods for mixture of kernels (KDD 2004)**
   - Jinbo Bi, Tong Zhang, Kristin P. Bennett
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.6359&rep=rep1&type=pdf)
 
 - **Optimal Aggregation of Classifiers and Boosting Maps in Functional Magnetic Resonance Imaging (NIPS 2004)**
   - Vladimir Koltchinskii, Manel Martínez-Ramón, Stefan Posse
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2699-optimal-aggregation-of-classifiers-and-boosting-maps-in-functional-magnetic-resonance-imaging.pdf)
 
 - **Boosting on Manifolds: Adaptive Regularization of Base Classifiers (NIPS 2004)**
   - Balázs Kégl, Ligen Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2613-boosting-on-manifolds-adaptive-regularization-of-base-classifiers)
 
 - **Contextual Models for Object Detection Using Boosted Random Fields (NIPS 2004)**
   - Antonio Torralba, Kevin P. Murphy, William T. Freeman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.ubc.ca/~murphyk/Papers/BRF-nips04-camera.pdf)
 
 - **Generalization Error and Algorithmic Convergence of Median Boosting (NIPS 2004)**
   - Balázs Kégl
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.8990&rep=rep1&type=pdf)
 
 - **An Application of Boosting to Graph Classification (NIPS 2004)**
   - Taku Kudo, Eisaku Maeda, Yuji Matsumoto
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2739-an-application-of-boosting-to-graph-classification)
 
 ## 2003
 - **On Boosting and the Exponential Loss (AISTATS 2003)**
