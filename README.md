@@ -961,103 +961,79 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2008
 - **Group-based learning: a boosting approach (CIKM 2008)**
   - Weijian Ni, Jun Xu, Hang Li, Yalou Huang
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting social annotations using propagation (CIKM 2008)**
-  - Shenghua Bao, Bohai Yang, Ben Fei, Shengliang Xu, Zhong Su, Yong Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.bigdatalab.ac.cn/~junxu/publications/CIKM2008_GroupLearn.pdf)
 
 - **Semi-supervised boosting using visual similarity learning (CVPR 2008)**
   - Christian Leistner, Helmut Grabner, Horst Bischof
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.7914&rep=rep1&type=pdf)
 
 - **Mining compositional features for boosting (CVPR 2008)**
   - Junsong Yuan, Jiebo Luo, Ying Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4587347)
 
 - **Boosted deformable model for human body alignment (CVPR 2008)**
   - Xiaoming Liu, Ting Yu, Thomas Sebastian, Peter H. Tu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cse.msu.edu/~liuxm/publication/Liu_Yu_Sebastian_Tu_cvpr08.pdf)
 
 - **Discriminative modeling by Boosting on Multilevel Aggregates (CVPR 2008)**
   - Jason J. Corso
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.409.3166&rep=rep1&type=pdf)
 
 - **Face alignment via boosted ranking model (CVPR 2008)**
   - Hao Wu, Xiaoming Liu, Gianfranco Doretto
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://ieeexplore.ieee.org/document/4587753)
+  
 - **Boosting adaptive linear weak classifiers for online learning and tracking (CVPR 2008)**
   - Toufiq Parag, Fatih Porikli, Ahmed M. Elgammal
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.merl.com/publications/docs/TR2008-065.pdf)
 
 - **Detection with multi-exit asymmetric boosting (CVPR 2008)**
   - Minh-Tri Pham, V-D. D. Hoang, Tat-Jen Cham
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.6364&rep=rep1&type=pdf)
 
 - **Boosting ordinal features for accurate and fast iris recognition (CVPR 2008)**
   - Zhaofeng He, Zhenan Sun, Tieniu Tan, Xianchao Qiu, Cheng Zhong, Wenbo Dong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/224323296_Boosting_ordinal_features_for_accurate_and_fast_iris_recognition)
 
 - **Adaptive and compact shape descriptor by progressive feature combination and selection with boosting (CVPR 2008)**
   - Cheng Chen, Yueting Zhuang, Jun Xiao, Fei Wu
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://ieeexplore.ieee.org/document/4587613)
+  
 - **Boosting Relational Sequence Alignments (ICDM 2008)**
   - Andreas Karwath, Kristian Kersting, Niels Landwehr
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.uni-potsdam.de/~landwehr/ICDM08boosting.pdf)
 
 - **Boosting with incomplete information (ICML 2008)**
   - Gholamreza Haffari, Yang Wang, Shaojun Wang, Greg Mori, Feng Jiao
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](http://users.monash.edu.au/~gholamrh/publications/boosting_icml08_slides.pdf)
+  
 - **ManifoldBoost: stagewise function approximation for fully-, semi- and un-supervised learning (ICML 2008)**
   - Nicolas Loeff, David A. Forsyth, Deepak Ramachandran
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://reason.cs.uiuc.edu/deepak/manifoldboost.pdf)
 
 - **Random classification noise defeats all convex potential boosters (ICML 2008)**
   - Philip M. Long, Rocco A. Servedio
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://phillong.info/publications/LS09_potential.pdf)
 
 - **Multi-class cost-sensitive boosting with p-norm loss functions (KDD 2008)**
   - Aurelie C. Lozano, Naoki Abe
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1401953)
 
 - **MCBoost: Multiple Classifier Boosting for Perceptual Co-clustering of Images and Visual Features (NIPS 2008)**
   - Tae-Kyun Kim, Roberto Cipolla
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3483-mcboost-multiple-classifier-boosting-for-perceptual-co-clustering-of-images-and-visual-features)
 
 - **PSDBoost: Matrix-Generation Linear Programming for Positive Semidefinite Matrices Learning (NIPS 2008)**
   - Chunhua Shen, Alan Welsh, Lei Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.879.7750&rep=rep1&type=pdf)
 
-- **On the Design of Loss Functions for Classification: theory%2C robustness to outliers%2C and SavageBoost (NIPS 2008)**
+- **On the Design of Loss Functions for Classification: theory, robustness to outliers, and SavageBoost (NIPS 2008)**
   - Hamed Masnadi-Shirazi, Nuno Vasconcelos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3591-on-the-design-of-loss-functions-for-classification-theory-robustness-to-outliers-and-savageboost)
 
 - **Adaptive Martingale Boosting (NIPS 2008)**
   - Philip M. Long, Rocco A. Servedio
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://phillong.info/publications/LS08_adaptive_martingale_boosting.pdf)
 
 ## 2007
 
