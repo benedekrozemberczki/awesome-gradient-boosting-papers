@@ -1376,83 +1376,55 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2005
 - **Semantic Place Classification of Indoor Environments with Mobile Robots Using Boosting (AAAI 2005)**
   - Axel Rottmann, Óscar Martínez Mozos, Cyrill Stachniss, Wolfram Burgard
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **On Boosting Semantic Web Data Access (AAAI 2005)**
-  - Li Ding
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Sex Identification Performance (AAAI 2005)**
-  - Shumeet Baluja, Henry A. Rowley
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Semantic Web Data Access Using Swoogle (AAAI 2005)**
-  - Li Ding, Timothy W. Finin
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/rottmann05aaai.pdf)
+  
 - **Boosting-based Parse Reranking with Subtree Features (ACL 2005)**
   - Taku Kudo, Jun Suzuki, Hideki Isozaki
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://chasen.org/~taku/publications/acl2005.pdf)
 
 - **Using RankBoost to compare retrieval systems (CIKM 2005)**
   - Huyen-Trang Vu, Patrick Gallinari
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.9470&rep=rep1&type=pdf)
 
 - **Classifier Fusion Using Shared Sampling Distribution for Boosting (ICDM 2005)**
   - Costin Barbu, Raja Tanveer Iqbal, Jing Peng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/1565659)
 
 - **Semi-Supervised Mixture of Kernels via LPBoost Methods (ICDM 2005)**
   - Jinbo Bi, Glenn Fung, Murat Dundar, R. Bharat Rao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/1565728)
 
 - **Efficient discriminative learning of Bayesian network classifier via boosted augmented naive Bayes (ICML 2005)**
   - Yushi Jing, Vladimir Pavlovic, James M. Rehg
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://mrl.isr.uc.pt/pub/bscw.cgi/d27355/Jing05Efficient.pdf)
 
 - **Unifying the error-correcting and output-code AdaBoost within the margin framework (ICML 2005)**
   - Yijun Sun, Sinisa Todorovic, Jian Li, Dapeng Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.4246&rep=rep1&type=pdf)
 
 - **A smoothed boosting algorithm using probabilistic output codes (ICML 2005)**
   - Rong Jin, Jian Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.stat.purdue.edu/~jianzhan/papers/icml05jin.pdf)
 
 - **Robust boosting and its relation to bagging (KDD 2005)**
   - Saharon Rosset
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.tau.ac.il/~saharon/papers/bagboost.pdf)
 
 - **Efficient computations via scalable sparse kernel partial least squares and boosted latent features (KDD 2005)**
   - Michinari Momma
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.387.2078&rep=rep1&type=pdf)
 
 - **Multiple Instance Boosting for Object Detection (NIPS 2005)**
   - Paul A. Viola, John C. Platt, Cha Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.8312&rep=rep1&type=pdf)
 
 - **Convergence and Consistency of Regularized Boosting Algorithms with Stationary B-Mixing Observations (NIPS 2005)**
   - Aurelie C. Lozano, Sanjeev R. Kulkarni, Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://www.cs.princeton.edu/~schapire/papers/betamix.pdf)
+  
 - **Obtaining Calibrated Probabilities from Boosting (UAI 2005)**
   - Alexandru Niculescu-Mizil, Rich Caruana
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.cornell.edu/~caruana/niculescu.scldbst.crc.rev4.pdf)
 
 ## 2004
 
