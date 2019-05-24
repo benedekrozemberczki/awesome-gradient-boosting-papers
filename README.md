@@ -865,135 +865,98 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2009
-- **Using opinion-based features to boost sentence retrieval (CIKM 2009)**
-  - Ronald T. Fernández, David E. Losada
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Exploiting term relationship to boost text classification (CIKM 2009)**
-  - Dou Shen, Jianmin Wu, Bin Cao, Jian-Tao Sun, Qiang Yang, Zheng Chen, Ying Li
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Feature selection for ranking using boosted trees (CIKM 2009)**
   - Feng Pan, Tim Converse, David Ahn, Franco Salvetti, Gianluca Donato
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.francosalvetti.com/cikm09_camera2.pdf)
 
 - **Boosting KNN text classification accuracy by using supervised term weighting schemes (CIKM 2009)**
   - Iyad Batal, Milos Hauskrecht
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://people.cs.pitt.edu/~milos/research/CIKM_2009_boosting_KNN.pdf)
+  
 - **Stochastic gradient boosted distributed decision trees (CIKM 2009)**
   - Jerry Ye, Jyh-Herng Chow, Jiang Chen, Zhaohui Zheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://cse.iitrpr.ac.in/ckn/courses/f2012/thomas.pdf)
 
 - **A general magnitude-preserving boosting algorithm for search ranking (CIKM 2009)**
   - Chenguang Zhu, Weizhu Chen, Zeyuan Allen Zhu, Gang Wang, Dong Wang, Zheng Chen
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Reducing JointBoost-based multiclass classification to proximity search (CVPR 2009)**
+  - [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cikm2009-1.pdf)
+  
+- **Reducing Joint Boost-based multiclass classification to proximity search (CVPR 2009)**
   - Alexandra Stefan, Vassilis Athitsos, Quan Yuan, Stan Sclaroff
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.semanticscholar.org/paper/Reducing-JointBoost-based-multiclass-classification-Stefan-Athitsos/08ba1a7d91ce9b4ac26869bfe4bb7c955b0d1a24)
 
 - **Imbalanced RankBoost for efficiently ranking large-scale image%2Fvideo collections (CVPR 2009)**
   - Michele Merler, Rong Yan, John R. Smith
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.semanticscholar.org/paper/Imbalanced-RankBoost-for-efficiently-ranking-Merler-Yan/031ba6bf0d6df8bd3aa686ce85791b7d74f0b6d5)
 
 - **Regularized multi-class semi-supervised boosting (CVPR 2009)**
   - Amir Saffari, Christian Leistner, Horst Bischof
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/5206715)
 
 - **Learning to associate: HybridBoosted multi-target tracker for crowded scene (CVPR 2009)**
   - Yuan Li, Chang Huang, Ram Nevatia
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.8335&rep=rep1&type=pdf)
 
 - **Boosted multi-task learning for face verification with applications to web image and video search (CVPR 2009)**
   - Xiaogang Wang, Cha Zhang, Zhengyou Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/webface.pdf)
 
 - **LidarBoost: Depth superresolution for ToF 3D shape scanning (CVPR 2009)**
   - Sebastian Schuon, Christian Theobalt, James E. Davis, Sebastian Thrun
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://ai.stanford.edu/~schuon/sr/cvpr09_poster_lidarboost.pdf)
 
 - **Model Adaptation via Model Interpolation and Boosting for Web Search Ranking (EMNLP 2009)**
   - Jianfeng Gao, Qiang Wu, Chris Burges, Krysta Marie Svore, Yi Su, Nazan Khan, Shalin Shah, Hongyan Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/7a82/66335d0b44596574588eabb090bfeae4ab35.pdf)
 
 - **Finding shareable informative patterns and optimal coding matrix for multiclass boosting (ICCV 2009)**
   - Bang Zhang, Getian Ye, Yang Wang, Jie Xu, Gunawan Herman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5459146)
 
-- **RankBoost with l1 regularization for facial expression recognition and intensity estimation (ICCV 2009)**
+- **RankBoost with L1 regularization for facial expression recognition and intensity estimation (ICCV 2009)**
   - Peng Yang, Qingshan Liu, Dimitris N. Metaxas
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5459371)
 
 - **A robust boosting tracker with minimum error bound in a co-training framework (ICCV 2009)**
   - Rong Liu, Jian Cheng, Hanqing Lu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://nlpr-web.ia.ac.cn/2009papers/gjhy/gh1.pdf)
 
 - **Tutorial summary: Survey of boosting from an optimization perspective (ICML 2009)**
   - Manfred K. Warmuth, S. V. N. Vishwanathan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.stat.purdue.edu/~vishy/erlpboost/manfred.pdf)
 
 - **Boosting products of base classifiers (ICML 2009)**
   - Balázs Kégl, Róbert Busa-Fekete
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Invited talk: Drifting games%2C boosting and online learning (ICML 2009)**
-  - Yoav Freund
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://users.lal.in2p3.fr/kegl/research/PDFs/keglBusafekete09.pdf)
 
 - **ABC-boost: adaptive base class boost for multi-class classification (ICML 2009)**
   - Ping Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://icml.cc/Conferences/2009/papers/417.pdf)
 
 - **Boosting with structural sparsity (ICML 2009)**
   - John C. Duchi, Yoram Singer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://web.stanford.edu/~jduchi/projects/DuchiSi09a.pdf)
 
 - **Boosting Constrained Mutual Subspace Method for Robust Image-Set Based Object Recognition (IJCAI 2009)**
   - Xi Li, Kazuhiro Fukui, Nanning Zheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/220812439_Boosting_Constrained_Mutual_Subspace_Method_for_Robust_Image-Set_Based_Object_Recognition)
 
 - **Information theoretic regularization for semi-supervised boosting (KDD 2009)**
   - Lei Zheng, Shaojun Wang, Yan Liu, Chi-Hoon Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/5255/242d50851ce56354e10ae8fdcee6f47591c9.pdf)
 
 - **Potential-Based Agnostic Boosting (NIPS 2009)**
   - Adam Kalai, Varun Kanade
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3676-potential-based-agnostic-boosting)
 
 - **Positive Semidefinite Metric Learning with Boosting (NIPS 2009)**
   - Chunhua Shen, Junae Kim, Lei Wang, Anton van den Hengel
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3658-positive-semidefinite-metric-learning-with-boosting)
 
 - **Boosting with Spatial Regularization (NIPS 2009)**
   - Zhen James Xiang, Yongxin Taylor Xi, Uri Hasson, Peter J. Ramadge
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3696-boosting-with-spatial-regularization)
 
 ## 2008
 - **Group-based learning: a boosting approach (CIKM 2008)**
