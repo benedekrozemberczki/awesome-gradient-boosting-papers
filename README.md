@@ -1455,35 +1455,26 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2004
-- **Methods for Boosting Revenue in Combinatorial Auctions (AAAI 2004)**
-  - Anton Likhodedov, Tuomas Sandholm
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Online Parallel Boosting (AAAI 2004)**
   - Jesse A. Reichler, Harlan D. Harris, Michael A. Savchenko
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/AAAI/2004/AAAI04-059.pdf)
 
 - **A Boosting Algorithm for Classification of Semi-Structured Text (EMNLP 2004)**
   - Taku Kudo, Yuji Matsumoto
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/W04-3239)
 
 - **Text Classification by Boosting Weak Learners based on Terms and Concepts (ICDM 2004)**
   - Stephan Bloehdorn, Andreas Hotho
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/1410303)
 
 - **Boosting grammatical inference with confidence oracles (ICML 2004)**
   - Jean-Christophe Janodet, Richard Nock, Marc Sebban, Henri-Maxime Suchier
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www1.univ-ag.fr/~rnock/Articles/Drafts/icml04-jnss.pdf)
 
-- **Surrogate maximization%2Fminimization algorithms for AdaBoost and the logistic regression model (ICML 2004)**
+- **Surrogate maximization/minimization algorithms for AdaBoost and the logistic regression model (ICML 2004)**
   - Zhihua Zhang, James T. Kwok, Dit-Yan Yeung
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://icml.cc/Conferences/2004/proceedings/papers/77.pdf)
 
 - **Training conditional random fields via gradient tree boosting (ICML 2004)**
   - Thomas G. Dietterich, Adam Ashenfelter, Yaroslav Bulatov
