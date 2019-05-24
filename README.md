@@ -1061,7 +1061,7 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **ManifoldBoost: stagewise function approximation for fully-%2C semi- and un-supervised learning (ICML 2008)**
+- **ManifoldBoost: stagewise function approximation for fully-, semi- and un-supervised learning (ICML 2008)**
   - Nicolas Loeff, David A. Forsyth, Deepak Ramachandran
   - [[Paper]]( )
   - [[Code]]( )
@@ -1097,10 +1097,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2007
-- **Boosting Statistical Machine Translation by Lemmatization and Linear Interpolation (ACL 2007)**
-  - Ruiqiang Zhang, Eiichiro Sumita
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Using Error-Correcting Output Codes with Model-Refinement to Boost Centroid Text Classifier (ACL 2007)**
   - Songbo Tan
@@ -1177,11 +1173,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Boosting Invariance and Efficiency in Supervised Learning (ICCV 2007)**
-  - Andrea Vedaldi, Paolo Favaro, Enrico Grisan
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Incremental Learning of Boosted Face Detector (ICCV 2007)**
   - Chang Huang, Haizhou Ai, Takayoshi Yamashita, Shihong Lao, Masato Kawade
   - [[Paper]]( )
@@ -1189,113 +1180,79 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Gradient Feature Selection for Online Boosting (ICCV 2007)**
   - Xiaoming Liu, Ting Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cse.msu.edu/~liuxm/publication/Liu_Yu_ICCV2007.pdf)
 
 - **Fast training and selection of Haar features using statistics in boosting-based face detection (ICCV 2007)**
   - Minh-Tri Pham, Tat-Jen Cham
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.212.6173&rep=rep1&type=pdf)
 
 - **Cluster Boosted Tree Classifier for Multi-View%2C Multi-Pose Object Detection (ICCV 2007)**
   - Bo Wu, Ramakant Nevatia
   - [[Paper]]( )
-  - [[Code]]( )
 
 - **Asymmetric boosting (ICML 2007)**
   - Hamed Masnadi-Shirazi, Nuno Vasconcelos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.svcl.ucsd.edu/publications/conference/2007/icml07/AsymmetricBoosting.pdf)
 
 - **Boosting for transfer learning (ICML 2007)**
   - Wenyuan Dai, Qiang Yang, Gui-Rong Xue, Yong Yu
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](http://www.cs.ust.hk/~qyang/Docs/2007/tradaboost.pdf)
+  
 - **Gradient boosting for kernelized output spaces (ICML 2007)**
   - Pierre Geurts, Louis Wehenkel, Florence d'Alché-Buc
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.3970&rep=rep1&type=pdf)
 
 - **Boosting a Complete Technique to Find MSS and MUS Thanks to a Local Search Oracle (IJCAI 2007)**
   - Éric Grégoire, Bertrand Mazure, Cédric Piette
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cril.univ-artois.fr/~piette/IJCAI07_HYCAM.pdf)
 
 - **Training Conditional Random Fields Using Virtual Evidence Boosting (IJCAI 2007)**
   - Lin Liao, Tanzeem Choudhury, Dieter Fox, Henry A. Kautz
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Probabilistic Consistency Boosts MAC and SAC (IJCAI 2007)**
-  - Deepak Mehta, Marc R. C. van Dongen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/407.pdf)
 
 - **Simple Training of Dependency Parsers via Structured Boosting (IJCAI 2007)**
   - Qin Iris Wang, Dekang Lin, Dale Schuurmans
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/284.pdf)
 
 - **Real Boosting a la Carte with an Application to Boosting Oblique Decision Tree (IJCAI 2007)**
   - Claudia Henry, Richard Nock, Frank Nielsen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/135.pdf)
 
 - **Managing Domain Knowledge and Multiple Models with Boosting (IJCAI 2007)**
   - Peng Zang, Charles Lee Isbell Jr.
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Kernel Discriminant Analysis and Its Application on Tissue Classification of Gene Expression Data (IJCAI 2007)**
-  - Guang Dai, Dit-Yan Yeung
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **BoostCluster: boosting clustering by pairwise constraints (KDD 2007)**
-  - Yi Liu, Rong Jin, Anil K. Jain
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/185.pdf)
 
 - **Model-shared subspace boosting for multi-label classification (KDD 2007)**
   - Rong Yan, Jelena Tesic, John R. Smith
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://rogerioferis.com/VisualRecognitionAndSearch2014/material/papers/IMARSKDD2007.pdf)
 
 - **Regularized Boost for Semi-Supervised Learning (NIPS 2007)**
   - Ke Chen, Shihai Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3167-regularized-boost-for-semi-supervised-learning.pdf)
 
 - **Boosting Algorithms for Maximizing the Soft Margin (NIPS 2007)**
   - Manfred K. Warmuth, Karen A. Glocer, Gunnar Rätsch
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3374-boosting-algorithms-for-maximizing-the-soft-margin.pdf)
 
 - **McRank: Learning to Rank Using Multiple Classification and Gradient Boosting (NIPS 2007)**
   - Ping Li, Christopher J. C. Burges, Qiang Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3270-mcrank-learning-to-rank-using-multiple-classification-and-gradient-boosting.pdf)
 
 - **One-Pass Boosting (NIPS 2007)**
   - Zafer Barutçuoglu, Philip M. Long, Rocco A. Servedio
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://phillong.info/publications/BLS07_one_pass.pdf)
 
 - **Boosting the Area under the ROC Curve (NIPS 2007)**
   - Philip M. Long, Rocco A. Servedio
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3247-boosting-the-area-under-the-roc-curve.pdf)
 
 - **FilterBoost: Regression and Classification on Large Datasets (NIPS 2007)**
   - Joseph K. Bradley, Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://rob.schapire.net/papers/FilterBoost_paper.pdf)
 
 - **A General Boosting Method and its Application to Learning Ranking Functions for Web Search (NIPS 2007)**
   - Zhaohui Zheng, Hongyuan Zha, Tong Zhang, Olivier Chapelle, Keke Chen, Gordon Sun
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/8f8d/874a3f0217289ba317b1f6175ac3b6f73d70.pdf)
 
 ## 2006
 
