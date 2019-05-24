@@ -1528,63 +1528,47 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2003
 - **On Boosting and the Exponential Loss (AISTATS 2003)**
   - Abraham J. Wyner
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www-stat.wharton.upenn.edu/~ajw/exploss.ps)
 
 - **Boosting support vector machines for text classification through parameter-free threshold relaxation (CIKM 2003)**
   - James G. Shanahan, Norbert Roma
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=956911)
 
 - **Learning cross-document structural relationships using boosting (CIKM 2003)**
   - Zhu Zhang, Jahna Otterbacher, Dragomir R. Radev
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.7712&rep=rep1&type=pdf)
 
 - **Boosting Lazy Decision Trees (ICML 2003)**
   - Xiaoli Zhang Fern, Carla E. Brodley
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/ICML/2003/ICML03-026.pdf)
 
 - **On the Convergence of Boosting Procedures (ICML 2003)**
   - Tong Zhang, Bin Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/dd3f/901b232280533fbdb9e57f144f44723617cf.pdf)
 
 - **Linear Programming Boosting for Uneven Datasets (ICML 2003)**
   - Jure Leskovec, John Shawe-Taylor
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://cs.stanford.edu/people/jure/pubs/textbooster-icml03.pdf)
 
 - **Monte Carlo Theory as an Explanation of Bagging and Boosting (IJCAI 2003)**
   - Roberto Esposito, Lorenza Saitta
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Face Identification in Airports (IJCAI 2003)**
-  - Jimmy Jiang Liu, Kia-Fock Loe
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1630733)
 
 - **On the Dynamics of Boosting (NIPS 2003)**
   - Cynthia Rudin, Ingrid Daubechies, Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2535-on-the-dynamics-of-boosting)
 
 - **Mutual Boosting for Contextual Inference (NIPS 2003)**
   - Michael Fink, Pietro Perona
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2520-mutual-boosting-for-contextual-inference)
 
 - **Boosting versus Covering (NIPS 2003)**
   - Kohei Hatano, Manfred K. Warmuth
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2532-boosting-versus-covering)
 
 - **Multiple-Instance Learning via Disjunctive Programming Boosting (NIPS 2003)**
   - Stuart Andrews, Thomas Hofmann
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2478-multiple-instance-learning-via-disjunctive-programming-boosting)
 
 ## 2002
 
