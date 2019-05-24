@@ -1634,23 +1634,23 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **FloatBoost Learning for Classification (NIPS 2002)**
   - Stan Z. Li, ZhenQiu Zhang, Heung-Yeung Shum, HongJiang Zhang
-  - [[Paper]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/8ccc/5ef87eab96a4cae226750eba8322b30606ea.pdf)
 
 - **Discriminative Learning for Label Sequences via Boosting (NIPS 2002)**
   - Yasemin Altun, Thomas Hofmann, Mark Johnson
-  - [[Paper]]( )
+  - [[Paper]](http://web.science.mq.edu.au/~mjohnson/papers/nips02.pdf)
 
 - **Boosting Density Estimation (NIPS 2002)**
   - Saharon Rosset, Eran Segal
-  - [[Paper]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2298-boosting-density-estimation.pdf)
 
 - **Self Supervised Boosting (NIPS 2002)**
   - Max Welling, Richard S. Zemel, Geoffrey E. Hinton
-  - [[Paper]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/6a2a/f112a803e70c23b7055de2e73007cf42c301.pdf)
 
 - **Boosted Dyadic Kernel Discriminants (NIPS 2002)**
   - Baback Moghaddam, Gregory Shakhnarovich
-  - [[Paper]]( )
+  - [[Paper]](http://www.merl.com/publications/docs/TR2002-55.pdf)
 
 - **Staged Mixture Modelling and Boosting (UAI 2002)**
   - Christopher Meek, Bo Thiesson, David Heckerman
