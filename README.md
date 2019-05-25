@@ -28,7 +28,7 @@ A curated list of gradient and adaptive boosting papers with implementations fro
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
-A similar collection about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [decision trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 ## 2018
 - **Boosted Generative Models (AAAI 2018)**
   - Aditya Grover, Stefano Ermon
