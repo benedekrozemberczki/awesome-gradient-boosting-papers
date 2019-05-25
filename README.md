@@ -523,118 +523,99 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2011
 - **Selective Transfer Between Learning Tasks Using Task-Based Boosting (AAAI 2011)**
   - Eric Eaton, Marie desJardins
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cis.upenn.edu/~eeaton/papers/Eaton2011Selective.pdf)
 
 - **Incorporating Boosted Regression Trees into Ecological Latent Variable Models (AAAI 2011)**
   - Rebecca A. Hutchinson, Li-Ping Liu, Thomas G. Dietterich
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3711/4086)
 
 - **FlowBoost - Appearance learning from sparsely annotated video (CVPR 2011)**
   - Karim Ali, David Hasler, François Fleuret
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.karimali.org/publications/AHF_CVPR11.pdf)
 
 - **AdaBoost on low-rank PSD matrices for metric learning (CVPR 2011)**
   - Jinbo Bi, Dijia Wu, Le Lu, Meizhu Liu, Yimo Tao, Matthias Wolf
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995363)
 
 - **Boosted local structured HOG-LBP for object localization (CVPR 2011)**
   - Junge Zhang, Kaiqi Huang, Yinan Yu, Tieniu Tan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cbsr.ia.ac.cn/users/ynyu/1682.pdf)
 
 - **A direct formulation for totally-corrective multi-class boosting (CVPR 2011)**
   - Chunhua Shen, Zhihui Hao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5995554)
 
 - **Gated classifiers: Boosting under high intra-class variation (CVPR 2011)**
   - Oscar M. Danielsson, Babak Rasolzadeh, Stefan Carlsson
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.nada.kth.se/cvap/cvg/papers/danielssonCVPR11.pdf)
 
 - **TaylorBoost: First and second-order boosting algorithms with explicit margin control (CVPR 2011)**
   - Mohammad J. Saberian, Hamed Masnadi-Shirazi, Nuno Vasconcelos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5995605)
+  - [[Code]](https://pythonhosted.org/bob.learn.boosting/)
 
 - **Robust and efficient regularized boosting using total Bregman divergence (CVPR 2011)**
   - Meizhu Liu, Baba C. Vemuri
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5995686)
 
 - **Treat samples differently: Object tracking with semi-supervised online CovBoost (ICCV 2011)**
   - Guorong Li, Lei Qin, Qingming Huang, Junbiao Pang, Shuqiang Jiang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6126297)
 
 - **LinkBoost: A Novel Cost-Sensitive Boosting Framework for Community-Level Network Link Prediction (ICDM 2011)**
   - Prakash Mandayam Comar, Pang-Ning Tan, Anil K. Jain
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cse.msu.edu/~ptan/papers/icdm2011.pdf)
 
 - **Learning Markov Logic Networks via Functional Gradient Boosting (ICDM 2011)**
   - Tushar Khot, Sriraam Natarajan, Kristian Kersting, Jude W. Shavlik
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://github.com/starling-lab/BoostSRL)
+  - [[Code]](https://ieeexplore.ieee.org/document/6137236)
 
 - **Boosting on a Budget: Sampling for Feature-Efficient Prediction (ICML 2011)**
   - Lev Reyzin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.icml-2011.org/papers/348_icmlpaper.pdf)
 
 - **Multiclass Boosting with Hinge Loss based on Output Coding (ICML 2011)**
   - Tianshi Gao, Daphne Koller
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://ai.stanford.edu/~tianshig/papers/multiclassHingeBoost-ICML2011.pdf)
+  - [[Code]](https://github.com/memect/hao/blob/master/awesome/multiclass-boosting.md)
 
 - **Generalized Boosting Algorithms for Convex Optimization (ICML 2011)**
   - Alexander Grubb, Drew Bagnell
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1105.2054.pdf)
 
 - **Imitation Learning in Relational Domains: A Functional-Gradient Boosting Approach (IJCAI 2011)**
   - Sriraam Natarajan, Saket Joshi, Prasad Tadepalli, Kristian Kersting, Jude W. Shavlik
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://ftp.cs.wisc.edu/machine-learning/shavlik-group/natarajan.ijcai11.pdf)
 
 - **Boosting with Maximum Adaptive Sampling (NIPS 2011)**
   - Charles Dubout, François Fleuret
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4310-boosting-with-maximum-adaptive-sampling)
 
 - **The Fast Convergence of Boosting (NIPS 2011)**
   - Matus Telgarsky
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4343-the-fast-convergence-of-boosting)
 
 - **ShareBoost: Efficient multiclass learning with feature sharing (NIPS 2011)**
   - Shai Shalev-Shwartz, Yonatan Wexler, Amnon Shashua
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4213-shareboost-efficient-multiclass-learning-with-feature-sharing)
 
 - **Multiclass Boosting: Theory and Algorithms (NIPS 2011)**
   - Mohammad J. Saberian, Nuno Vasconcelos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4450-multiclass-boosting-theory-and-algorithms.pdf)
 
 - **Variance Penalizing AdaBoost (NIPS 2011)**
   - Pannagadatta K. Shivaswamy, Tony Jebara
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4207-variance-penalizing-adaboost.pdf)
 
 - **Boosting as a Product of Experts (UAI 2011)**
   - Narayanan Unny Edakunni, Gary Brown, Tim Kovacs
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1202.3716)
 
 - **Parallel boosted regression trees for web search ranking (WWW 2011)**
   - Stephen Tyree, Kilian Q. Weinberger, Kunal Agrawal, Jennifer Paykin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.cornell.edu/~kilian/papers/fr819-tyreeA.pdf)
+  - [[Code]](https://github.com/YS-L/pgbm)
 
 ## 2010
 - **The Boosting Effect of Exploratory Behaviors (AAAI 2010)**
