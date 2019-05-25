@@ -342,11 +342,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Boosting SBDS for Partial Symmetry Breaking in Constraint Programming (AAAI 2014)**
-  - Jimmy H. M. Lee, Zichen Zhu
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Joint Coupled-Feature Representation and Coupled Boosting for AD Diagnosis (CVPR 2014)**
   - Yinghuan Shi, Heung-Il Suk, Yang Gao, Dinggang Shen
   - [[Paper]]( )
@@ -382,7 +377,7 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **A Convergence Rate Analysis for LogitBoost%2C MART and Their Variant (ICML 2014)**
+- **A Convergence Rate Analysis for LogitBoost, MART and Their Variant (ICML 2014)**
   - Peng Sun, Tong Zhang, Jie Zhou
   - [[Paper]]( )
   - [[Code]]( )
@@ -422,7 +417,7 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Deconvolution of High Dimensional Mixtures via Boosting%2C with Application to Diffusion-Weighted MRI of Human Brain (NIPS 2014)**
+- **Deconvolution of High Dimensional Mixtures via Boosting with Application to Diffusion-Weighted MRI of Human Brain (NIPS 2014)**
   - Charles Y. Zheng, Franco Pestilli, Ariel Rokem
   - [[Paper]]( )
   - [[Code]]( )
@@ -438,18 +433,9 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Code]]( )
 
 ## 2013
-- **Entity-centric document filtering: boosting feature mapping through meta-features (CIKM 2013)**
-  - Mianwei Zhou, Kevin Chen-Chuan Chang
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Boosting Binary Keypoint Descriptors (CVPR 2013)**
   - Tomasz Trzcinski, C. Mario Christoudias, Pascal Fua, Vincent Lepetit
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Cross-Language Retrieval by Learning Bilingual Phrase Associations from Relevance Rankings (EMNLP 2013)**
-  - Artem Sokolov, Laura Jehl, Felix Hieber, Stefan Riezler
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -473,7 +459,7 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Margins%2C Shrinkage%2C and Boosting (ICML 2013)**
+- **Margins, Shrinkage, and Boosting (ICML 2013)**
   - Matus Telgarsky
   - [[Paper]]( )
   - [[Code]]( )
@@ -510,11 +496,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Non-Linear Domain Adaptation with Boosting (NIPS 2013)**
   - Carlos J. Becker, C. Mario Christoudias, Pascal Fua
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **SparsityBoost: A New Scoring Function for Learning Bayesian Network Structure (UAI 2013)**
-  - Eliot Brenner, David Sontag
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -576,16 +557,6 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Accelerated Training for Matrix-norm Regularization: A Boosting Approach (NIPS 2012)**
   - Xinhua Zhang, Yaoliang Yu, Dale Schuurmans
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Bandit Algorithms boost Brain Computer Interfaces for motor-task selection of a brain-controlled button (NIPS 2012)**
-  - Joan Fruitet, Alexandra Carpentier, Rémi Munos, Maureen Clerc
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Recommendations to boost content spread in social networks (WWW 2012)**
-  - Vineet Chaoji, Sayan Ranu, Rajeev Rastogi, Rushi Bhatt
   - [[Paper]]( )
   - [[Code]]( )
 
