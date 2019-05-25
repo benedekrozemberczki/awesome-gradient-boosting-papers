@@ -421,73 +421,57 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Boosting Binary Keypoint Descriptors (CVPR 2013)**
   - Tomasz Trzcinski, C. Mario Christoudias, Pascal Fua, Vincent Lepetit
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://cvlab.epfl.ch/research/page-90554-en-html/research-detect-binboost/)
+  - [[Code]](https://github.com/biotrump/cvlab-BINBOOST)
 
 - **PerturBoost: Practical Confidential Classifier Learning in the Cloud (ICDM 2013)**
   - Keke Chen, Shumin Guo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6729587)
 
 - **Multiclass Semi-Supervised Boosting Using Similarity Learning (ICDM 2013)**
   - Jafar Tanha, Mohammad Javad Saberian, Maarten van Someren
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cse.msu.edu/~rongjin/publications/MultiClass-08.pdf)
 
 - **Saving Evaluation Time for the Decision Function in Boosting: Representation and Reordering Base Learner (ICML 2013)**
   - Peng Sun, Jie Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v28/sun13.pdf)
 
 - **General Functional Matrix Factorization Using Gradient Boosting (ICML 2013)**
   - Tianqi Chen, Hang Li, Qiang Yang, Yong Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://w.hangli-hl.com/uploads/3/1/6/8/3168008/icml_2013.pdf)
 
 - **Margins, Shrinkage, and Boosting (ICML 2013)**
   - Matus Telgarsky
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1303.4172)
 
 - **Quickly Boosting Decision Trees - Pruning Underachieving Features Early (ICML 2013)**
   - Ron Appel, Thomas J. Fuchs, Piotr Dollár, Pietro Perona
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v28/appel13.pdf)
+  - [[Code]](https://github.com/pdollar/toolbox/blob/master/classify/adaBoostTrain.m)
 
 - **Human Boosting (ICML 2013)**
   - Harsh H. Pareek, Pradeep Ravikumar
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Cross-Lingual Knowledge Linking via Concept Annotation (IJCAI 2013)**
-  - Zhichun Wang, Juanzi Li, Jie Tang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.cmu.edu/~pradeepr/paperz/humanboosting.pdf)
 
 - **Collaborative boosting for activity classification in microblogs (KDD 2013)**
   - Yangqiu Song, Zhengdong Lu, Cane Wing-ki Leung, Qiang Yang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://chbrown.github.io/kdd-2013-usb/kdd/p482.pdf)
 
 - **Direct 0-1 Loss Minimization and Margin Maximization with Boosting (NIPS 2013)**
   - Shaodan Zhai, Tian Xia, Ming Tan, Shaojun Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5214-direct-0-1-loss-minimization-and-margin-maximization-with-boosting)
 
 - **Reservoir Boosting : Between Online and Offline Ensemble Learning (NIPS 2013)**
   - Leonidas Lefakis, François Fleuret
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5215-reservoir-boosting-between-online-and-offline-ensemble-learning)
 
 - **Non-Linear Domain Adaptation with Boosting (NIPS 2013)**
   - Carlos J. Becker, C. Mario Christoudias, Pascal Fua
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5200-non-linear-domain-adaptation-with-boosting)
 
 - **Boosting in the presence of label noise (UAI 2013)**
   - Jakramate Bootkrajang, Ata Kabán
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1309.6818)
 
 ## 2012
 - **Contextual boost for pedestrian detection (CVPR 2012)**
