@@ -202,83 +202,73 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2016
 - **Group Cost-Sensitive Boosting for Multi-Resolution Pedestrian Detection (AAAI 2016)**
   - Chao Zhu, Yuxin Peng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/11898/12146)
+  - [[Code]](https://github.com/nnikolaou/Cost-sensitive-Boosting-Tutorial)
 
 - **Communication Efficient Distributed Agnostic Boosting (AISTATS 2016)**
   - Shang-Tse Chen, Maria-Florina Balcan, Duen Horng Chau
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1506.06318)
 
 - **Logistic Boosting Regression for Label Distribution Learning (CVPR 2016)**
   - Chao Xing, Xin Geng, Hui Xue
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://zpascal.net/cvpr2016/Xing_Logistic_Boosting_Regression_CVPR_2016_paper.pdf)
 
 - **Structured Regression Gradient Boosting (CVPR 2016)**
   - Ferran Diego, Fred A. Hamprecht
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://hci.iwr.uni-heidelberg.de/sites/default/files/publications/files/1037872734/diego_16_structured.pdf)
+  
 - **L-EnsNMF: Boosted Local Topic Discovery via Ensemble of Nonnegative Matrix Factorization (ICDM 2016)**
   - Sangho Suh, Jaegul Choo, Joonseok Lee, Chandan K. Reddy
-  - [[Paper]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/7837872)
   - [[Code]](https://github.com/benedekrozemberczki/BoostedFactorization)
 
 - **Meta-Gradient Boosted Decision Tree Model for Weight and Target Learning (ICML 2016)**
   - Yury Ustinovskiy, Valentina Fedorova, Gleb Gusev, Pavel Serdyukov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v48/ustinovskiy16.html)
 
 - **Generalized Dictionary for Multitask Learning with Boosting (IJCAI 2016)**
   - Boyu Wang, Joelle Pineau
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/299.pdf)
 
 - **Self-Paced Boost Learning for Classification (IJCAI 2016)**
   - Te Pi, Xi Li, Zhongfei Zhang, Deyu Meng, Fei Wu, Jun Xiao, Yueting Zhuang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/31b6/ab4a0771d5b7405cacdd12c398b1c832729d.pdf)
 
 - **Interactive Martingale Boosting (IJCAI 2016)**
   - Ashish Kulkarni, Pushpak Burange, Ganesh Ramakrishnan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/124.pdf)
 
 - **Optimal and Adaptive Algorithms for Online Boosting (IJCAI 2016)**
   - Alina Beygelzimer, Satyen Kale, Haipeng Luo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/614.pdf)
+  - [[Code]](https://github.com/VowpalWabbit/vowpal_wabbit/blob/master/vowpalwabbit/boosting.cc)
 
 - **Rating-Boosted Latent Topics: Understanding Users and Items with Ratings and Reviews (IJCAI 2016)**
   - Yunzhi Tan, Min Zhang, Yiqun Liu, Shaoping Ma
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/db63/89e0ca49ec0e4686e40604e7489cb4c0729d.pdf)
 
 - **XGBoost: A Scalable Tree Boosting System (KDD 2016)**
   - Tianqi Chen, Carlos Guestrin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
+  - [[Code]](https://github.com/dmlc/xgboost)
 
 - **Boosted Decision Tree Regression Adjustment for Variance Reduction in Online Controlled Experiments (KDD 2016)**
   - Alexey Poyarkov, Alexey Drutsa, Andrey Khalyavin, Gleb Gusev, Pavel Serdyukov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.kdd.org/kdd2016/papers/files/adf0653-poyarkovA.pdf)
 
 - **Boosting with Abstention (NIPS 2016)**
   - Corinna Cortes, Giulia DeSalvo, Mehryar Mohri
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6336-boosting-with-abstention)
 
 - **SEBOOST - Boosting Stochastic Learning Using Subspace Optimization Techniques (NIPS 2016)**
   - Elad Richardson, Rom Herskovitz, Boris Ginsburg, Michael Zibulevsky
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6109-seboost-boosting-stochastic-learning-using-subspace-optimization-techniques.pdf)
+  - [[Code]](https://github.com/eladrich/seboost)
 
 - **Incremental Boosting Convolutional Neural Network for Facial Action Unit Recognition (NIPS 2016)**
   - Shizhong Han, Zibo Meng, Ahmed-Shehab Khan, Yan Tong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1707.05395)
+  - [[Code]](https://github.com/sjsingh91/IB-CNN)
 
 ## 2015
 
