@@ -274,78 +274,67 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Online Boosting Algorithms for Anytime Transfer and Multitask Learning (AAAI 2015)**
   - Boyu Wang, Joelle Pineau
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.mcgill.ca/~jpineau/files/bwang-aaai15.pdf)
 
 - **A Boosted Multi-Task Model for Pedestrian Detection with Occlusion Handling (AAAI 2015)**
   - Chao Zhu, Yuxin Peng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9879/9825)
 
 - **Efficient Second-Order Gradient Boosting for Conditional Random Fields (AISTATS 2015)**
   - Tianqi Chen, Sameer Singh, Ben Taskar, Carlos Guestrin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v38/chen15b.html)
 
 - **Tumblr Blog Recommendation with Boosted Inductive Matrix Completion (CIKM 2015)**
   - Donghyuk Shin, Suleyman Cetintas, Kuang-Chih Lee, Inderjit S. Dhillon
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2806578)
 
 - **Basis mapping based boosting for object detection (CVPR 2015)**
   - Haoyu Ren, Ze-Nian Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/7298766)
 
 - **Tracking-by-Segmentation with Online Gradient Boosting Decision Tree (ICCV 2015)**
   - Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Son_Tracking-by-Segmentation_With_Online_ICCV_2015_paper.pdf)
+  - [[Code]](http://cvlab.postech.ac.kr/research/ogbdt_track/)
 
 - **Learning to Boost Filamentary Structure Segmentation (ICCV 2015)**
   - Lin Gu, Li Cheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://isg.nist.gov/BII_2015/webPages/pages/2015_BII_program/PDFs/Day_3/Session_9/Abstract_Gu_Lin.pdf)
 
 - **Optimal and Adaptive Algorithms for Online Boosting (ICML 2015)**
   - Alina Beygelzimer, Satyen Kale, Haipeng Luo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v37/beygelzimer15.pdf)
+  - [[Code]](https://github.com/VowpalWabbit/vowpal_wabbit/blob/master/vowpalwabbit/boosting.cc)
 
 - **Rademacher Observations, Private Data, and Boosting (ICML 2015)**
   - Richard Nock, Giorgio Patrini, Arik Friedman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1502.02322)
 
 - **Boosted Categorical Restricted Boltzmann Machine for Computational Prediction of Splice Junctions (ICML 2015)**
   - Taehoon Lee, Sungroh Yoon
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/d0ad/beef3053e98dd88ff74f42744417bc65a729.pdf)
 
 - **A Direct Boosting Approach for Semi-supervised Classification (IJCAI 2015)**
   - Shaodan Zhai, Tian Xia, Zhongliang Li, Shaojun Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/565.pdf)
 
 - **A Boosting Algorithm for Item Recommendation with Implicit Feedback (IJCAI 2015)**
   - Yong Liu, Peilin Zhao, Aixin Sun, Chunyan Miao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/255.pdf)
+  - [[Code]](https://github.com/microsoft/recommenders)
 
 - **Training-Time Optimization of a Budgeted Booster (IJCAI 2015)**
   - Yi Huang, Brian Powers, Lev Reyzin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/15/Papers/504.pdf)
 
 - **Optimal Action Extraction for Random Forests and Boosted Trees (KDD 2015)**
   - Zhicheng Cui, Wenlin Chen, Yujie He, Yixin Chen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cse.wustl.edu/~ychen/public/OAE.pdf)
 
 - **Online Gradient Boosting (NIPS 2015)**
   - Alina Beygelzimer, Elad Hazan, Satyen Kale, Haipeng Luo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1506.04820)
+  - [[Code]](https://github.com/crm416/online_boosting)
 
 ## 2014
 - **On Boosting Sparse Parities (AAAI 2014)**
