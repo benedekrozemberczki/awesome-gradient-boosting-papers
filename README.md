@@ -339,98 +339,83 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2014
 - **On Boosting Sparse Parities (AAAI 2014)**
   - Lev Reyzin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8587)
 
 - **Joint Coupled-Feature Representation and Coupled Boosting for AD Diagnosis (CVPR 2014)**
   - Yinghuan Shi, Heung-Il Suk, Yang Gao, Dinggang Shen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Shi_Joint_Coupled-Feature_Representation_2014_CVPR_paper.pdf)
 
 - **From Categories to Individuals in Real Time - A Unified Boosting Approach (CVPR 2014)**
   - David Hall, Pietro Perona
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6909424)
+  - [[Code]](http://www.vision.caltech.edu/~dhall/projects/CategoriesToIndividuals/)
 
 - **Efficient Boosted Exemplar-Based Face Detection (CVPR 2014)**
   - Haoxiang Li, Zhe Lin, Jonathan Brandt, Xiaohui Shen, Gang Hua
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://users.eecs.northwestern.edu/~xsh835/assets/cvpr14_exemplarfacedetection.pdf)
 
 - **Facial Expression Recognition via a Boosted Deep Belief Network (CVPR 2014)**
   - Ping Liu, Shizhong Han, Zibo Meng, Yan Tong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/6909629)
 
 - **Confidence-Rated Multiple Instance Boosting for Object Detection (CVPR 2014)**
   - Karim Ali, Kate Saenko
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6909708)
 
 - **The return of AdaBoost.MH: multi-class Hamming trees (ICLR 2014)**
   - Balázs Kégl
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1312.6086.pdf)
+  - [[Code]](https://github.com/aciditeam/acidano/blob/master/acidano/utils/cost.py)
 
 - **Deep Boosting (ICML 2014)**
   - Corinna Cortes, Mehryar Mohri, Umar Syed
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v32/cortesb14.pdf)
+  - [[Code]](https://github.com/google/deepboost)
 
 - **A Convergence Rate Analysis for LogitBoost, MART and Their Variant (ICML 2014)**
   - Peng Sun, Tong Zhang, Jie Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v32/sunc14.pdf)
 
 - **Boosting with Online Binary Learners for the Multiclass Bandit Problem (ICML 2014)**
   - Shang-Tse Chen, Hsuan-Tien Lin, Chi-Jen Lu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cc.gatech.edu/~schen351/paper/icml14boost.pdf)
 
 - **Boosting multi-step autoregressive forecasts (ICML 2014)**
   - Souhaib Ben Taieb, Rob J. Hyndman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v32/taieb14.pdf)
 
 - **Dynamic Programming Boosting for Discriminative Macro-Action Discovery (ICML 2014)**
   - Leonidas Lefakis, François Fleuret
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v32/lefakis14.html)
 
 - **Guess-Averse Loss Functions For Cost-Sensitive Multiclass Boosting (ICML 2014)**
   - Oscar Beijbom, Mohammad J. Saberian, David J. Kriegman, Nuno Vasconcelos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v32/beijbom14.pdf)
 
 - **A multi-class boosting method with direct optimization (KDD 2014)**
   - Shaodan Zhai, Tian Xia, Shaojun Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2623689)
 
 - **Gradient boosted feature selection (KDD 2014)**
   - Zhixiang Eddie Xu, Gao Huang, Kilian Q. Weinberger, Alice X. Zheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1901.04055)
+  - [[Code]](https://github.com/dmlc/xgboost)
 
 - **Multi-Class Deep Boosting (NIPS 2014)**
   - Vitaly Kuznetsov, Mehryar Mohri, Umar Syed
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5514-multi-class-deep-boosting)
 
 - **Deconvolution of High Dimensional Mixtures via Boosting with Application to Diffusion-Weighted MRI of Human Brain (NIPS 2014)**
   - Charles Y. Zheng, Franco Pestilli, Ariel Rokem
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5506-deconvolution-of-high-dimensional-mixtures-via-boosting-with-application-to-diffusion-weighted-mri-of-human-brain)
 
 - **A Drifting-Games Analysis for Online Learning and Applications to Boosting (NIPS 2014)**
   - Haipeng Luo, Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1406.1856)
 
 - **A Boosting Framework on Grounds of Online Learning (NIPS 2014)**
   - Tofigh Naghibi Mohamadpoor, Beat Pfister
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5512-a-boosting-framework-on-grounds-of-online-learning.pdf)
 
 ## 2013
 
