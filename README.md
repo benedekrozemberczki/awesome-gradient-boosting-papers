@@ -719,118 +719,95 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2010
 - **The Boosting Effect of Exploratory Behaviors (AAAI 2010)**
   - Jivko Sinapov, Alexander Stoytchev
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/download/1777/2265)
 
 - **Boosting-Based System Combination for Machine Translation (ACL 2010)**
   - Tong Xiao, Jingbo Zhu, Muhua Zhu, Huizhen Wang
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting social network connectivity with link revival (CIKM 2010)**
-  - Yuan Tian, Qi He, Qiankun Zhao, Xingjie Liu, Wang-Chien Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/P10-1076)
 
 - **BagBoo: a scalable hybrid bagging-the-boosting model (CIKM 2010)**
   - Dmitry Yurievich Pavlov, Alexey Gorodilov, Cliff A. Brunk
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://cache-default03h.cdn.yandex.net/download.yandex.ru/company/a_scalable_hybrid_bagging_the_boosting_model.pdf)
+  - [[Code]](https://github.com/arogozhnikov/infiniteboost)
 
 - **Automatic detection of craters in planetary images: an embedded framework using feature selection and boosting (CIKM 2010)**
   - Wei Ding, Tomasz F. Stepinski, Lourenço P. C. Bandeira, Ricardo Vilalta, Youxi Wu, Zhenyu Lu, Tianyu Cao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.uh.edu/~rvilalta/papers/2010/cikm10.pdf)
 
 - **Facial point detection using boosted regression and graph models (CVPR 2010)**
   - Michel François Valstar, Brais Martínez, Xavier Binefa, Maja Pantic
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ibug.doc.ic.ac.uk/media/uploads/documents/CVPR-2010-ValstarEtAl-CAMERA.pdf)
 
 - **Boosting for transfer learning with multiple sources (CVPR 2010)**
   - Yi Yao, Gianfranco Doretto
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5539857)
 
 - **Efficient rotation invariant object detection using boosted Random Ferns (CVPR 2010)**
   - Michael Villamizar, Francesc Moreno-Noguer, Juan Andrade-Cetto, Alberto Sanfeliu
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.4002&rep=rep1&type=pdf)
+  
 - **Implicit hierarchical boosting for multi-view object detection (CVPR 2010)**
   - Xavier Perrotton, Marc Sturzel, Michel Roux
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5540115)
 
 - **On-line semi-supervised multiple-instance boosting (CVPR 2010)**
   - Bernhard Zeisl, Christian Leistner, Amir Saffari, Horst Bischof
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5539860)
 
 - **Online multi-class LPBoost (CVPR 2010)**
   - Amir Saffari, Martin Godec, Thomas Pock, Christian Leistner, Horst Bischof
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.8939&rep=rep1&type=pdf)
+  - [[Code]](https://github.com/amirsaffari/online-multiclass-lpboost)
 
 - **Homotopy Regularization for Boosting (ICDM 2010)**
   - Zheng Wang, Yangqiu Song, Changshui Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5694094)
 
 - **Exploiting Local Data Uncertainty to Boost Global Outlier Detection (ICDM 2010)**
   - Bo Liu, Jie Yin, Yanshan Xiao, Longbing Cao, Philip S. Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/5693984)
 
 - **Boosting Classifiers with Tightened L0-Relaxation Penalties (ICML 2010)**
   - Noam Goldberg, Jonathan Eckstein
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/11df/aed4ec2a2f72878789fa3a54d588d693bdda.pdf)
 
 - **Boosting for Regression Transfer (ICML 2010)**
   - David Pardoe, Peter Stone
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.utexas.edu/~dpardoe/papers/ICML10.pdf)
+  - [[Code]](https://github.com/jay15summer/Two-stage-TrAdaboost.R2)
 
 - **Boosted Backpropagation Learning for Training Deep Modular Networks (ICML 2010)**
   - Alexander Grubb, J. Andrew Bagnell
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://icml.cc/Conferences/2010/papers/451.pdf)
 
 - **Fast boosting using adversarial bandits (ICML 2010)**
   - Róbert Busa-Fekete, Balázs Kégl
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.lri.fr/~kegl/research/PDFs/BuKe10.pdf)
 
 - **Boosting with structure information in the functional space: an application to graph classification (KDD 2010)**
   - Hongliang Fei, Jun Huan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1835804.1835886)
 
 - **Multi-task learning for boosting with application to web search ranking (KDD 2010)**
   - Olivier Chapelle, Pannagadatta K. Shivaswamy, Srinivas Vadrevu, Kilian Q. Weinberger, Ya Zhang, Belle L. Tseng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1835953)
 
 - **A Theory of Multiclass Boosting (NIPS 2010)**
   - Indraneel Mukherjee, Robert E. Schapire
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://rob.schapire.net/papers/multiboost-journal.pdf)
 
 - **Boosting Classifier Cascades (NIPS 2010)**
   - Mohammad J. Saberian, Nuno Vasconcelos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4033-boosting-classifier-cascades.pdf)
 
 - **Joint Cascade Optimization Using A Product Of Boosted Classifiers (NIPS 2010)**
   - Leonidas Lefakis, François Fleuret
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4148-joint-cascade-optimization-using-a-product-of-boosted-classifiers)
 
-- **Robust LogitBoost and Adaptive Base Class %28ABC%29 LogitBoost (UAI 2010)**
+- **Robust LogitBoost and Adaptive Base Class (ABC) LogitBoost (UAI 2010)**
   - Ping Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1203.3491)
+  - [[Code]](https://github.com/pengsun/AOSOLogitBoost)
 
 ## 2009
 
