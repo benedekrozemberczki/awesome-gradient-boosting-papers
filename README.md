@@ -476,58 +476,49 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2012
 - **Contextual boost for pedestrian detection (CVPR 2012)**
   - Yuanyuan Ding, Jing Xiao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.308.5611&rep=rep1&type=pdf)
 
 - **Shrink boost for selecting multi-LBP histogram features in object detection (CVPR 2012)**
   - Cher Keng Heng, Sumio Yokomitsu, Yuichi Matsumoto, Hajime Tamura
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6248061)
 
 - **Boosting bottom-up and top-down visual features for saliency estimation (CVPR 2012)**
   - Ali Borji
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://ilab.usc.edu/borji/papers/cvpr-2012-BUModel-v4.pdf)
 
 - **Boosting algorithms for simultaneous feature extraction and selection (CVPR 2012)**
   - Mohammad J. Saberian, Nuno Vasconcelos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://svcl.ucsd.edu/publications/conference/2012/cvpr/SOPBoost.pdf)
 
 - **Sharing features in multi-class boosting via group sparsity (CVPR 2012)**
   - Sakrapee Paisitkriangkrai, Chunhua Shen, Anton van den Hengel
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://cs.adelaide.edu.au/~paulp/publications/pubs/sharing_cvpr2012.pdf)
 
 - **Feature Weighting and Selection Using Hypothesis Margin of Boosting (ICDM 2012)**
   - Malak Alshawabkeh, Javed A. Aslam, Jennifer G. Dy, David R. Kaeli
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.ece.neu.edu/fac-ece/jdy/papers/alshawabkeh-ICDM2012.pdf)
 
 - **An AdaBoost Algorithm for Multiclass Semi-supervised Learning (ICDM 2012)**
   - Jafar Tanha, Maarten van Someren, Hamideh Afsarmanesh
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]]https://ieeexplore.ieee.org/document/6413799)
+  
 - **AOSO-LogitBoost: Adaptive One-Vs-One LogitBoost for Multi-Class Problem (ICML 2012)**
   - Peng Sun, Mark D. Reid, Jie Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](AOSO-LogitBoost: Adaptive One-Vs-One LogitBoost for Multi-Class Problem)
+  - [[Code]](https://github.com/pengsun/AOSOLogitBoost)
 
 - **An Online Boosting Algorithm with Theoretical Justifications (ICML 2012)**
   - Shang-Tse Chen, Hsuan-Tien Lin, Chi-Jen Lu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1206.6422)
 
 - **Learning Image Descriptors with the Boosting-Trick (NIPS 2012)**
   - Tomasz Trzcinski, C. Mario Christoudias, Vincent Lepetit, Pascal Fua
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4848-learning-image-descriptors-with-the-boosting-trick.pdf)
+  - [[Code]](https://github.com/biotrump/cvlab-BINBOOST)
 
 - **Accelerated Training for Matrix-norm Regularization: A Boosting Approach (NIPS 2012)**
   - Xinhua Zhang, Yaoliang Yu, Dale Schuurmans
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4663-accelerated-training-for-matrix-norm-regularization-a-boosting-approach)
 
 ## 2011
 - **Selective Transfer Between Learning Tasks Using Task-Based Boosting (AAAI 2011)**
