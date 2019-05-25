@@ -98,28 +98,24 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 ## 2017
 - **Boosting for Real-Time Multivariate Time Series Classification (AAAI 2017)**
   - Haishuai Wang, Jun Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14852/14241)
 
 - **Cross-Domain Sentiment Classification via Topic-Related TrAdaBoost (AAAI 2017)**
   - Xingchang Huang, Yanghui Rao, Haoran Xie, Tak-Lam Wong, Fu Lee Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/826c/c83d98a5c4c7dcc02be1f4dd9c27e2b99670.pdf)
+  - [[Code]](https://github.com/xchhuang/cross-domain-sentiment-classification)
 
 - **Extreme Gradient Boosting and Behavioral Biometrics (AAAI 2017)**
   - Benjamin Manning
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/8c6e/6c887d6d47dda3f0c73297fd4da516fef1ee.pdf)
 
 - **FeaBoost: Joint Feature and Label Refinement for Semantic Segmentation (AAAI 2017)**
   - Yulei Niu, Zhiwu Lu, Songfang Huang, Xin Gao, Ji-Rong Wen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/d566/73be998b3ed38ccbb53551e38758ae8cfc9d.pdf)
 
 - **Boosting Complementary Hash Tables for Fast Nearest Neighbor Search (AAAI 2017)**
   - Xianglong Liu, Cheng Deng, Yadong Mu, Zhujin Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14336)
 
 - **Gradient Boosting on Stochastic Data Streams (AISTATS 2017)**
   - Hanzhang Hu, Wen Sun, Arun Venkatraman, Martial Hebert, J. Andrew Bagnell
