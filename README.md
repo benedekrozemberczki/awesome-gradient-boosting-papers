@@ -119,62 +119,47 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 
 - **Gradient Boosting on Stochastic Data Streams (AISTATS 2017)**
   - Hanzhang Hu, Wen Sun, Arun Venkatraman, Martial Hebert, J. Andrew Bagnell
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1703.00377)
 
 - **BoostVHT: Boosting Distributed Streaming Decision Trees (CIKM 2017)**
   - Theodore Vasiloudis, Foteini Beligianni, Gianmarco De Francisci Morales
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Integrating Side Information for Boosting Machine Comprehension (CIKM 2017)**
-  - Yutong Wang, Yixin Xu, Min Yang, Zhou Zhao, Jun Xiao, Yueting Zhuang
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **A Way to Boost Semi-NMF for Document Clustering (CIKM 2017)**
-  - Aghiles Salah, Melissa Ailem, Mohamed Nadif
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://melmeric.files.wordpress.com/2010/05/boostvht-boosting-distributed-streaming-decision-trees.pdf)
 
 - **Fast Boosting Based Detection Using Scale Invariant Multimodal Multiresolution Filtered Features (CVPR 2017)**
   - Arthur Daniel Costea, Robert Varga, Sergiu Nedevschi
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Costea_Fast_Boosting_Based_CVPR_2017_paper.pdf)
 
 - **BIER - Boosting Independent Embeddings Robustly (ICCV 2017)**
   - Michael Opitz, Georg Waltner, Horst Possegger, Horst Bischof
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Opitz_BIER_-_Boosting_ICCV_2017_paper.pdf)
+  - [[Code]](https://github.com/mop/bier)
 
 - **An Analysis of Boosted Linear Classifiers on Noisy Data with Applications to Multiple-Instance Learning (ICDM 2017)**
   - Rui Liu, Soumya Ray
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/8215501)
 
 - **Variational Boosting: Iteratively Refining Posterior Approximations (ICML 2017)**
   - Andrew C. Miller, Nicholas J. Foti, Ryan P. Adams
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1611.06585)
+  - [[Code]](https://github.com/andymiller/vboost)
 
 - **Boosted Fitted Q-Iteration (ICML 2017)**
   - Samuele Tosatto, Matteo Pirotta, Carlo D'Eramo, Marcello Restelli
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v70/tosatto17a.html)
 
 - **A Simple Multi-Class Boosting Framework with Theoretical Guarantees and Empirical Proficiency (ICML 2017)**
   - Ron Appel, Pietro Perona
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v70/appel17a.html)
+  - [[Code]](https://github.com/GuillaumeCollin/A-Simple-Multi-Class-Boosting-Framework-with-Theoretical-Guarantees-and-Empirical-Proficiency)
 
 - **Gradient Boosted Decision Trees for High Dimensional Sparse Output (ICML 2017)**
   - Si Si, Huan Zhang, S. Sathiya Keerthi, Dhruv Mahajan, Inderjit S. Dhillon, Cho-Jui Hsieh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v70/si17a.html)
+  - [[Code]](https://github.com/springdaisy/GBDT)
 
 - **Local Topic Discovery via Boosted Ensemble of Nonnegative Matrix Factorization (IJCAI 2017)**
   - Sangho Suh, Jaegul Choo, Joonseok Lee, Chandan K. Reddy
-  - [[Paper]]( )
+  - [[Paper]](http://dmkd.cs.vt.edu/papers/IJCAI17.pdf)
   - [[Code]]( )
 
 - **Boosted Zero-Shot Learning with Semantic Correlation Regularization (IJCAI 2017)**
