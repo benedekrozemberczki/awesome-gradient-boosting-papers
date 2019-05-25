@@ -5,6 +5,11 @@
 <p align="center">
   <img width="450" src="boosting.gif">
 </p>
+<p align="center">
+	<img src="https://img.shields.io/badge/stars-0+-blue.svg"/>
+        <img src="https://img.shields.io/badge/forks-0+-blue.svg"/>
+	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
+</p>
 A curated list of gradient and adaptive boosting papers with implementations from the following conferences:
 
 - Machine learning
