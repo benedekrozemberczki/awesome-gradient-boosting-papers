@@ -160,47 +160,44 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 - **Local Topic Discovery via Boosted Ensemble of Nonnegative Matrix Factorization (IJCAI 2017)**
   - Sangho Suh, Jaegul Choo, Joonseok Lee, Chandan K. Reddy
   - [[Paper]](http://dmkd.cs.vt.edu/papers/IJCAI17.pdf)
-  - [[Code]]( )
+  - [[Code]](https://github.com/benedekrozemberczki/BoostedFactorization)
 
 - **Boosted Zero-Shot Learning with Semantic Correlation Regularization (IJCAI 2017)**
   - Te Pi, Xi Li, Zhongfei (Mark) Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1707.08008)
 
 - **BDT: Gradient Boosted Decision Tables for High Accuracy and Scoring Efficiency (KDD 2017)**
   - Yin Lou, Mikhail Obukhov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://yinlou.github.io/papers/lou-kdd17.pdf)
 
 - **Cost efficient gradient boosting (NIPS 2017)**
   - Sven Peter, Ferran Diego, Fred A. Hamprecht, Boaz Nadler
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6753-cost-efficient-gradient-boosting)
+  - [[Code]](https://github.com/svenpeter42/LightGBM-CEGB)
 
 - **AdaGAN: Boosting Generative Models (NIPS 2017)**
   - Ilya O. Tolstikhin, Sylvain Gelly, Olivier Bousquet, Carl-Johann Simon-Gabriel, Bernhard Schölkopf
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1701.02386)
+  - [[Code]](https://github.com/tolstikhin/adagan)
 
 - **LightGBM: A Highly Efficient Gradient Boosting Decision Tree (NIPS 2017)**
   - Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree)
+  - [[Code]](https://lightgbm.readthedocs.io/en/latest/)
 
 - **Early stopping for kernel boosting algorithms: A general analysis with localized complexities (NIPS 2017)**
   - Yuting Wei, Fanny Yang, Martin J. Wainwright
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1707.01543)
+  - [[Code]](https://github.com/fanny-yang/EarlyStoppingRKHS)
 
 - **Online multiclass boosting (NIPS 2017)**
   - Young Hun Jung, Jack Goetz, Ambuj Tewari
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6693-online-multiclass-boosting.pdf)
 
 - **GB-CENT: Gradient Boosted Categorical Embedding and Numerical Trees (WWW 2017)**
   - Qian Zhao, Yue Shi, Liangjie Hong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1311.pdf)
+  - [[Code]](https://github.com/grouplens/samantha)
 
 ## 2016
 - **Group Cost-Sensitive Boosting for Multi-Resolution Pedestrian Detection (AAAI 2016)**
@@ -226,7 +223,7 @@ A similar collection about [graph embedding](https://github.com/benedekrozemberc
 - **L-EnsNMF: Boosted Local Topic Discovery via Ensemble of Nonnegative Matrix Factorization (ICDM 2016)**
   - Sangho Suh, Jaegul Choo, Joonseok Lee, Chandan K. Reddy
   - [[Paper]]( )
-  - [[Code]]( )
+  - [[Code]](https://github.com/benedekrozemberczki/BoostedFactorization)
 
 - **Meta-Gradient Boosted Decision Tree Model for Weight and Target Learning (ICML 2016)**
   - Yury Ustinovskiy, Valentina Fedorova, Gleb Gusev, Pavel Serdyukov
