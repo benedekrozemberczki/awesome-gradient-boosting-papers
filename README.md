@@ -24,12 +24,19 @@ A curated list of gradient and adaptive boosting papers with implementations fro
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
    * [NAACL](https://naacl2019.org/)
    * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
-- Data Mining
+- Data
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
+   * [SDM](https://www.siam.org/Conferences/CM/Conference/sdm19)   
+   * [PAKDD](http://pakdd2019.medmeeting.org)
+   * [PKDD/ECML](http://ecmlpkdd2019.org)
+   * [SIGIR](https://sigir.org/)
    * [WWW](https://www2019.thewebconf.org/)
+   * [WSDM](www.wsdm-conference.org) 
 - Artificial intelligence
    * [AAAI](https://www.aaai.org/)
+   * [AISTATS](https://www.aistats.org/)
+   * [ICANN](https://e-nns.org/icann2019/)   
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
