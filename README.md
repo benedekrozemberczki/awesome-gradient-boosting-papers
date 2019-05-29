@@ -1354,6 +1354,83 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Paul A. Viola, Michael J. Jones
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.4306&rep=rep1&type=pdf)
 
+## 2000
+- **Boosted Wrapper Induction (AAAI 2000)**
+  - Dayne Freitag, Nicholas Kushmerick
+  - [[Paper]](https://pdfs.semanticscholar.org/d009/a2bd48a9d1971fbc0d99f6df00539a62048a.pdf)
+
+- **An Improved Boosting Algorithm and its Application to Text Categorization (CIKM 2000)**
+  - Fabrizio Sebastiani, Alessandro Sperduti, Nicola Valdambrini
+  - [[Paper]](http://nmis.isti.cnr.it/sebastiani/Publications/CIKM00.pdf)
+
+- **Boosting for Document Routing (CIKM 2000)**
+  - Raj D. Iyer, David D. Lewis, Robert E. Schapire, Yoram Singer, Amit Singhal
+  - [[Paper]](http://singhal.info/cikm-2000.pdf)
+
+- **On the Boosting Pruning Problem (ECML 2000)**
+  - Christino Tamon, Jie Xiang
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45164-1_41)
+
+- **Boosting Applied to Word Sense Disambiguation (ECML 2000)**
+  - Gerard Escudero, Lluís Màrquez, German Rigau
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=649539)
+
+- **An Empirical Study of MetaCost Using Boosting Algorithms (ECML 2000)**
+  - Kai Ming Ting
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.1624&rep=rep1&type=pdf)
+
+- **FeatureBoost: A Meta-Learning Algorithm that Improves Model Robustness (ICML 2000)**
+  - Joseph O'Sullivan, John Langford, Rich Caruana, Avrim Blum
+  - [[Paper]](https://www.researchgate.net/publication/221345746_FeatureBoost_A_Meta-Learning_Algorithm_that_Improves_Model_Robustness)
+
+- **Comparing the Minimum Description Length Principle and Boosting in the Automatic Analysis of Discourse (ICML 2000)**
+  - Tadashi Nomoto, Yuji Matsumoto
+  - [[Paper]](https://www.researchgate.net/publication/221344998_Comparing_the_Minimum_Description_Length_Principle_and_Boosting_in_the_Automatic_Analysis_of_Discourse)
+
+- **A Boosting Approach to Topic Spotting on Subdialogues (ICML 2000)**
+  - Kary Myers, Michael J. Kearns, Satinder P. Singh, Marilyn A. Walker
+  - [[Paper]](https://www.cis.upenn.edu/~mkearns/papers/topicspot.pdf)
+
+- **A Comparative Study of Cost-Sensitive Boosting Algorithms (ICML 2000)**
+  - Kai Ming Ting
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=657944)
+
+- **Boosting a Positive-Data-Only Learner (ICML 2000)**
+  - Andrew R. Mitchell
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.34.3669)
+
+- **A Column Generation Algorithm For Boosting (ICML 2000)**
+  - Kristin P. Bennett, Ayhan Demiriz, John Shawe-Taylor
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1828D5853F656BD6892E9C2C446ECC68?doi=10.1.1.16.9612&rep=rep1&type=pdf)
+
+- **A Gradient-Based Boosting Algorithm for Regression Problems (NIPS 2000)**
+  - Richard S. Zemel, Toniann Pitassi
+  - [[Paper]](https://pdfs.semanticscholar.org/c41a/9417f5605b55bdd216d119e47669a92f5c50.pdf)
+
+- **Weak Learners and Improved Rates of Convergence in Boosting (NIPS 2000)**
+  - Shie Mannor, Ron Meir
+  - [[Paper]](https://papers.nips.cc/paper/1906-weak-learners-and-improved-rates-of-convergence-in-boosting.pdf)
+
+- **Adaptive Boosting for Spatial Functions with Unstable Driving Attributes (PAKDD 2000)**
+  - Aleksandar Lazarevic, Tim Fiez, Zoran Obradovic
+  - [[Paper]](http://www.dabi.temple.edu/~zoran/papers/lazarevic01j.pdf)
+
+- **Scaling Up a Boosting-Based Learner via Adaptive Sampling (PAKDD 2000)**
+  - Carlos Domingo, Osamu Watanabe
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45571-X_37)
+
+- **Learning First Order Logic Time Series Classifiers: Rules and Boosting (PKDD 2000)**
+  - Juan J. Rodríguez Diez, Carlos Alonso González, Henrik Boström
+  - [[Paper]](https://people.dsv.su.se/~henke/papers/rodriguez00b.pdf)
+
+- **Bagging and Boosting with Dynamic Integration of Classifiers (PKDD 2000)**
+  - Alexey Tsymbal, Seppo Puuronen
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45372-5_12)
+
+- **Text filtering by boosting naive bayes classifiers (SIGIR 2000)**
+  - Yu-Hwan Kim, Shang-Yoon Hahn, Byoung-Tak Zhang
+  - [[Paper]](https://www.researchgate.net/publication/221299823_Text_filtering_by_boosting_Naive_Bayes_classifiers)
+
 ## 1999
 - **Boosting methodology for regression problems (AISTATS 1999)**
   - Greg Ridgeway, David Madigan, Thomas Richardson
