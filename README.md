@@ -1347,6 +1347,26 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Yan Liu, Yiming Yang, Jaime G. Carbonell
   - [[Paper]](https://dl.acm.org/citation.cfm?id=584792.584850)
   
+- **How to Make AdaBoost.M1 Work for Weak Base Classifiers by Changing Only One Line of the Code (ECML 2002)**
+  - Günther Eibl, Karl Peter Pfeiffer
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=650068)
+
+- **Scaling Boosting by Margin-Based Inclusionof Features and Relations (ECML 2002)**
+  - Susanne Hoche, Stefan Wrobel
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-36755-1_13)
+
+- **A Robust Boosting Algorithm (ECML 2002)**
+  - Richard Nock, Patrice Lefaucheur
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=650081)
+
+- **iBoost: Boosting Using an instance-Based Exponential Weighting Scheme (ECML 2002)**
+  - Stephen Kwek, Chau Nguyen
+  - [[Paper]](https://www.researchgate.net/publication/220516082_iBoost_Boosting_using_an_instance-based_exponential_weighting_scheme)
+
+- **Boosting Density Function Estimators (ECML 2002)**
+  - Franck Thollard, Marc Sebban, Philippe Ézéquel
+  - [[Paper]](https://link.springer.com/chapter/10.1007%2F3-540-36755-1_36)
+  
 - **Statistical Behavior and Consistency of Support Vector Machines, Boosting, and Beyond (ICML 2002)**
   - Tong Zhang
   - [[Paper]](https://www.researchgate.net/publication/221344927_Statistical_Behavior_and_Consistency_of_Support_Vector_Machines_Boosting_and_Beyond)
@@ -1398,6 +1418,22 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Boosted Dyadic Kernel Discriminants (NIPS 2002)**
   - Baback Moghaddam, Gregory Shakhnarovich
   - [[Paper]](http://www.merl.com/publications/docs/TR2002-55.pdf)
+  
+- **A Method to Boost Support Vector Machines (PAKDD 2002)**
+  - Lili Diao, Keyun Hu, Yuchang Lu, Chunyi Shi
+  - [[Paper]](https://elkingarcia.github.io/Papers/MLDM07.pdf)
+
+- **A Method to Boost Naive Bayesian Classifiers (PAKDD 2002)**
+  - Lili Diao, Keyun Hu, Yuchang Lu, Chunyi Shi
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-47887-6_11)
+
+- **Predicting Rare Classes: Comparing Two-Phase Rule Induction to Cost-Sensitive Boosting (PKDD 2002)**
+  - Mahesh V. Joshi, Ramesh C. Agarwal, Vipin Kumar
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45681-3_20)
+
+- **Iterative Data Squashing for Boosting Based on a Distribution-Sensitive Distance (PKDD 2002)**
+  - Yuta Choki, Einoshin Suzuki
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45681-3_8)
 
 - **Staged Mixture Modelling and Boosting (UAI 2002)**
   - Christopher Meek, Bo Thiesson, David Heckerman
@@ -1415,8 +1451,28 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Online Bagging and Boosting (AISTATS 2001)**
   - Nikunj C. Oza, Stuart J. Russell
   - [[Paper]](https://ti.arc.nasa.gov/m/profile/oza/files/ozru01a.pdf)
+  
+- **Text Categorization Using Transductive Boosting (ECML 2001)**
+  - Hirotoshi Taira, Masahiko Haruno
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-44795-4_39)
 
-- **A Comparison of Stacking with Meta Decision Trees to Bagging%2C Boosting%2C and Stacking with other Methods (ICDM 2001)**
+- **Improving Term Extraction by System Combination Using Boosting (ECML 2001)**
+  - Jordi Vivaldi, Lluís Màrquez, Horacio Rodríguez
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=3108351)
+
+- **Analysis of the Performance of AdaBoost.M2 for the Simulated Digit-Recognition-Example (ECML 2001)**
+  - Günther Eibl, Karl Peter Pfeiffer
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-44795-4_10)
+
+- **On the Practice of Branching Program Boosting (ECML 2001)**
+  - Tapio Elomaa, Matti Kääriäinen
+  - [[Paper]](https://www.researchgate.net/publication/221112522_On_the_Practice_of_Branching_Program_Boosting)
+
+- **Boosting Mixture Models for Semi-supervised Learning (ICANN 2001)**
+  - Yves Grandvalet, Florence d'Alché-Buc, Christophe Ambroise
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-44668-0_7
+
+- **A Comparison of Stacking with Meta Decision Trees to Bagging, Boosting, and Stacking with other Methods (ICDM 2001)**
   - Bernard Zenko, Ljupco Todorovski, Saso Dzeroski
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.3118&rep=rep1&type=pdf)
 
@@ -1464,6 +1520,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Fast and Robust Classification using Asymmetric AdaBoost and a Detector Cascade (NIPS 2001)**
   - Paul A. Viola, Michael J. Jones
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.4306&rep=rep1&type=pdf)
+  
+- **Boosting Localized Classifiers in Heterogeneous Databases (SDM 2001)**
+  - Aleksandar Lazarevic, Zoran Obradovic
+  - [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611972719.14)
 
 ## 2000
 - **Boosted Wrapper Induction (AAAI 2000)**
