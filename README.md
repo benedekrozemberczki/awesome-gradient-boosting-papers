@@ -106,6 +106,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Lifang He, Kun Chen, Wanwan Xu, Jiayu Zhou, Fei Wang
   - [[Paper]](https://arxiv.org/abs/1811.01158)
   - [[Code]](https://github.com/LifangHe/NeurIPS18_SURF)
+  
+- **Selective Gradient Boosting for Effective Learning to Rank (SIGIR 2018)**
+  - Claudio Lucchese, Franco Maria Nardini, Raffaele Perego, Salvatore Orlando, Salvatore Trani
+  - [[Paper]](http://quickrank.isti.cnr.it/selective-data/selective-SIGIR2018.pdf)
+  - [[Code]](https://github.com/hpclab/quickrank/blob/master/documentation/selective.md)
 
 ## 2017
 - **Boosting for Real-Time Multivariate Time Series Classification (AAAI 2017)**
@@ -206,6 +211,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Young Hun Jung, Jack Goetz, Ambuj Tewari
   - [[Paper]](https://papers.nips.cc/paper/6693-online-multiclass-boosting.pdf)
 
+- **Stacking Bagged and Boosted Forests for Effective Automated Classification (SIGIR 2017)**
+  - Raphael R. Campos, Sérgio D. Canuto, Thiago Salles, Clebson C. A. de Sá, Marcos André Gonçalves
+  - [[Paper]](https://homepages.dcc.ufmg.br/~rcampos/papers/sigir2017/appendix.pdf)
+  - [[Code]](https://github.com/raphaelcampos/stacking-bagged-boosted-forests)
+
 - **GB-CENT: Gradient Boosted Categorical Embedding and Numerical Trees (WWW 2017)**
   - Qian Zhao, Yue Shi, Liangjie Hong
   - [[Paper]](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1311.pdf)
@@ -281,6 +291,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Shizhong Han, Zibo Meng, Ahmed-Shehab Khan, Yan Tong
   - [[Paper]](https://arxiv.org/abs/1707.05395)
   - [[Code]](https://github.com/sjsingh91/IB-CNN)
+  
+- **Generalized BROOF-L2R: A General Framework for Learning to Rank Based on Boosting and Random Forests (SIGIR 2016)**
+  - Clebson C. A. de Sá, Marcos André Gonçalves, Daniel Xavier de Sousa, Thiago Salles
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=2911540)
+
 
 ## 2015
 
@@ -347,6 +362,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Alina Beygelzimer, Elad Hazan, Satyen Kale, Haipeng Luo
   - [[Paper]](https://arxiv.org/abs/1506.04820)
   - [[Code]](https://github.com/crm416/online_boosting)
+  
+- **BROOF: Exploiting Out-of-Bag Errors Boosting and Random Forests for Effective Automated Classification (SIGIR 2015)**
+  - Thiago Salles, Marcos André Gonçalves, Victor Rodrigues, Leonardo C. da Rocha
+  - [[Paper]](https://homepages.dcc.ufmg.br/~tsalles/broof/appendix.pdf)
+
+- **Boosting Search with Deep Understanding of Contents and Users (WSDM 2015)**
+  - Kaihua Zhu
+  - [[Paper]](https://www.researchgate.net/publication/282482189_Boosting_Search_with_Deep_Understanding_of_Contents_and_Users)
 
 ## 2014
 - **On Boosting Sparse Parities (AAAI 2014)**
@@ -531,6 +554,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Accelerated Training for Matrix-norm Regularization: A Boosting Approach (NIPS 2012)**
   - Xinhua Zhang, Yaoliang Yu, Dale Schuurmans
   - [[Paper]](https://papers.nips.cc/paper/4663-accelerated-training-for-matrix-norm-regularization-a-boosting-approach)
+  
+- **Learning from Heterogeneous Sources via Gradient Boosting Consensus (SDM 2012)**
+  - Xiaoxiao Shi, Jean-François Paiement, David Grangier, Philip S. Yu
+  - [[Paper]](http://david.grangier.info/papers/2012/shi_sdm_2012.pdf)
+  - [[Code]](https://github.com/PriyeshV/GBDT-CC)
 
 ## 2011
 - **Selective Transfer Between Learning Tasks Using Task-Based Boosting (AAAI 2011)**
@@ -619,6 +647,18 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Variance Penalizing AdaBoost (NIPS 2011)**
   - Pannagadatta K. Shivaswamy, Tony Jebara
   - [[Paper]](https://papers.nips.cc/paper/4207-variance-penalizing-adaboost.pdf)
+
+- **MKBoost: A Framework of Multiple Kernel Boosting (SDM 2011)**
+  - Hao Xia, Steven C. H. Hoi
+  - [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3280&context=sis_research)
+
+- **A boosting approach to improving pseudo-relevance feedback (SIGIR 2011)**
+  - Yuanhua Lv, ChengXiang Zhai, Wan Chen
+  - [[Paper]](http://www.tyr.unlu.edu.ar/tallerIR/2012/papers/pseudorelevance.pdf)
+
+- **Bagging gradient-boosted trees for high precision, low variance ranking models (SIGIR 2011)**
+  - Yasser Ganjisaffar, Rich Caruana, Cristina Videira Lopes
+  - [[Paper]](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/materials/bagging_lmbamart_jforests.pdf)
 
 - **Boosting as a Product of Experts (UAI 2011)**
   - Narayanan Unny Edakunni, Gary Brown, Tim Kovacs
@@ -815,6 +855,18 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Boosting with Spatial Regularization (NIPS 2009)**
   - Zhen James Xiang, Yongxin Taylor Xi, Uri Hasson, Peter J. Ramadge
   - [[Paper]](https://papers.nips.cc/paper/3696-boosting-with-spatial-regularization)
+  
+- **Effective Boosting of Na%C3%AFve Bayesian Classifiers by Local Accuracy Estimation (PAKDD 2009)**
+  - Zhipeng Xie
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_88)
+
+- **Multi-resolution Boosting for Classification and Regression Problems (PAKDD 2009)**
+  - Chandan K. Reddy, Jin Hyeong Park
+  - [[Paper]](http://dmkd.cs.vt.edu/papers/PAKDD09.pdf)
+
+- **Efficient Active Learning with Boosting (SDM 2009)**
+  - Zheng Wang, Yangqiu Song, Changshui Zhang
+  - [[Paper]](https://pdfs.semanticscholar.org/c8be/b70c37e4b4c4ad77e46b39060c977779d201.pdf)
 
 ## 2008
 - **Group-based learning: a boosting approach (CIKM 2008)**
@@ -892,6 +944,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Adaptive Martingale Boosting (NIPS 2008)**
   - Philip M. Long, Rocco A. Servedio
   - [[Paper]](http://phillong.info/publications/LS08_adaptive_martingale_boosting.pdf)
+  
+- **A boosting algorithm for learning bipartite ranking functions with partially labeled data (SIGIR 2008)**
+  - Massih-Reza Amini, Tuong-Vinh Truong, Cyril Goutte
+  - [[Paper]](http://ama.liglab.fr/~amini/Publis/SemiSupRanking_sigir08.pdf)
 
 ## 2007
 
