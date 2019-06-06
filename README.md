@@ -6,7 +6,7 @@
   <img width="450" src="boosting.gif">
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-140+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-160+-blue.svg"/>
         <img src="https://img.shields.io/badge/forks-10+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
