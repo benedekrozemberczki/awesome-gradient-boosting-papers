@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-160+-blue.svg"/>
-        <img src="https://img.shields.io/badge/forks-10+-blue.svg"/>
+        <img src="https://img.shields.io/badge/forks-20+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
 A curated list of gradient and adaptive boosting papers with implementations from the following conferences:
