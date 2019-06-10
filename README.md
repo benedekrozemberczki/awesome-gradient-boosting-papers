@@ -41,6 +41,38 @@ A curated list of gradient and adaptive boosting papers with implementations fro
    * [UAI](http://www.auai.org/)
 
 Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+
+## 2019
+- **Boosting Transfer Learning with Survival Data from Heterogeneous Domains (AISTATS 2019)**
+  - Alexis Bellot, Mihaela van der Schaar
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Online Multiclass Boosting with Bandit Feedback (AISTATS 2019)**
+  - Daniel T. Zhang, Young Hun Jung, Ambuj Tewari
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosted Density Estimation Remastered (ICML 2019)**
+  - Zac Cranko, Richard Nock
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Lossless or Quantized Boosting with Integer Arithmetic (ICML 2019)**
+  - Richard Nock, Robert C. Williamson
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Optimal Minimal Margin Maximization with Boosting (ICML 2019)**
+  - Alexander Mathiasen, Kasper Green Larsen, Allan Grønlund
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Katalyst: Boosting Convex Katayusha for Non-Convex Problems with a Large Condition Number (ICML 2019)**
+  - Zaiyi Chen, Yi Xu, Haoyuan Hu, Tianbao Yang
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2018
 - **Boosted Generative Models (AAAI 2018)**
   - Aditya Grover, Stefano Ermon
