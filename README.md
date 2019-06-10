@@ -62,7 +62,6 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Optimal Minimal Margin Maximization with Boosting (ICML 2019)**
   - Alexander Mathiasen, Kasper Green Larsen, Allan Grønlund
   - [[Paper]](https://arxiv.org/abs/1901.10789)
-  - [[Code]]( )
 
 - **Katalyst: Boosting Convex Katayusha for Non-Convex Problems with a Large Condition Number (ICML 2019)**
   - Zaiyi Chen, Yi Xu, Haoyuan Hu, Tianbao Yang
