@@ -46,17 +46,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Boosting Transfer Learning with Survival Data from Heterogeneous Domains (AISTATS 2019)**
   - Alexis Bellot, Mihaela van der Schaar
   - [[Paper]](http://proceedings.mlr.press/v89/bellot19a.html)
-  - [[Code]]( )
 
 - **Online Multiclass Boosting with Bandit Feedback (AISTATS 2019)**
   - Daniel T. Zhang, Young Hun Jung, Ambuj Tewari
   - [[Paper]](https://arxiv.org/abs/1810.05290)
-  - [[Code]]( )
 
 - **Boosted Density Estimation Remastered (ICML 2019)**
   - Zac Cranko, Richard Nock
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1803.08178)
 
 - **Lossless or Quantized Boosting with Integer Arithmetic (ICML 2019)**
   - Richard Nock, Robert C. Williamson
