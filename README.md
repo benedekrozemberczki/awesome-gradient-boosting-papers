@@ -57,19 +57,17 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 
 - **Lossless or Quantized Boosting with Integer Arithmetic (ICML 2019)**
   - Richard Nock, Robert C. Williamson
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v97/nock19a.html)
 
 - **Optimal Minimal Margin Maximization with Boosting (ICML 2019)**
   - Alexander Mathiasen, Kasper Green Larsen, Allan Grønlund
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1901.10789)
   - [[Code]]( )
 
 - **Katalyst: Boosting Convex Katayusha for Non-Convex Problems with a Large Condition Number (ICML 2019)**
   - Zaiyi Chen, Yi Xu, Haoyuan Hu, Tianbao Yang
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://arxiv.org/abs/1809.06754)
+  
 ## 2018
 - **Boosted Generative Models (AAAI 2018)**
   - Aditya Grover, Stefano Ermon
