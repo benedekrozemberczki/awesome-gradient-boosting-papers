@@ -24,6 +24,7 @@ A curated list of gradient and adaptive boosting papers with implementations fro
    * [SDM](https://www.siam.org/Conferences/CM/Conference/sdm19)   
    * [PAKDD](http://pakdd2019.medmeeting.org)
    * [PKDD/ECML](http://ecmlpkdd2019.org)
+   * [RECSYS](https://recsys.acm.org/)
    * [SIGIR](https://sigir.org/)
    * [WWW](https://www2019.thewebconf.org/)
    * [WSDM](www.wsdm-conference.org) 
