@@ -63,8 +63,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1904.10522)
   
 - **Learning to Rank in Theory and Practice: From Gradient Boosting to Neural Networks and Unbiased Learning (SIGIR 2019)**
   - Claudio Lucchese, Franco Maria Nardini, Rama Kumar Pasumarthi, Sebastian Bruch, Michael Bendersky, Xuanhui Wang, Harrie Oosterhuis, Rolf Jagerman, Maarten de Rijke
