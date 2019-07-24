@@ -479,6 +479,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **A Boosting Framework on Grounds of Online Learning (NIPS 2014)**
   - Tofigh Naghibi Mohamadpoor, Beat Pfister
   - [[Paper]](https://papers.nips.cc/paper/5512-a-boosting-framework-on-grounds-of-online-learning.pdf)
+  
+- **Gradient Boosting Factorization Machines (RECSYS 2014)**
+  - Chen Cheng, Fen Xia, Tong Zhang, Irwin King, Michael R. Lyu
+  - [[Paper]](http://tongzhang-ml.org/papers/recsys14-fm.pdf)
 
 ## 2013
 
