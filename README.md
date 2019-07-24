@@ -66,6 +66,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
   
+- **Learning to Rank in Theory and Practice: From Gradient Boosting to Neural Networks and Unbiased Learning (SIGIR 2019)**
+  - Claudio Lucchese, Franco Maria Nardini, Rama Kumar Pasumarthi, Sebastian Bruch, Michael Bendersky, Xuanhui Wang, Harrie Oosterhuis, Rolf Jagerman, Maarten de Rijke
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2018
 - **Boosted Generative Models (AAAI 2018)**
   - Aditya Grover, Stefano Ermon
