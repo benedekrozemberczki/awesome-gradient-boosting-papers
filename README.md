@@ -61,6 +61,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Zaiyi Chen, Yi Xu, Haoyuan Hu, Tianbao Yang
   - [[Paper]](https://arxiv.org/abs/1809.06754)
   
+- **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
+  - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 2018
 - **Boosted Generative Models (AAAI 2018)**
   - Aditya Grover, Stefano Ermon
