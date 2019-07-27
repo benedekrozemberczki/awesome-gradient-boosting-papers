@@ -46,8 +46,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Verifying Robustness of Gradient Boosted Models (AAAI 2019)**
   - Gil Einziger, Maayan Goldstein, Yaniv Sa'ar, Itai Segall
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1906.10991.pdf)
 
 - **Online Multiclass Boosting with Bandit Feedback (AISTATS 2019)**
   - Daniel T. Zhang, Young Hun Jung, Ambuj Tewari
