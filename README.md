@@ -38,9 +38,16 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
-- **Boosting Transfer Learning with Survival Data from Heterogeneous Domains (AISTATS 2019)**
-  - Alexis Bellot, Mihaela van der Schaar
-  - [[Paper]](http://proceedings.mlr.press/v89/bellot19a.html)
+
+- **Induction of Non-Monotonic Logic Programs to Explain Boosted Tree Models Using LIME (AAAI 2019)**
+  - Farhad Shakerin, Gopal Gupta
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Verifying Robustness of Gradient Boosted Models (AAAI 2019)**
+  - Gil Einziger, Maayan Goldstein, Yaniv Sa'ar, Itai Segall
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **Online Multiclass Boosting with Bandit Feedback (AISTATS 2019)**
   - Daniel T. Zhang, Young Hun Jung, Ambuj Tewari
