@@ -41,8 +41,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Induction of Non-Monotonic Logic Programs to Explain Boosted Tree Models Using LIME (AAAI 2019)**
   - Farhad Shakerin, Gopal Gupta
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1808.00629)
 
 - **Verifying Robustness of Gradient Boosted Models (AAAI 2019)**
   - Gil Einziger, Maayan Goldstein, Yaniv Sa'ar, Itai Segall
