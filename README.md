@@ -77,8 +77,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Gradient Boosting with Piece-Wise Linear Regression Trees (IJCAI 2019)**
   - Yu Shi, Jian Li, Zhize Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1802.05640)
+  - [[Code]](https://github.com/GBDT-PL/GBDT-PL)
   
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
