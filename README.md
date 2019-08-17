@@ -73,13 +73,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **AugBoost: Gradient Boosting Enhanced with Step-Wise Feature Augmentation (IJCAI 2019)**
   - Philip Tannor, Lior Rokach
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Polygon-Net: A General Framework for Jointly Boosting Multiple Unsupervised Neural Machine Translation Models (IJCAI 2019)**
-  - Chang Xu, Tao Qin, Gang Wang, Tie-Yan Liu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0493.pdf)
 
 - **Gradient Boosting with Piece-Wise Linear Regression Trees (IJCAI 2019)**
   - Yu Shi, Jian Li, Zhize Li
