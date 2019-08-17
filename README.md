@@ -69,13 +69,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Boosting for Comparison-Based Learning (IJCAI 2019)**
   - Michaël Perrot, Ulrike von Luxburg
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Boosting Causal Embeddings via Potential Verb-Mediated Causal Patterns (IJCAI 2019)**
-  - Zhipeng Xie, Feiteng Mu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1810.13333)
 
 - **AugBoost: Gradient Boosting Enhanced with Step-Wise Feature Augmentation (IJCAI 2019)**
   - Philip Tannor, Lior Rokach
