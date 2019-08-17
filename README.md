@@ -67,6 +67,31 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Zaiyi Chen, Yi Xu, Haoyuan Hu, Tianbao Yang
   - [[Paper]](https://arxiv.org/abs/1809.06754)
   
+- **Boosting for Comparison-Based Learning (IJCAI 2019)**
+  - Michaël Perrot, Ulrike von Luxburg
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Causal Embeddings via Potential Verb-Mediated Causal Patterns (IJCAI 2019)**
+  - Zhipeng Xie, Feiteng Mu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **AugBoost: Gradient Boosting Enhanced with Step-Wise Feature Augmentation (IJCAI 2019)**
+  - Philip Tannor, Lior Rokach
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Polygon-Net: A General Framework for Jointly Boosting Multiple Unsupervised Neural Machine Translation Models (IJCAI 2019)**
+  - Chang Xu, Tao Qin, Gang Wang, Tie-Yan Liu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Gradient Boosting with Piece-Wise Linear Regression Trees (IJCAI 2019)**
+  - Yu Shi, Jian Li, Zhize Li
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
   - [[Paper]](https://arxiv.org/abs/1904.10522)
