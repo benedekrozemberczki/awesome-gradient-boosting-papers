@@ -140,7 +140,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Dongdong Yang, Senzhang Wang, Zhoujun Li
   - [[Paper]](https://www.ijcai.org/proceedings/2018/0630.pdf)
 
-- **CatBoost: unbiased boosting with categorical features (NIPS 2018)**
+- **CatBoost: Unbiased Boosting with Categorical Features (NIPS 2018)**
   - Liudmila Ostroumova Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, Andrey Gulin
   - [[Paper]](https://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features.pdf)
   - [[Code]](https://github.com/catboost/catboost)
