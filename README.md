@@ -238,6 +238,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **BDT: Gradient Boosted Decision Tables for High Accuracy and Scoring Efficiency (KDD 2017)**
   - Yin Lou, Mikhail Obukhov
   - [[Paper]](https://yinlou.github.io/papers/lou-kdd17.pdf)
+  
+- **CatBoost: Gradient Boosting with Categorical Features Support (NIPS 2017)**
+  - Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin
+  - [[Paper]](https://arxiv.org/abs/1810.11363)
+  - [[Code]](https://catboost.ai/)
 
 - **Cost efficient gradient boosting (NIPS 2017)**
   - Sven Peter, Ferran Diego, Fred A. Hamprecht, Boaz Nadler
