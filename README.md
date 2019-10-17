@@ -20,6 +20,7 @@ A curated list of gradient and adaptive boosting papers with implementations fro
    * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
 - Data
    * [KDD](https://www.kdd.org/)
+   * [CIKM](http://www.cikmconference.org/)   
    * [ICDM](http://icdm2019.bigke.org/)
    * [SDM](https://www.siam.org/Conferences/CM/Conference/sdm19)   
    * [PAKDD](http://pakdd2019.medmeeting.org)
