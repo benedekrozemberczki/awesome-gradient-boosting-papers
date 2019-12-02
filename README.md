@@ -1224,7 +1224,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Taku Kudo, Jun Suzuki, Hideki Isozaki
   - [[Paper]](http://chasen.org/~taku/publications/acl2005.pdf)
 
-- **Using RankBoost to compare retrieval systems (CIKM 2005)**
+- **Using RankBoost to Compare Retrieval Systems (CIKM 2005)**
   - Huyen-Trang Vu, Patrick Gallinari
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.9470&rep=rep1&type=pdf)
 
@@ -1236,23 +1236,23 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jinbo Bi, Glenn Fung, Murat Dundar, R. Bharat Rao
   - [[Paper]](https://ieeexplore.ieee.org/document/1565728)
 
-- **Efficient discriminative learning of Bayesian network classifier via boosted augmented naive Bayes (ICML 2005)**
+- **Efficient Discriminative Learning of Bayesian Network Classifier via Boosted Augmented Naive Bayes (ICML 2005)**
   - Yushi Jing, Vladimir Pavlovic, James M. Rehg
   - [[Paper]](http://mrl.isr.uc.pt/pub/bscw.cgi/d27355/Jing05Efficient.pdf)
 
-- **Unifying the error-correcting and output-code AdaBoost within the margin framework (ICML 2005)**
+- **Unifying the Error-Correcting and Output-Code AdaBoost within the Margin Framework (ICML 2005)**
   - Yijun Sun, Sinisa Todorovic, Jian Li, Dapeng Wu
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.138.4246&rep=rep1&type=pdf)
 
-- **A smoothed boosting algorithm using probabilistic output codes (ICML 2005)**
+- **A Smoothed Boosting Algorithm Using Probabilistic Output Codes (ICML 2005)**
   - Rong Jin, Jian Zhang
   - [[Paper]](http://www.stat.purdue.edu/~jianzhan/papers/icml05jin.pdf)
 
-- **Robust boosting and its relation to bagging (KDD 2005)**
+- **Robust Boosting and its Relation to Bagging (KDD 2005)**
   - Saharon Rosset
   - [[Paper]](https://www.tau.ac.il/~saharon/papers/bagboost.pdf)
 
-- **Efficient computations via scalable sparse kernel partial least squares and boosted latent features (KDD 2005)**
+- **Efficient Computations via Scalable Sparse Kernel Partial Least Squares and Boosted Latent Features (KDD 2005)**
   - Michinari Momma
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.387.2078&rep=rep1&type=pdf)
 
@@ -1290,23 +1290,23 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Stephan Bloehdorn, Andreas Hotho
   - [[Paper]](https://ieeexplore.ieee.org/document/1410303)
 
-- **Boosting grammatical inference with confidence oracles (ICML 2004)**
+- **Boosting Grammatical Inference with Confidence Oracles (ICML 2004)**
   - Jean-Christophe Janodet, Richard Nock, Marc Sebban, Henri-Maxime Suchier
   - [[Paper]](http://www1.univ-ag.fr/~rnock/Articles/Drafts/icml04-jnss.pdf)
 
-- **Surrogate maximization/minimization algorithms for AdaBoost and the logistic regression model (ICML 2004)**
+- **Surrogate Maximization/Minimization Algorithms for AdaBoost and the Logistic Regression Model (ICML 2004)**
   - Zhihua Zhang, James T. Kwok, Dit-Yan Yeung
   - [[Paper]](https://icml.cc/Conferences/2004/proceedings/papers/77.pdf)
 
-- **Training conditional random fields via gradient tree boosting (ICML 2004)**
+- **Training Conditional Random Fields via Gradient Tree Boosting (ICML 2004)**
   - Thomas G. Dietterich, Adam Ashenfelter, Yaroslav Bulatov
   - [[Paper]](http://web.engr.oregonstate.edu/~tgd/publications/ml2004-treecrf.pdf)
 
-- **Boosting margin based distance functions for clustering (ICML 2004)**
+- **Boosting Margin Based Distance Functions for Clustering (ICML 2004)**
   - Tomer Hertz, Aharon Bar-Hillel, Daphna Weinshall
   - [[Paper]](http://www.cs.huji.ac.il/~daphna/papers/distboost-icml.pdf)
 
-- **Column-generation boosting methods for mixture of kernels (KDD 2004)**
+- **Column-Generation Boosting Methods for Mixture of Kernels (KDD 2004)**
   - Jinbo Bi, Tong Zhang, Kristin P. Bennett
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.6359&rep=rep1&type=pdf)
 
