@@ -1665,7 +1665,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.researchgate.net/publication/221299823_Text_filtering_by_boosting_Naive_Bayes_classifiers)
 
 ## 1999
-- **Boosting methodology for regression problems (AISTATS 1999)**
+- **Boosting Methodology for Regression Problems (AISTATS 1999)**
   - Greg Ridgeway, David Madigan, Thomas Richardson
   - [[Paper]](https://pdfs.semanticscholar.org/5f19/6a8baa281b2190c4519305bec8f5c91c8e5a.pdf)
 
