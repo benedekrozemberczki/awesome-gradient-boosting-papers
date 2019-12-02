@@ -1660,7 +1660,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Alexey Tsymbal, Seppo Puuronen
   - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45372-5_12)
 
-- **Text filtering by boosting naive bayes classifiers (SIGIR 2000)**
+- **Text Filtering by Boosting Naive Bayes Classifiers (SIGIR 2000)**
   - Yu-Hwan Kim, Shang-Yoon Hahn, Byoung-Tak Zhang
   - [[Paper]](https://www.researchgate.net/publication/221299823_Text_filtering_by_boosting_Naive_Bayes_classifiers)
 
