@@ -1711,15 +1711,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://pdfs.semanticscholar.org/0afc/9de245547c675d40ad29240e2788c0416f91.pdf)
 
 ## 1997
-- **Boosting the margin: A new explanation for the effectiveness of voting methods (ICML 1997)**
+- **Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods (ICML 1997)**
   - Robert E. Schapire, Yoav Freund, Peter Barlett, Wee Sun Lee
   - [[Paper]](https://www.cc.gatech.edu/~isbell/tutorials/boostingmargins.pdf)
 
-- **Using output codes to boost multiclass learning problems (ICML 1997)**
+- **Using Output Codes to Boost Multiclass Learning Problems (ICML 1997)**
   - Robert E. Schapire
   - [[Paper]](http://rob.schapire.net/papers/Schapire97.pdf)
 
-- **Improving Regressors using Boosting Techniques (ICML 1997)**
+- **Improving Regressors Using Boosting Techniques (ICML 1997)**
   - Harris Drucker
   - [[Paper]](https://pdfs.semanticscholar.org/8d49/e2dedb817f2c3330e74b63c5fc86d2399ce3.pdf)
 
