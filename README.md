@@ -1563,11 +1563,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Sanmay Das
   - [[Paper]](https://pdfs.semanticscholar.org/93b6/25a0e35b59fa6a3e7dc1cbdb31268d62d69f.pdf)
 
-- **The distributed boosting algorithm (KDD 2001)**
+- **The Distributed Boosting Algorithm (KDD 2001)**
   - Aleksandar Lazarevic, Zoran Obradovic
   - [[Paper]](https://www.researchgate.net/publication/2488971_The_Distributed_Boosting_Algorithm)
 
-- **Experimental comparisons of online and batch versions of bagging and boosting (KDD 2001)**
+- **Experimental Comparisons of Online and Batch Versions of Bagging and Boosting (KDD 2001)**
   - Nikunj C. Oza, Stuart J. Russell
   - [[Paper]](https://people.eecs.berkeley.edu/~russell/papers/kdd01-online.pdf)
 
