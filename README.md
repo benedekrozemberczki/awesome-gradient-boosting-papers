@@ -245,7 +245,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1810.11363)
   - [[Code]](https://catboost.ai/)
 
-- **Cost efficient gradient boosting (NIPS 2017)**
+- **Cost Efficient Gradient Boosting (NIPS 2017)**
   - Sven Peter, Ferran Diego, Fred A. Hamprecht, Boaz Nadler
   - [[Paper]](https://papers.nips.cc/paper/6753-cost-efficient-gradient-boosting)
   - [[Code]](https://github.com/svenpeter42/LightGBM-CEGB)
@@ -260,12 +260,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree)
   - [[Code]](https://lightgbm.readthedocs.io/en/latest/)
 
-- **Early stopping for kernel boosting algorithms: A general analysis with localized complexities (NIPS 2017)**
+- **Early Stopping for Kernel Boosting Algorithms: A General Analysis with Localized Complexities (NIPS 2017)**
   - Yuting Wei, Fanny Yang, Martin J. Wainwright
   - [[Paper]](https://arxiv.org/abs/1707.01543)
   - [[Code]](https://github.com/fanny-yang/EarlyStoppingRKHS)
 
-- **Online multiclass boosting (NIPS 2017)**
+- **Online Multiclass Boosting (NIPS 2017)**
   - Young Hun Jung, Jack Goetz, Ambuj Tewari
   - [[Paper]](https://papers.nips.cc/paper/6693-online-multiclass-boosting.pdf)
 
@@ -353,7 +353,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Generalized BROOF-L2R: A General Framework for Learning to Rank Based on Boosting and Random Forests (SIGIR 2016)**
   - Clebson C. A. de Sá, Marcos André Gonçalves, Daniel Xavier de Sousa, Thiago Salles
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2911540)
-
 
 ## 2015
 
