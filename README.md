@@ -1506,7 +1506,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](http://rob.schapire.net/papers/uai02.pdf)
 
 ## 2001
-- **Is regularization unnecessary for boosting? (AISTATS 2001)**
+- **Is Regularization Unnecessary for Boosting? (AISTATS 2001)**
   - Wenxin Jiang
   - [[Paper]](https://www.researchgate.net/publication/2439718_Is_Regularization_Unnecessary_for_Boosting)
 
