@@ -1343,11 +1343,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Abraham J. Wyner
   - [[Paper]](http://www-stat.wharton.upenn.edu/~ajw/exploss.ps)
 
-- **Boosting support vector machines for text classification through parameter-free threshold relaxation (CIKM 2003)**
+- **Boosting Support Vector Machines for Text Classification through Parameter-Free Threshold Relaxation (CIKM 2003)**
   - James G. Shanahan, Norbert Roma
   - [[Paper]](https://dl.acm.org/citation.cfm?id=956911)
 
-- **Learning cross-document structural relationships using boosting (CIKM 2003)**
+- **Learning Cross-Document Structural Relationships Using Boosting (CIKM 2003)**
   - Zhu Zhang, Jahna Otterbacher, Dragomir R. Radev
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.7712&rep=rep1&type=pdf)
   
@@ -1379,7 +1379,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Michael Fink, Pietro Perona
   - [[Paper]](https://papers.nips.cc/paper/2520-mutual-boosting-for-contextual-inference)
 
-- **Boosting versus Covering (NIPS 2003)**
+- **Boosting Versus Covering (NIPS 2003)**
   - Kohei Hatano, Manfred K. Warmuth
   - [[Paper]](https://papers.nips.cc/paper/2532-boosting-versus-covering)
 
