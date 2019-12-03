@@ -454,7 +454,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Karim Ali, Kate Saenko
   - [[Paper]](https://ieeexplore.ieee.org/document/6909708)
 
-- **The return of AdaBoost.MH: multi-class Hamming trees (ICLR 2014)**
+- **The Return of AdaBoost.MH: Multi-Class Hamming Trees (ICLR 2014)**
   - Balázs Kégl
   - [[Paper]](https://arxiv.org/pdf/1312.6086.pdf)
   - [[Code]](https://github.com/aciditeam/acidano/blob/master/acidano/utils/cost.py)
@@ -655,11 +655,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://ieeexplore.ieee.org/document/5995605)
   - [[Code]](https://pythonhosted.org/bob.learn.boosting/)
 
-- **Robust and efficient regularized boosting using total Bregman divergence (CVPR 2011)**
+- **Robust and Efficient Regularized Boosting Using Total Bregman Divergence (CVPR 2011)**
   - Meizhu Liu, Baba C. Vemuri
   - [[Paper]](https://ieeexplore.ieee.org/document/5995686)
 
-- **Treat samples differently: Object tracking with semi-supervised online CovBoost (ICCV 2011)**
+- **Treat Samples differently: Object Tracking with Semi-Supervised Online CovBoost (ICCV 2011)**
   - Guorong Li, Lei Qin, Qingming Huang, Junbiao Pang, Shuqiang Jiang
   - [[Paper]](https://ieeexplore.ieee.org/document/6126297)
 
@@ -697,7 +697,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Matus Telgarsky
   - [[Paper]](https://papers.nips.cc/paper/4343-the-fast-convergence-of-boosting)
 
-- **ShareBoost: Efficient multiclass learning with feature sharing (NIPS 2011)**
+- **ShareBoost: Efficient Multiclass Learning with Feature Sharing (NIPS 2011)**
   - Shai Shalev-Shwartz, Yonatan Wexler, Amnon Shashua
   - [[Paper]](https://papers.nips.cc/paper/4213-shareboost-efficient-multiclass-learning-with-feature-sharing)
 
@@ -713,11 +713,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Hao Xia, Steven C. H. Hoi
   - [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3280&context=sis_research)
 
-- **A boosting approach to improving pseudo-relevance feedback (SIGIR 2011)**
+- **A Boosting Approach to Improving Pseudo-Relevance Feedback (SIGIR 2011)**
   - Yuanhua Lv, ChengXiang Zhai, Wan Chen
   - [[Paper]](http://www.tyr.unlu.edu.ar/tallerIR/2012/papers/pseudorelevance.pdf)
 
-- **Bagging gradient-boosted trees for high precision, low variance ranking models (SIGIR 2011)**
+- **Bagging Gradient-Boosted Trees for High Precision, Low Variance Ranking Models (SIGIR 2011)**
   - Yasser Ganjisaffar, Rich Caruana, Cristina Videira Lopes
   - [[Paper]](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/materials/bagging_lmbamart_jforests.pdf)
 
@@ -725,7 +725,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Narayanan Unny Edakunni, Gary Brown, Tim Kovacs
   - [[Paper]](https://arxiv.org/abs/1202.3716)
 
-- **Parallel boosted regression trees for web search ranking (WWW 2011)**
+- **Parallel Boosted Regression Trees for Web Search Ranking (WWW 2011)**
   - Stephen Tyree, Kilian Q. Weinberger, Kunal Agrawal, Jennifer Paykin
   - [[Paper]](http://www.cs.cornell.edu/~kilian/papers/fr819-tyreeA.pdf)
   - [[Code]](https://github.com/YS-L/pgbm)
