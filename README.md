@@ -825,43 +825,43 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2009
 
-- **Feature selection for ranking using boosted trees (CIKM 2009)**
+- **Feature Selection for Ranking Using Boosted Trees (CIKM 2009)**
   - Feng Pan, Tim Converse, David Ahn, Franco Salvetti, Gianluca Donato
   - [[Paper]](http://www.francosalvetti.com/cikm09_camera2.pdf)
 
-- **Boosting KNN text classification accuracy by using supervised term weighting schemes (CIKM 2009)**
+- **Boosting KNN Text Classification Accuracy by Using Supervised Term Weighting Schemes (CIKM 2009)**
   - Iyad Batal, Milos Hauskrecht
   - [[Paper]](https://people.cs.pitt.edu/~milos/research/CIKM_2009_boosting_KNN.pdf)
   
-- **Stochastic gradient boosted distributed decision trees (CIKM 2009)**
+- **Stochastic Gradient Boosted Distributed Decision Trees (CIKM 2009)**
   - Jerry Ye, Jyh-Herng Chow, Jiang Chen, Zhaohui Zheng
   - [[Paper]](http://cse.iitrpr.ac.in/ckn/courses/f2012/thomas.pdf)
 
-- **A general magnitude-preserving boosting algorithm for search ranking (CIKM 2009)**
+- **A General Magnitude-Preserving Boosting Algorithm for Search Ranking (CIKM 2009)**
   - Chenguang Zhu, Weizhu Chen, Zeyuan Allen Zhu, Gang Wang, Dong Wang, Zheng Chen
   - [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cikm2009-1.pdf)
   
-- **Reducing Joint Boost-based multiclass classification to proximity search (CVPR 2009)**
+- **Reducing Joint Boost-Based Multiclass Classification to Proximity Search (CVPR 2009)**
   - Alexandra Stefan, Vassilis Athitsos, Quan Yuan, Stan Sclaroff
   - [[Paper]](https://www.semanticscholar.org/paper/Reducing-JointBoost-based-multiclass-classification-Stefan-Athitsos/08ba1a7d91ce9b4ac26869bfe4bb7c955b0d1a24)
 
-- **Imbalanced RankBoost for efficiently ranking large-scale image%2Fvideo collections (CVPR 2009)**
+- **Imbalanced RankBoost for Efficiently Ranking Large-Scale Image-Video Collections (CVPR 2009)**
   - Michele Merler, Rong Yan, John R. Smith
   - [[Paper]](https://www.semanticscholar.org/paper/Imbalanced-RankBoost-for-efficiently-ranking-Merler-Yan/031ba6bf0d6df8bd3aa686ce85791b7d74f0b6d5)
 
-- **Regularized multi-class semi-supervised boosting (CVPR 2009)**
+- **Regularized Multi-Class Semi-Supervised Boosting (CVPR 2009)**
   - Amir Saffari, Christian Leistner, Horst Bischof
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/5206715)
 
-- **Learning to associate: HybridBoosted multi-target tracker for crowded scene (CVPR 2009)**
+- **Learning to Associate: HybridBoosted Multi-Target Tracker for Crowded Scene (CVPR 2009)**
   - Yuan Li, Chang Huang, Ram Nevatia
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.8335&rep=rep1&type=pdf)
 
-- **Boosted multi-task learning for face verification with applications to web image and video search (CVPR 2009)**
+- **Boosted Multi-task Learning for Face Verification with Applications to Web Image and Video Search (CVPR 2009)**
   - Xiaogang Wang, Cha Zhang, Zhengyou Zhang
   - [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/webface.pdf)
 
-- **LidarBoost: Depth superresolution for ToF 3D shape scanning (CVPR 2009)**
+- **LidarBoost: Depth Superresolution for ToF 3D Shape Scanning (CVPR 2009)**
   - Sebastian Schuon, Christian Theobalt, James E. Davis, Sebastian Thrun
   - [[Paper]](http://ai.stanford.edu/~schuon/sr/cvpr09_poster_lidarboost.pdf)
 
@@ -869,31 +869,31 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jianfeng Gao, Qiang Wu, Chris Burges, Krysta Marie Svore, Yi Su, Nazan Khan, Shalin Shah, Hongyan Zhou
   - [[Paper]](https://pdfs.semanticscholar.org/7a82/66335d0b44596574588eabb090bfeae4ab35.pdf)
 
-- **Finding shareable informative patterns and optimal coding matrix for multiclass boosting (ICCV 2009)**
+- **Finding Shareable Informative Patterns and Optimal Coding Matrix for Multiclass Boosting (ICCV 2009)**
   - Bang Zhang, Getian Ye, Yang Wang, Jie Xu, Gunawan Herman
   - [[Paper]](https://ieeexplore.ieee.org/document/5459146)
 
-- **RankBoost with L1 regularization for facial expression recognition and intensity estimation (ICCV 2009)**
+- **RankBoost with L1 Regularization for Facial Expression Recognition and Intensity Estimation (ICCV 2009)**
   - Peng Yang, Qingshan Liu, Dimitris N. Metaxas
   - [[Paper]](https://ieeexplore.ieee.org/document/5459371)
 
-- **A robust boosting tracker with minimum error bound in a co-training framework (ICCV 2009)**
+- **A Robust Boosting Tracker with Minimum Error Bound in a Co-Training Framework (ICCV 2009)**
   - Rong Liu, Jian Cheng, Hanqing Lu
   - [[Paper]](http://nlpr-web.ia.ac.cn/2009papers/gjhy/gh1.pdf)
 
-- **Tutorial summary: Survey of boosting from an optimization perspective (ICML 2009)**
+- **Tutorial Summary: Survey of Boosting from an Optimization Perspective (ICML 2009)**
   - Manfred K. Warmuth, S. V. N. Vishwanathan
   - [[Paper]](http://www.stat.purdue.edu/~vishy/erlpboost/manfred.pdf)
 
-- **Boosting products of base classifiers (ICML 2009)**
+- **Boosting Products of Base Classifiers (ICML 2009)**
   - Balázs Kégl, Róbert Busa-Fekete
   - [[Paper]](https://users.lal.in2p3.fr/kegl/research/PDFs/keglBusafekete09.pdf)
 
-- **ABC-boost: adaptive base class boost for multi-class classification (ICML 2009)**
+- **ABC-boost: Adaptive Base Class Boost for Multi-Class Classification (ICML 2009)**
   - Ping Li
   - [[Paper]](https://icml.cc/Conferences/2009/papers/417.pdf)
 
-- **Boosting with structural sparsity (ICML 2009)**
+- **Boosting with Structural Sparsity (ICML 2009)**
   - John C. Duchi, Yoram Singer
   - [[Paper]](https://web.stanford.edu/~jduchi/projects/DuchiSi09a.pdf)
 
@@ -901,7 +901,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Xi Li, Kazuhiro Fukui, Nanning Zheng
   - [[Paper]](https://www.researchgate.net/publication/220812439_Boosting_Constrained_Mutual_Subspace_Method_for_Robust_Image-Set_Based_Object_Recognition)
 
-- **Information theoretic regularization for semi-supervised boosting (KDD 2009)**
+- **Information Theoretic Regularization for Semi-supervised Boosting (KDD 2009)**
   - Lei Zheng, Shaojun Wang, Yan Liu, Chi-Hoon Lee
   - [[Paper]](https://pdfs.semanticscholar.org/5255/242d50851ce56354e10ae8fdcee6f47591c9.pdf)
 
@@ -930,43 +930,43 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://pdfs.semanticscholar.org/c8be/b70c37e4b4c4ad77e46b39060c977779d201.pdf)
 
 ## 2008
-- **Group-based learning: a boosting approach (CIKM 2008)**
+- **Group-Based Learning: A Boosting Approach (CIKM 2008)**
   - Weijian Ni, Jun Xu, Hang Li, Yalou Huang
   - [[Paper]](http://www.bigdatalab.ac.cn/~junxu/publications/CIKM2008_GroupLearn.pdf)
 
-- **Semi-supervised boosting using visual similarity learning (CVPR 2008)**
+- **Semi-Supervised Boosting Using Visual Similarity Learning (CVPR 2008)**
   - Christian Leistner, Helmut Grabner, Horst Bischof
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.7914&rep=rep1&type=pdf)
 
-- **Mining compositional features for boosting (CVPR 2008)**
+- **Mining Compositional Features for Boosting (CVPR 2008)**
   - Junsong Yuan, Jiebo Luo, Ying Wu
   - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4587347)
 
-- **Boosted deformable model for human body alignment (CVPR 2008)**
+- **Boosted Deformable Model for Human Body Alignment (CVPR 2008)**
   - Xiaoming Liu, Ting Yu, Thomas Sebastian, Peter H. Tu
   - [[Paper]](https://www.cse.msu.edu/~liuxm/publication/Liu_Yu_Sebastian_Tu_cvpr08.pdf)
 
-- **Discriminative modeling by Boosting on Multilevel Aggregates (CVPR 2008)**
+- **Discriminative Modeling by Boosting on Multilevel Aggregates (CVPR 2008)**
   - Jason J. Corso
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.409.3166&rep=rep1&type=pdf)
 
-- **Face alignment via boosted ranking model (CVPR 2008)**
+- **Face Alignment via Boosted Ranking Model (CVPR 2008)**
   - Hao Wu, Xiaoming Liu, Gianfranco Doretto
   - [[Paper]](https://ieeexplore.ieee.org/document/4587753)
   
-- **Boosting adaptive linear weak classifiers for online learning and tracking (CVPR 2008)**
+- **Boosting Adaptive Linear Weak Classifiers for Online Learning and Tracking (CVPR 2008)**
   - Toufiq Parag, Fatih Porikli, Ahmed M. Elgammal
   - [[Paper]](https://www.merl.com/publications/docs/TR2008-065.pdf)
 
-- **Detection with multi-exit asymmetric boosting (CVPR 2008)**
+- **Detection with Multi-Exit Asymmetric Boosting (CVPR 2008)**
   - Minh-Tri Pham, V-D. D. Hoang, Tat-Jen Cham
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.6364&rep=rep1&type=pdf)
 
-- **Boosting ordinal features for accurate and fast iris recognition (CVPR 2008)**
+- **Boosting Ordinal Features for Accurate and Fast Iris Recognition (CVPR 2008)**
   - Zhaofeng He, Zhenan Sun, Tieniu Tan, Xianchao Qiu, Cheng Zhong, Wenbo Dong
   - [[Paper]](https://www.researchgate.net/publication/224323296_Boosting_ordinal_features_for_accurate_and_fast_iris_recognition)
 
-- **Adaptive and compact shape descriptor by progressive feature combination and selection with boosting (CVPR 2008)**
+- **Adaptive and Compact Shape Descriptor by Progressive Feature Combination and Selection with Boosting (CVPR 2008)**
   - Cheng Chen, Yueting Zhuang, Jun Xiao, Fei Wu
   - [[Paper]](https://ieeexplore.ieee.org/document/4587613)
   
@@ -974,19 +974,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Andreas Karwath, Kristian Kersting, Niels Landwehr
   - [[Paper]](https://www.cs.uni-potsdam.de/~landwehr/ICDM08boosting.pdf)
 
-- **Boosting with incomplete information (ICML 2008)**
+- **Boosting with Incomplete Information (ICML 2008)**
   - Gholamreza Haffari, Yang Wang, Shaojun Wang, Greg Mori, Feng Jiao
   - [[Paper]](http://users.monash.edu.au/~gholamrh/publications/boosting_icml08_slides.pdf)
   
-- **ManifoldBoost: stagewise function approximation for fully-, semi- and un-supervised learning (ICML 2008)**
+- **ManifoldBoost: Stagewise Function Approximation for Fully-, Semi- and Un-supervised Learning (ICML 2008)**
   - Nicolas Loeff, David A. Forsyth, Deepak Ramachandran
   - [[Paper]](http://reason.cs.uiuc.edu/deepak/manifoldboost.pdf)
 
-- **Random classification noise defeats all convex potential boosters (ICML 2008)**
+- **Random Classification Noise Defeats All Convex Potential Boosters (ICML 2008)**
   - Philip M. Long, Rocco A. Servedio
   - [[Paper]](http://phillong.info/publications/LS09_potential.pdf)
 
-- **Multi-class cost-sensitive boosting with p-norm loss functions (KDD 2008)**
+- **Multi-class Cost-Sensitive Boosting with P-norm Loss Functions (KDD 2008)**
   - Aurelie C. Lozano, Naoki Abe
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1401953)
 
@@ -998,7 +998,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Chunhua Shen, Alan Welsh, Lei Wang
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.879.7750&rep=rep1&type=pdf)
 
-- **On the Design of Loss Functions for Classification: theory, robustness to outliers, and SavageBoost (NIPS 2008)**
+- **On the Design of Loss Functions for Classification: Theory, Robustness to Outliers, and SavageBoost (NIPS 2008)**
   - Hamed Masnadi-Shirazi, Nuno Vasconcelos
   - [[Paper]](https://papers.nips.cc/paper/3591-on-the-design-of-loss-functions-for-classification-theory-robustness-to-outliers-and-savageboost)
 
@@ -1006,7 +1006,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Philip M. Long, Rocco A. Servedio
   - [[Paper]](http://phillong.info/publications/LS08_adaptive_martingale_boosting.pdf)
   
-- **A boosting algorithm for learning bipartite ranking functions with partially labeled data (SIGIR 2008)**
+- **A Boosting Algorithm for Learning Bipartite Ranking Functions with Partially Labeled Data (SIGIR 2008)**
   - Massih-Reza Amini, Tuong-Vinh Truong, Cyril Goutte
   - [[Paper]](http://ama.liglab.fr/~amini/Publis/SemiSupRanking_sigir08.pdf)
 
