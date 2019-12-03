@@ -565,28 +565,28 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Carlos J. Becker, C. Mario Christoudias, Pascal Fua
   - [[Paper]](https://papers.nips.cc/paper/5200-non-linear-domain-adaptation-with-boosting)
 
-- **Boosting in the presence of label noise (UAI 2013)**
+- **Boosting in the Presence of Label Noise (UAI 2013)**
   - Jakramate Bootkrajang, Ata Kabán
   - [[Paper]](https://arxiv.org/abs/1309.6818)
 
 ## 2012
-- **Contextual boost for pedestrian detection (CVPR 2012)**
+- **Contextual Boost for Pedestrian Detection (CVPR 2012)**
   - Yuanyuan Ding, Jing Xiao
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.308.5611&rep=rep1&type=pdf)
 
-- **Shrink boost for selecting multi-LBP histogram features in object detection (CVPR 2012)**
+- **Shrink Boost for Selecting Multi-LBP Histogram Features in Object Detection (CVPR 2012)**
   - Cher Keng Heng, Sumio Yokomitsu, Yuichi Matsumoto, Hajime Tamura
   - [[Paper]](https://ieeexplore.ieee.org/document/6248061)
 
-- **Boosting bottom-up and top-down visual features for saliency estimation (CVPR 2012)**
+- **Boosting Bottom-Up and Top-Down Visual Features for Saliency Estimation (CVPR 2012)**
   - Ali Borji
   - [[Paper]](http://ilab.usc.edu/borji/papers/cvpr-2012-BUModel-v4.pdf)
 
-- **Boosting algorithms for simultaneous feature extraction and selection (CVPR 2012)**
+- **Boosting Algorithms for Simultaneous Feature Extraction and Selection (CVPR 2012)**
   - Mohammad J. Saberian, Nuno Vasconcelos
   - [[Paper]](http://svcl.ucsd.edu/publications/conference/2012/cvpr/SOPBoost.pdf)
 
-- **Sharing features in multi-class boosting via group sparsity (CVPR 2012)**
+- **Sharing Features in Multi-class Boosting via Group Sparsity (CVPR 2012)**
   - Sakrapee Paisitkriangkrai, Chunhua Shen, Anton van den Hengel
   - [[Paper]](https://cs.adelaide.edu.au/~paulp/publications/pubs/sharing_cvpr2012.pdf)
 
@@ -630,27 +630,27 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Rebecca A. Hutchinson, Li-Ping Liu, Thomas G. Dietterich
   - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3711/4086)
 
-- **FlowBoost - Appearance learning from sparsely annotated video (CVPR 2011)**
+- **FlowBoost - Appearance Learning from Sparsely Annotated Video (CVPR 2011)**
   - Karim Ali, David Hasler, François Fleuret
   - [[Paper]](http://www.karimali.org/publications/AHF_CVPR11.pdf)
 
-- **AdaBoost on low-rank PSD matrices for metric learning (CVPR 2011)**
+- **AdaBoost on Low-Rank PSD Matrices for Metric Learning (CVPR 2011)**
   - Jinbo Bi, Dijia Wu, Le Lu, Meizhu Liu, Yimo Tao, Matthias Wolf
   - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995363)
 
-- **Boosted local structured HOG-LBP for object localization (CVPR 2011)**
+- **Boosted Local Structured HOG-LBP for Object Localization (CVPR 2011)**
   - Junge Zhang, Kaiqi Huang, Yinan Yu, Tieniu Tan
   - [[Paper]](http://www.cbsr.ia.ac.cn/users/ynyu/1682.pdf)
 
-- **A direct formulation for totally-corrective multi-class boosting (CVPR 2011)**
+- **A Direct Formulation for Totally-Corrective Multi-Class Boosting (CVPR 2011)**
   - Chunhua Shen, Zhihui Hao
   - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5995554)
 
-- **Gated classifiers: Boosting under high intra-class variation (CVPR 2011)**
+- **Gated Classifiers: Boosting Under High Intra-class Variation (CVPR 2011)**
   - Oscar M. Danielsson, Babak Rasolzadeh, Stefan Carlsson
   - [[Paper]](http://www.nada.kth.se/cvap/cvg/papers/danielssonCVPR11.pdf)
 
-- **TaylorBoost: First and second-order boosting algorithms with explicit margin control (CVPR 2011)**
+- **TaylorBoost: First and Second-order Boosting Algorithms with Explicit Margin Control (CVPR 2011)**
   - Mohammad J. Saberian, Hamed Masnadi-Shirazi, Nuno Vasconcelos
   - [[Paper]](https://ieeexplore.ieee.org/document/5995605)
   - [[Code]](https://pythonhosted.org/bob.learn.boosting/)
