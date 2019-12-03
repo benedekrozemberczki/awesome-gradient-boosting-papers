@@ -472,7 +472,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Shang-Tse Chen, Hsuan-Tien Lin, Chi-Jen Lu
   - [[Paper]](https://www.cc.gatech.edu/~schen351/paper/icml14boost.pdf)
 
-- **Boosting multi-step autoregressive forecasts (ICML 2014)**
+- **Boosting Multi-Step Autoregressive Forecasts (ICML 2014)**
   - Souhaib Ben Taieb, Rob J. Hyndman
   - [[Paper]](http://proceedings.mlr.press/v32/taieb14.pdf)
 
@@ -484,11 +484,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Oscar Beijbom, Mohammad J. Saberian, David J. Kriegman, Nuno Vasconcelos
   - [[Paper]](http://proceedings.mlr.press/v32/beijbom14.pdf)
 
-- **A multi-class boosting method with direct optimization (KDD 2014)**
+- **A Multi-Class Boosting Method with Direct Optimization (KDD 2014)**
   - Shaodan Zhai, Tian Xia, Shaojun Wang
   - [[Paper]](https://dl.acm.org/citation.cfm?id=2623689)
 
-- **Gradient boosted feature selection (KDD 2014)**
+- **Gradient Boosted Feature Selection (KDD 2014)**
   - Zhixiang Eddie Xu, Gao Huang, Kilian Q. Weinberger, Alice X. Zheng
   - [[Paper]](https://arxiv.org/abs/1901.04055)
   - [[Code]](https://github.com/dmlc/xgboost)
@@ -549,7 +549,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Harsh H. Pareek, Pradeep Ravikumar
   - [[Paper]](https://www.cs.cmu.edu/~pradeepr/paperz/humanboosting.pdf)
 
-- **Collaborative boosting for activity classification in microblogs (KDD 2013)**
+- **Collaborative Boosting for Activity Classification in Microblogs (KDD 2013)**
   - Yangqiu Song, Zhengdong Lu, Cane Wing-ki Leung, Qiang Yang
   - [[Paper]](http://chbrown.github.io/kdd-2013-usb/kdd/p482.pdf)
 
