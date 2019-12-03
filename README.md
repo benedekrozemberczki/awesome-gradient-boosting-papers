@@ -739,36 +739,36 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Tong Xiao, Jingbo Zhu, Muhua Zhu, Huizhen Wang
   - [[Paper]](https://www.aclweb.org/anthology/P10-1076)
 
-- **BagBoo: a scalable hybrid bagging-the-boosting model (CIKM 2010)**
+- **BagBoo: A Scalable Hybrid Bagging-the-Boosting Model (CIKM 2010)**
   - Dmitry Yurievich Pavlov, Alexey Gorodilov, Cliff A. Brunk
   - [[Paper]](http://cache-default03h.cdn.yandex.net/download.yandex.ru/company/a_scalable_hybrid_bagging_the_boosting_model.pdf)
   - [[Code]](https://github.com/arogozhnikov/infiniteboost)
 
-- **Automatic detection of craters in planetary images: an embedded framework using feature selection and boosting (CIKM 2010)**
+- **Automatic Detection of Craters in Planetary Images: an Embedded Framework Using Feature Selection and Boosting (CIKM 2010)**
   - Wei Ding, Tomasz F. Stepinski, Lourenço P. C. Bandeira, Ricardo Vilalta, Youxi Wu, Zhenyu Lu, Tianyu Cao
   - [[Paper]](https://www.uh.edu/~rvilalta/papers/2010/cikm10.pdf)
 
-- **Facial point detection using boosted regression and graph models (CVPR 2010)**
+- **Facial Point Detection Using Boosted Regression and Graph Models (CVPR 2010)**
   - Michel François Valstar, Brais Martínez, Xavier Binefa, Maja Pantic
   - [[Paper]](https://ibug.doc.ic.ac.uk/media/uploads/documents/CVPR-2010-ValstarEtAl-CAMERA.pdf)
 
-- **Boosting for transfer learning with multiple sources (CVPR 2010)**
+- **Boosting for Transfer Learning with Multiple Sources (CVPR 2010)**
   - Yi Yao, Gianfranco Doretto
   - [[Paper]](https://ieeexplore.ieee.org/document/5539857)
 
-- **Efficient rotation invariant object detection using boosted Random Ferns (CVPR 2010)**
+- **Efficient Rotation Invariant Object Detection Using Boosted Random Ferns (CVPR 2010)**
   - Michael Villamizar, Francesc Moreno-Noguer, Juan Andrade-Cetto, Alberto Sanfeliu
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.4002&rep=rep1&type=pdf)
   
-- **Implicit hierarchical boosting for multi-view object detection (CVPR 2010)**
+- **Implicit Hierarchical Boosting for Multi-view Object Detection (CVPR 2010)**
   - Xavier Perrotton, Marc Sturzel, Michel Roux
   - [[Paper]](https://ieeexplore.ieee.org/document/5540115)
 
-- **On-line semi-supervised multiple-instance boosting (CVPR 2010)**
+- **On-Line Semi-Supervised Multiple-Instance Boosting (CVPR 2010)**
   - Bernhard Zeisl, Christian Leistner, Amir Saffari, Horst Bischof
   - [[Paper]](https://ieeexplore.ieee.org/document/5539860)
 
-- **Online multi-class LPBoost (CVPR 2010)**
+- **Online Multi-Class LPBoost (CVPR 2010)**
   - Amir Saffari, Martin Godec, Thomas Pock, Christian Leistner, Horst Bischof
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.8939&rep=rep1&type=pdf)
   - [[Code]](https://github.com/amirsaffari/online-multiclass-lpboost)
@@ -794,15 +794,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Alexander Grubb, J. Andrew Bagnell
   - [[Paper]](https://icml.cc/Conferences/2010/papers/451.pdf)
 
-- **Fast boosting using adversarial bandits (ICML 2010)**
+- **Fast Boosting Using Adversarial Bandits (ICML 2010)**
   - Róbert Busa-Fekete, Balázs Kégl
   - [[Paper]](https://www.lri.fr/~kegl/research/PDFs/BuKe10.pdf)
 
-- **Boosting with structure information in the functional space: an application to graph classification (KDD 2010)**
+- **Boosting with Structure Information in the Functional Space: an Application to Graph Classification (KDD 2010)**
   - Hongliang Fei, Jun Huan
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1835804.1835886)
 
-- **Multi-task learning for boosting with application to web search ranking (KDD 2010)**
+- **Multi-task Learning for Boosting with Application to Web Search Ranking (KDD 2010)**
   - Olivier Chapelle, Pannagadatta K. Shivaswamy, Srinivas Vadrevu, Kilian Q. Weinberger, Ya Zhang, Belle L. Tseng
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1835953)
 
