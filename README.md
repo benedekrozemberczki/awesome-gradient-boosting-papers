@@ -1056,7 +1056,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - John-Paul Renno, Dimitrios Makris, Graeme A. Jones
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/4270512)
 
-- **A boosting regression approach to medical anatomy detection (CVPR 2007)**
+- **A Boosting Regression Approach to Medical Anatomy Detection (CVPR 2007)**
   - Shaohua Kevin Zhou, Jinghao Zhou, Dorin Comaniciu
   - [[Paper]](http://ww.w.comaniciu.net/Papers/BoostingRegression_CVPR07.pdf)
 
@@ -1088,23 +1088,23 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Xiaoming Liu, Ting Yu
   - [[Paper]](https://www.cse.msu.edu/~liuxm/publication/Liu_Yu_ICCV2007.pdf)
 
-- **Fast training and selection of Haar features using statistics in boosting-based face detection (ICCV 2007)**
+- **Fast Training and Selection of Haar Features Using Statistics in Boosting-based Face Detection (ICCV 2007)**
   - Minh-Tri Pham, Tat-Jen Cham
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.212.6173&rep=rep1&type=pdf)
 
-- **Cluster Boosted Tree Classifier for Multi-View%2C Multi-Pose Object Detection (ICCV 2007)**
+- **Cluster Boosted Tree Classifier for Multi-View - Multi-Pose Object Detection (ICCV 2007)**
   - Bo Wu, Ramakant Nevatia
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.9885&rep=rep1&type=pdf)
 
-- **Asymmetric boosting (ICML 2007)**
+- **Asymmetric Boosting (ICML 2007)**
   - Hamed Masnadi-Shirazi, Nuno Vasconcelos
   - [[Paper]](http://www.svcl.ucsd.edu/publications/conference/2007/icml07/AsymmetricBoosting.pdf)
 
-- **Boosting for transfer learning (ICML 2007)**
+- **Boosting for Transfer Learning (ICML 2007)**
   - Wenyuan Dai, Qiang Yang, Gui-Rong Xue, Yong Yu
   - [[Paper]](http://www.cs.ust.hk/~qyang/Docs/2007/tradaboost.pdf)
   
-- **Gradient boosting for kernelized output spaces (ICML 2007)**
+- **Gradient Boosting for Kernelized Output Spaces (ICML 2007)**
   - Pierre Geurts, Louis Wehenkel, Florence d'Alché-Buc
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.3970&rep=rep1&type=pdf)
 
@@ -1128,7 +1128,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Peng Zang, Charles Lee Isbell Jr.
   - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/185.pdf)
 
-- **Model-shared subspace boosting for multi-label classification (KDD 2007)**
+- **Model-Shared Subspace Boosting for Multi-label Classification (KDD 2007)**
   - Rong Yan, Jelena Tesic, John R. Smith
   - [[Paper]](http://rogerioferis.com/VisualRecognitionAndSearch2014/material/papers/IMARSKDD2007.pdf)
 
@@ -1164,7 +1164,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jian Huang, Seyda Ertekin, Yang Song, Hongyuan Zha, C. Lee Giles
   - [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611972771.27)
 
-- **AdaRank: a boosting algorithm for information retrieval (SIGIR 2007)**
+- **AdaRank: a Boosting Algorithm for Information Retrieval (SIGIR 2007)**
   - Jun Xu, Hang Li
   - [[Paper]](http://www.bigdatalab.ac.cn/~junxu/publications/SIGIR2007_AdaRank.pdf)
 
@@ -1186,15 +1186,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Yang Song, Ding Zhou, Jian Huang, Isaac G. Councill, Hongyuan Zha, C. Lee Giles
   - [[Paper]](http://sonyis.me/paperpdf/icdm06_song.pdf)
 
-- **Totally corrective boosting algorithms that maximize the margin (ICML 2006)**
+- **Totally Corrective Boosting Algorithms that Maximize the Margin (ICML 2006)**
   - Manfred K. Warmuth, Jun Liao, Gunnar Rätsch
   - [[Paper]](https://users.soe.ucsc.edu/~manfred/pubs/C75.pdf)
   
-- **How boosting the margin can also boost classifier complexity (ICML 2006)**
+- **How Boosting the Margin Can Also Boost Classifier Complexity (ICML 2006)**
   - Lev Reyzin, Robert E. Schapire
   - [[Paper]](http://rob.schapire.net/papers/boost_complexity.pdf)
 
-- **Multiclass boosting with repartitioning (ICML 2006)**
+- **Multiclass Boosting with Repartitioning (ICML 2006)**
   - Ling Li
   - [[Paper]](https://authors.library.caltech.edu/72259/1/p569-li.pdf)
 
