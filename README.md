@@ -1404,7 +1404,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Michael Collins
   - [[Paper]](https://www.aclweb.org/anthology/P02-1062)
 
-- **Boosting to correct inductive bias in text classification (CIKM 2002)**
+- **Boosting to Correct Inductive Bias in Text Classification (CIKM 2002)**
   - Yan Liu, Yiming Yang, Jaime G. Carbonell
   - [[Paper]](https://dl.acm.org/citation.cfm?id=584792.584850)
   
@@ -1448,7 +1448,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Robert E. Schapire, Peter Stone, David A. McAllester, Michael L. Littman, János A. Csirik
   - [[Paper]](http://www.cs.utexas.edu/~ai-lab/pubs/ICML02-tac.pdf)
 
-- **MARK: a boosting algorithm for heterogeneous kernel models (KDD 2002)**
+- **MARK: A Boosting Algorithm for Heterogeneous Kernel Models (KDD 2002)**
   - Kristin P. Bennett, Michinari Momma, Mark J. Embrechts
   - [[Paper]](http://homepages.rpiscrews.us/~bennek/papers/kdd2.pdf)
 
