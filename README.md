@@ -51,6 +51,18 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Online Multiclass Boosting with Bandit Feedback (AISTATS 2019)**
   - Daniel T. Zhang, Young Hun Jung, Ambuj Tewari
   - [[Paper]](https://arxiv.org/abs/1810.05290)
+  
+- **AdaFair: Cumulative Fairness Adaptive Boosting (CIKM 2019)**
+  - Vasileios Iosifidis, Eirini Ntoutsi
+  - [[Paper]](https://arxiv.org/abs/1909.08982)
+
+- **Interpretable MTL from Heterogeneous Domains using Boosted Tree (CIKM 2019)**
+  - Ya-Lin Zhang, Longfei Li
+  - [[Paper]]( )
+
+- **Adversarial Training of Gradient-Boosted Decision Trees (CIKM 2019)**
+  - Stefano Calzavara, Claudio Lucchese, Gabriele Tolomei
+  - [[Paper]]( )
 
 - **Boosted Density Estimation Remastered (ICML 2019)**
   - Zac Cranko, Richard Nock
