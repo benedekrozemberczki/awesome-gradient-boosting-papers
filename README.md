@@ -58,7 +58,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Interpretable MTL from Heterogeneous Domains using Boosted Tree (CIKM 2019)**
   - Ya-Lin Zhang, Longfei Li
-  - [[Paper]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=3357384.3358072)
 
 - **Adversarial Training of Gradient-Boosted Decision Trees (CIKM 2019)**
   - Stefano Calzavara, Claudio Lucchese, Gabriele Tolomei
