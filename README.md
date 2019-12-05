@@ -62,7 +62,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Adversarial Training of Gradient-Boosted Decision Trees (CIKM 2019)**
   - Stefano Calzavara, Claudio Lucchese, Gabriele Tolomei
-  - [[Paper]]( )
+  - [[Paper]](https://www.dais.unive.it/~calzavara/papers/cikm19.pdf)
 
 - **Boosted Density Estimation Remastered (ICML 2019)**
   - Zac Cranko, Richard Nock
