@@ -100,16 +100,14 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Faster Boosting with Smaller Memory (NeurIPS 2019)**
   - Julaiti Alafate, Yoav Freund
   - [[Paper]](https://arxiv.org/abs/1901.09047)
-  - [[Code]]( )
 
 - **Regularized Gradient Boosting (NeurIPS 2019)**
   - Corinna Cortes, Mehryar Mohri, Dmitry Storcheus
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/8784-regularized-gradient-boosting)
 
 - **Margin-Based Generalization Lower Bounds for Boosted Classifiers (NeurIPS 2019)**
   - Allan Grønlund, Lior Kamma, Kasper Green Larsen, Alexander Mathiasen, Jelani Nelson
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1909.12518)
   - [[Code]]( )
 
 - **Minimal Variance Sampling in Stochastic Gradient Boosting (NeurIPS 2019)**
