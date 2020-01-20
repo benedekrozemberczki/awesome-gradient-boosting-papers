@@ -93,37 +93,37 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1802.05640)
   - [[Code]](https://github.com/GBDT-PL/GBDT-PL)
   
-- **SpiderBoost and Momentum: Faster Variance Reduction Algorithms (NIPS 2019)**
+- **SpiderBoost and Momentum: Faster Variance Reduction Algorithms (NeurIPS 2019)**
   - Zhe Wang, Kaiyi Ji, Yi Zhou, Yingbin Liang, Vahid Tarokh
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Faster Boosting with Smaller Memory (NIPS 2019)**
+- **Faster Boosting with Smaller Memory (NeurIPS 2019)**
   - Julaiti Alafate, Yoav Freund
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Regularized Gradient Boosting (NIPS 2019)**
+- **Regularized Gradient Boosting (NeurIPS 2019)**
   - Corinna Cortes, Mehryar Mohri, Dmitry Storcheus
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Margin-Based Generalization Lower Bounds for Boosted Classifiers (NIPS 2019)**
+- **Margin-Based Generalization Lower Bounds for Boosted Classifiers (NeurIPS 2019)**
   - Allan Grønlund, Lior Kamma, Kasper Green Larsen, Alexander Mathiasen, Jelani Nelson
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Minimal Variance Sampling in Stochastic Gradient Boosting (NIPS 2019)**
+- **Minimal Variance Sampling in Stochastic Gradient Boosting (NeurIPS 2019)**
   - Bulat Ibragimov, Gleb Gusev
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Universal Boosting Variational Inference (NIPS 2019)**
+- **Universal Boosting Variational Inference (NeurIPS 2019)**
   - Trevor Campbell, Xinglong Li
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Invariance-Inducing Regularization Using Worst-Case Transformations Suffices to Boost Accuracy and Spatial Robustness (NIPS 2019)**
+- **Invariance-Inducing Regularization Using Worst-Case Transformations Suffices to Boost Accuracy and Spatial Robustness (NeurIPS 2019)**
   - Fanny Yang, Zuowen Wang, Christina Heinze-Deml
   - [[Paper]]( )
   - [[Code]]( )
