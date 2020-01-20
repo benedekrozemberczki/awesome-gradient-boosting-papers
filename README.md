@@ -93,7 +93,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1802.05640)
   - [[Code]](https://github.com/GBDT-PL/GBDT-PL)
   
-
 - **SpiderBoost and Momentum: Faster Variance Reduction Algorithms (NIPS 2019)**
   - Zhe Wang, Kaiyi Ji, Yi Zhou, Yingbin Liang, Vahid Tarokh
   - [[Paper]]( )
@@ -124,7 +123,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Invariance-inducing regularization using worst-case transformations suffices to boost accuracy and spatial robustness (NIPS 2019)**
+- **Invariance-Inducing Regularization Using Worst-Case Transformations Suffices to Boost Accuracy and Spatial Robustness (NIPS 2019)**
   - Fanny Yang, Zuowen Wang, Christina Heinze-Deml
   - [[Paper]]( )
   - [[Code]]( )
