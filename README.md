@@ -108,22 +108,18 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Margin-Based Generalization Lower Bounds for Boosted Classifiers (NeurIPS 2019)**
   - Allan Grønlund, Lior Kamma, Kasper Green Larsen, Alexander Mathiasen, Jelani Nelson
   - [[Paper]](https://arxiv.org/abs/1909.12518)
-  - [[Code]]( )
 
 - **Minimal Variance Sampling in Stochastic Gradient Boosting (NeurIPS 2019)**
   - Bulat Ibragimov, Gleb Gusev
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/9645-minimal-variance-sampling-in-stochastic-gradient-boosting)
 
 - **Universal Boosting Variational Inference (NeurIPS 2019)**
   - Trevor Campbell, Xinglong Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1906.01235)
 
 - **Invariance-Inducing Regularization Using Worst-Case Transformations Suffices to Boost Accuracy and Spatial Robustness (NeurIPS 2019)**
   - Fanny Yang, Zuowen Wang, Christina Heinze-Deml
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1906.11235)
   
 - **Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks (NeurIPS 2019)**
   - Maksym Andriushchenko, Matthias Hein
