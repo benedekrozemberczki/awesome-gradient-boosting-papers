@@ -93,6 +93,42 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1802.05640)
   - [[Code]](https://github.com/GBDT-PL/GBDT-PL)
   
+
+- **SpiderBoost and Momentum: Faster Variance Reduction Algorithms (NIPS 2019)**
+  - Zhe Wang, Kaiyi Ji, Yi Zhou, Yingbin Liang, Vahid Tarokh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Faster Boosting with Smaller Memory (NIPS 2019)**
+  - Julaiti Alafate, Yoav Freund
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Regularized Gradient Boosting (NIPS 2019)**
+  - Corinna Cortes, Mehryar Mohri, Dmitry Storcheus
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Margin-Based Generalization Lower Bounds for Boosted Classifiers (NIPS 2019)**
+  - Allan Grønlund, Lior Kamma, Kasper Green Larsen, Alexander Mathiasen, Jelani Nelson
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Minimal Variance Sampling in Stochastic Gradient Boosting (NIPS 2019)**
+  - Bulat Ibragimov, Gleb Gusev
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Universal Boosting Variational Inference (NIPS 2019)**
+  - Trevor Campbell, Xinglong Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Invariance-inducing regularization using worst-case transformations suffices to boost accuracy and spatial robustness (NIPS 2019)**
+  - Fanny Yang, Zuowen Wang, Christina Heinze-Deml
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks (NeurIPS 2019)**
   - Maksym Andriushchenko, Matthias Hein
   - [[Paper]](https://arxiv.org/abs/1906.03526)
