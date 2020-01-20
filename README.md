@@ -95,12 +95,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **SpiderBoost and Momentum: Faster Variance Reduction Algorithms (NeurIPS 2019)**
   - Zhe Wang, Kaiyi Ji, Yi Zhou, Yingbin Liang, Vahid Tarokh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://papers.nips.cc/paper/8511-spiderboost-and-momentum-faster-variance-reduction-algorithms)
 
 - **Faster Boosting with Smaller Memory (NeurIPS 2019)**
   - Julaiti Alafate, Yoav Freund
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1901.09047)
   - [[Code]]( )
 
 - **Regularized Gradient Boosting (NeurIPS 2019)**
