@@ -38,6 +38,11 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2020
+- **HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems (WSDM 2020)**
+  - Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li
+  - [[Paper]](https://arxiv.org/abs/1809.01703)
+
 ## 2019
 
 - **Induction of Non-Monotonic Logic Programs to Explain Boosted Tree Models Using LIME (AAAI 2019)**
