@@ -126,10 +126,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Universal Boosting Variational Inference (NeurIPS 2019)**
   - Trevor Campbell, Xinglong Li
   - [[Paper]](https://arxiv.org/abs/1906.01235)
-
-- **Invariance-Inducing Regularization Using Worst-Case Transformations Suffices to Boost Accuracy and Spatial Robustness (NeurIPS 2019)**
-  - Fanny Yang, Zuowen Wang, Christina Heinze-Deml
-  - [[Paper]](https://arxiv.org/abs/1906.11235)
   
 - **Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks (NeurIPS 2019)**
   - Maksym Andriushchenko, Matthias Hein
