@@ -87,7 +87,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Fair Adversarial Gradient Tree Boosting (ICDM 2019)**
   - Vincent Grari, Boris Ruf, Sylvain Lamprier, Marcin Detyniecki
   - [[Paper]](https://arxiv.org/abs/1911.05369)
-  - [[Code]]( )
 
 - **Boosted Density Estimation Remastered (ICML 2019)**
   - Zac Cranko, Richard Nock
