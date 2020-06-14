@@ -39,6 +39,22 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2020
+
+- **A Unified Framework for Knowledge Intensive Gradient Boosting: Leveraging Human Experts for Noisy Sparse Domains (AAAI 2020)**
+  - Harsha Kokel, Phillip Odom, Shuo Yang, Sriraam Natarajan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Practical Federated Gradient Boosting Decision Trees (AAAI 2020)**
+  - Qinbin Li, Zeyi Wen, Bingsheng He
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
+  - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems (WSDM 2020)**
   - Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li
   - [[Paper]](https://arxiv.org/abs/1809.01703)
