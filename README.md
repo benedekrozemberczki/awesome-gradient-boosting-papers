@@ -43,7 +43,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **A Unified Framework for Knowledge Intensive Gradient Boosting: Leveraging Human Experts for Noisy Sparse Domains (AAAI 2020)**
   - Harsha Kokel, Phillip Odom, Shuo Yang, Sriraam Natarajan
   - [[Paper]](https://personal.utdallas.edu/~sriraam.natarajan/Papers/Kokel_AAAI20.pdf)
-  - [[Code]]( )
+  - [[Code]](https://github.com/harshakokel/KiGB)
 
 - **Practical Federated Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zeyi Wen, Bingsheng He
