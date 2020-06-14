@@ -51,7 +51,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1911.04209)
   - [[Code]]( )
 
 - **HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems (WSDM 2020)**
