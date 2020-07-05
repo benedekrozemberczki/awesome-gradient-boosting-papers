@@ -56,7 +56,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Accelerating Gradient Boosting Machines (AISTATS 2020)**
   - Haihao Lu, Sai Praneeth Karimireddy, Natalia Ponomareva, Vahab S. Mirrokni
   - [[Paper]](https://arxiv.org/abs/1903.08708)
-  - [[Code]]( )
 
 - **Scalable Feature Selection for %28Multitask%29 Gradient Boosted Trees (AISTATS 2020)**
   - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
