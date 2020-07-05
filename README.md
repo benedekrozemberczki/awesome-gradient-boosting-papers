@@ -52,6 +52,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
   - [[Paper]](https://arxiv.org/abs/1911.04209)
+  
+- **Accelerating Gradient Boosting Machines (AISTATS 2020)**
+  - Haihao Lu, Sai Praneeth Karimireddy, Natalia Ponomareva, Vahab S. Mirrokni
+  - [[Paper]](https://arxiv.org/abs/1903.08708)
+  - [[Code]]( )
+
+- **Scalable Feature Selection for %28Multitask%29 Gradient Boosted Trees (AISTATS 2020)**
+  - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Functional Gradient Boosting for Learning Residual-like Networks with Statistical Guarantees (AISTATS 2020)**
+  - Atsushi Nitanda, Taiji Suzuki
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems (WSDM 2020)**
   - Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li
