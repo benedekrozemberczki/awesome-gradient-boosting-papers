@@ -64,6 +64,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Functional Gradient Boosting for Learning Residual-like Networks with Statistical Guarantees (AISTATS 2020)**
   - Atsushi Nitanda, Taiji Suzuki
   - [[Paper]](http://proceedings.mlr.press/v108/nitanda20a.html)
+  
+- **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
+  - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
+  - [[Paper]]( )
 
 - **HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems (WSDM 2020)**
   - Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li
