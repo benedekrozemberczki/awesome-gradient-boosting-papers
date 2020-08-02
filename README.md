@@ -67,7 +67,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
-  - [[Paper]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/163)
 
 - **HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems (WSDM 2020)**
   - Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li
