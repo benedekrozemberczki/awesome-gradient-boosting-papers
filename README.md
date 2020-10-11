@@ -69,6 +69,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/163)
   
+- **Online Agnostic Boosting via Regret Minimization (NeurIPS 2020)**
+  - Nataly Brukhim, Xinyi Chen, Elad Hazan, Shay Moran
+  - [[Paper]](https://arxiv.org/abs/2003.01150)
+
 - **Gradient Boosted Normalizing Flows (NeurIPS 2020)**
   - Robert Giaquinto, Arindam Banerjee
   - [[Paper]](https://arxiv.org/abs/2002.11896)
