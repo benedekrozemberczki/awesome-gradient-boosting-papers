@@ -80,7 +80,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks (NeurIPS 2020)**
   - Kenta Oono, Taiji Suzuki
   - [[Paper]](https://arxiv.org/abs/2006.08550)
-  - [[Code]](https://github.com/robert-giaquinto/gradient-boosted-normalizing-flows)
+  - [[Code]](https://github.com/delta2323/GB-GNN)
   
 - **Gradient Boosted Normalizing Flows (NeurIPS 2020)**
   - Robert Giaquinto, Arindam Banerjee
