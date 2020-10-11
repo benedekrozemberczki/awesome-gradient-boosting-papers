@@ -72,6 +72,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Gradient Boosted Normalizing Flows (NeurIPS 2020)**
   - Robert Giaquinto, Arindam Banerjee
   - [[Paper]](https://arxiv.org/abs/2002.11896)
+  - [[Code]](https://github.com/robert-giaquinto/gradient-boosted-normalizing-flows)
 
 - **HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems (WSDM 2020)**
   - Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li
