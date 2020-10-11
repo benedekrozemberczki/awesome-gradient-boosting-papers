@@ -77,6 +77,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Kaiwen Zhou, Anthony Man-Cho So, James Cheng
   - [[Paper]](https://arxiv.org/abs/2005.12061)
 
+- **Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks (NeurIPS 2020)**
+  - Kenta Oono, Taiji Suzuki
+  - [[Paper]](https://arxiv.org/abs/2002.11896)
+  - [[Code]](https://github.com/robert-giaquinto/gradient-boosted-normalizing-flows)
+  
 - **Gradient Boosted Normalizing Flows (NeurIPS 2020)**
   - Robert Giaquinto, Arindam Banerjee
   - [[Paper]](https://arxiv.org/abs/2002.11896)
