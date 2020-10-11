@@ -72,6 +72,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Online Agnostic Boosting via Regret Minimization (NeurIPS 2020)**
   - Nataly Brukhim, Xinyi Chen, Elad Hazan, Shay Moran
   - [[Paper]](https://arxiv.org/abs/2003.01150)
+  
+- **Boosting First-Order Methods by Shifting Objective: New Schemes with Faster Worst Case Rates (NeurIPS 2020)**
+  - Kaiwen Zhou, Anthony Man-Cho So, James Cheng
+  - [[Paper]](https://arxiv.org/abs/2005.12061)
 
 - **Gradient Boosted Normalizing Flows (NeurIPS 2020)**
   - Robert Giaquinto, Arindam Banerjee
