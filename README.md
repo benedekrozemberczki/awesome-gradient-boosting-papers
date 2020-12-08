@@ -76,12 +76,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Quantum Boosting (ICML 2020)**
   - Srinivasan Arunachalam, Reevu Maity
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2002.05056)
 
 - **Boosted Histogram Transform for Regression (ICML 2020)**
   - Yuchao Cai, Hanyuan Hang, Hanfang Yang, Zhouchen Lin
-  - [[Paper]]( )
+  - [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/2360-Paper.pdf)
   - [[Code]]( )
 
 - **Self-PU: Self Boosted and Calibrated Positive-Unlabeled Training (ICML 2020)**
