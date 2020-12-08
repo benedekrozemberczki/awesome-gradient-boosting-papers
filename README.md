@@ -72,8 +72,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Boosting for Control of Dynamical Systems (ICML 2020)**
   - Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1906.08720)
 
 - **Quantum Boosting (ICML 2020)**
   - Srinivasan Arunachalam, Reevu Maity
