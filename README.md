@@ -88,7 +88,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **NGBoost: Natural Gradient Boosting for Probabilistic Prediction (ICML 2020)**
   - Tony Duan, Avati Anand, Daisy Yi Ding, Khanh K. Thai, Sanjay Basu, Andrew Y. Ng, Alejandro Schuler
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1910.03225)
   - [[Code]]( )
 
 - **Boosting Deep Neural Network Efficiency with Dual-Module Inference (ICML 2020)**
