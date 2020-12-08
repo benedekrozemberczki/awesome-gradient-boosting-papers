@@ -90,11 +90,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Tony Duan, Avati Anand, Daisy Yi Ding, Khanh K. Thai, Sanjay Basu, Andrew Y. Ng, Alejandro Schuler
   - [[Paper]](https://arxiv.org/abs/1910.03225)
   - [[Code]](https://github.com/stanfordmlgroup/ngboost)
-
-- **Boosting Deep Neural Network Efficiency with Dual-Module Inference (ICML 2020)**
-  - Liu Liu, Lei Deng, Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie
-  - [[Paper]]( )
-  - [[Code]]( )
   
 - **Online Agnostic Boosting via Regret Minimization (NeurIPS 2020)**
   - Nataly Brukhim, Xinyi Chen, Elad Hazan, Shay Moran
