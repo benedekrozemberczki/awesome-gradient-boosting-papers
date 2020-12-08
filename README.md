@@ -81,12 +81,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Boosted Histogram Transform for Regression (ICML 2020)**
   - Yuchao Cai, Hanyuan Hang, Hanfang Yang, Zhouchen Lin
   - [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/2360-Paper.pdf)
-  - [[Code]]( )
-
-- **Self-PU: Self Boosted and Calibrated Positive-Unlabeled Training (ICML 2020)**
-  - Xuxi Chen, Wuyang Chen, Tianlong Chen, Ye Yuan, Chen Gong, Kewei Chen, Zhangyang Wang
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Boosting Frank-Wolfe by Chasing Gradients (ICML 2020)**
   - Cyrille W. Combettes, Sebastian Pokutta
