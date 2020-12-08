@@ -84,8 +84,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Boosting Frank-Wolfe by Chasing Gradients (ICML 2020)**
   - Cyrille W. Combettes, Sebastian Pokutta
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2003.06369)
 
 - **NGBoost: Natural Gradient Boosting for Probabilistic Prediction (ICML 2020)**
   - Tony Duan, Avati Anand, Daisy Yi Ding, Khanh K. Thai, Sanjay Basu, Andrew Y. Ng, Alejandro Schuler
