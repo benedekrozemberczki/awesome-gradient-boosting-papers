@@ -69,6 +69,42 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/163)
   
+
+- **Boosting for Control of Dynamical Systems (ICML 2020)**
+  - Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Quantum Boosting (ICML 2020)**
+  - Srinivasan Arunachalam, Reevu Maity
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosted Histogram Transform for Regression (ICML 2020)**
+  - Yuchao Cai, Hanyuan Hang, Hanfang Yang, Zhouchen Lin
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Self-PU: Self Boosted and Calibrated Positive-Unlabeled Training (ICML 2020)**
+  - Xuxi Chen, Wuyang Chen, Tianlong Chen, Ye Yuan, Chen Gong, Kewei Chen, Zhangyang Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Frank-Wolfe by Chasing Gradients (ICML 2020)**
+  - Cyrille W. Combettes, Sebastian Pokutta
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NGBoost: Natural Gradient Boosting for Probabilistic Prediction (ICML 2020)**
+  - Tony Duan, Avati Anand, Daisy Yi Ding, Khanh K. Thai, Sanjay Basu, Andrew Y. Ng, Alejandro Schuler
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Deep Neural Network Efficiency with Dual-Module Inference (ICML 2020)**
+  - Liu Liu, Lei Deng, Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Online Agnostic Boosting via Regret Minimization (NeurIPS 2020)**
   - Nataly Brukhim, Xinyi Chen, Elad Hazan, Shay Moran
   - [[Paper]](https://arxiv.org/abs/2003.01150)
