@@ -1859,3 +1859,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Boosting and Other Machine Learning Algorithms (ICML 1994)**
   - Harris Drucker, Corinna Cortes, Lawrence D. Jackel, Yann LeCun, Vladimir Vapnik
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/B9781558603356500155)
+
+--------------------------------------------------------------------------------
+
+**License**
+
+- [CC0 Universal](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers/blob/master/LICENSE)
