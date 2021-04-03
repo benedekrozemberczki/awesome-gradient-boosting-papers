@@ -71,8 +71,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **MixBoost: Synthetic Oversampling using Boosted Mixup for Handling Extreme Imbalance (ICDM 2020)**
   - Anubha Kabra, Ayush Chopra, Nikaash Puri, Pinkesh Badjatiya, Sukriti Verma, Piyush Gupta, Balaji Krishnamurthy
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2009.01571)
 
 - **Boosting for Control of Dynamical Systems (ICML 2020)**
   - Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu
