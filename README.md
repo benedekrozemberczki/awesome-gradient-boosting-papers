@@ -68,7 +68,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/163)
-  
+
+- **MixBoost: Synthetic Oversampling using Boosted Mixup for Handling Extreme Imbalance (ICDM 2020)**
+  - Anubha Kabra, Ayush Chopra, Nikaash Puri, Pinkesh Badjatiya, Sukriti Verma, Piyush Gupta, Balaji Krishnamurthy
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **Boosting for Control of Dynamical Systems (ICML 2020)**
   - Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu
