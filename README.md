@@ -4,6 +4,8 @@
   <img width="450" src="boosting.gif">
 </p>
 
+---------------------------------------------
+
 A curated list of gradient and adaptive boosting papers with implementations from the following conferences:
 
 - Machine learning
