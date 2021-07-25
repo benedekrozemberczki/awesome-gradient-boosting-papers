@@ -76,13 +76,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **GBHT: Gradient Boosting Histogram Transform for Density Estimation (ICML 2021)**
   - Jingyi Cui, Hanyuan Hang, Yisen Wang, Zhouchen Lin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.05738)
 
 - **Boosting for Online Convex Optimization (ICML 2021)**
   - Elad Hazan, Karan Singh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2102.09305)
 
 - **Accuracy, Interpretability, and Differential Privacy via Explainable Boosting (ICML 2021)**
   - Harsha Nori, Rich Caruana, Zhiqi Bu, Judy Hanwen Shen, Janardhan Kulkarni
