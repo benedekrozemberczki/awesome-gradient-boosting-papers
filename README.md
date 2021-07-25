@@ -56,18 +56,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models (ICLR 2021)**
   - Ke Sun, Zhanxing Zhu, Zhouchen Lin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1908.05081)
+  - [[Code]](https://github.com/datake/AdaGCN)
 
 - **Uncertainty in Gradient Boosting via Ensembles (ICLR 2021)**
   - Andrey Malinin, Liudmila Prokhorenkova, Aleksei Ustimenko
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://arxiv.org/abs/2006.10562)
+  - 
 - **Boost then Convolve: Gradient Boosting Meets Graph Neural Networks (ICLR 2021)**
   - Sergei Ivanov, Liudmila Prokhorenkova
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2101.08543)
 
 - **Private Post-GAN Boosting (ICLR 2021)**
   - Marcel Neunhoeffer, Steven Wu, Cynthia Dwork
