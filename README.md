@@ -48,13 +48,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Individually Fair Gradient Boosting (ICLR 2021)**
   - Alexander Vargo, Fan Zhang, Mikhail Yurochkin, Yuekai Sun
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2103.16785)
 
 - **Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees (ICLR 2021)**
   - Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://iclr.cc/virtual/2021/spotlight/3536)
 
 - **AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models (ICLR 2021)**
   - Ke Sun, Zhanxing Zhu, Zhouchen Lin
