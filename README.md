@@ -67,11 +67,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Sergei Ivanov, Liudmila Prokhorenkova
   - [[Paper]](https://arxiv.org/abs/2101.08543)
 
-- **Private Post-GAN Boosting (ICLR 2021)**
-  - Marcel Neunhoeffer, Steven Wu, Cynthia Dwork
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **GBHT: Gradient Boosting Histogram Transform for Density Estimation (ICML 2021)**
   - Jingyi Cui, Hanyuan Hang, Yisen Wang, Zhouchen Lin
   - [[Paper]](https://arxiv.org/abs/2106.05738)
