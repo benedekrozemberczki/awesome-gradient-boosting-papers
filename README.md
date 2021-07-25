@@ -44,13 +44,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Precision-based Boosting (AAAI 2021)**
   - Mohammad Hossein Nikravan, Marjan Movahedan, Sandra Zilles
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Relational Boosted Bandits (AAAI 2021)**
-  - Ashutosh Kakadiya, Sriraam Natarajan, Balaraman Ravindran
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17105)
 
 - **Individually Fair Gradient Boosting (ICLR 2021)**
   - Alexander Vargo, Fan Zhang, Mikhail Yurochkin, Yuekai Sun
