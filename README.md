@@ -84,15 +84,13 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Accuracy%2C Interpretability%2C and Differential Privacy via Explainable Boosting (ICML 2021)**
+- **Accuracy, Interpretability, and Differential Privacy via Explainable Boosting (ICML 2021)**
   - Harsha Nori, Rich Caruana, Zhiqi Bu, Judy Hanwen Shen, Janardhan Kulkarni
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.09680)
 
 - **SGLB: Stochastic Gradient Langevin Boosting (ICML 2021)**
   - Aleksei Ustimenko, Liudmila Prokhorenkova
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2001.07248)
 
 ## 2020
 
