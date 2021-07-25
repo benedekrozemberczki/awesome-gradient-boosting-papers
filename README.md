@@ -40,6 +40,68 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2021
+
+- **Precision-based Boosting (AAAI 2021)**
+  - Mohammad Hossein Nikravan, Marjan Movahedan, Sandra Zilles
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Relational Boosted Bandits (AAAI 2021)**
+  - Ashutosh Kakadiya, Sriraam Natarajan, Balaraman Ravindran
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Individually Fair Gradient Boosting (ICLR 2021)**
+  - Alexander Vargo, Fan Zhang, Mikhail Yurochkin, Yuekai Sun
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees (ICLR 2021)**
+  - Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models (ICLR 2021)**
+  - Ke Sun, Zhanxing Zhu, Zhouchen Lin
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Uncertainty in Gradient Boosting via Ensembles (ICLR 2021)**
+  - Andrey Malinin, Liudmila Prokhorenkova, Aleksei Ustimenko
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boost then Convolve: Gradient Boosting Meets Graph Neural Networks (ICLR 2021)**
+  - Sergei Ivanov, Liudmila Prokhorenkova
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Private Post-GAN Boosting (ICLR 2021)**
+  - Marcel Neunhoeffer, Steven Wu, Cynthia Dwork
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **GBHT: Gradient Boosting Histogram Transform for Density Estimation (ICML 2021)**
+  - Jingyi Cui, Hanyuan Hang, Yisen Wang, Zhouchen Lin
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting for Online Convex Optimization (ICML 2021)**
+  - Elad Hazan, Karan Singh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Accuracy%2C Interpretability%2C and Differential Privacy via Explainable Boosting (ICML 2021)**
+  - Harsha Nori, Rich Caruana, Zhiqi Bu, Judy Hanwen Shen, Janardhan Kulkarni
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SGLB: Stochastic Gradient Langevin Boosting (ICML 2021)**
+  - Aleksei Ustimenko, Liudmila Prokhorenkova
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2020
 
 - **A Unified Framework for Knowledge Intensive Gradient Boosting: Leveraging Human Experts for Noisy Sparse Domains (AAAI 2020)**
