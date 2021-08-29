@@ -100,13 +100,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Task-wise Split Gradient Boosting Trees for Multi-center Diabetes Prediction (KDD 2021)**
   - Mingcheng Chen, Zhenghui Wang, Zhiyun Zhao, Weinan Zhang, Xiawei Guo, Jian Shen, Yanru Qu, Jieli Lu, Min Xu, Yu Xu, Tiange Wang, Mian Li, Weiwei Tu, Yong Yu, Yufang Bi, Weiqing Wang, Guang Ning
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2108.07107)
 
 - **Better Short than Greedy: Interpretable Models through Optimal Rule Boosting (SDM 2021)**
   - Mario Boley, Simon Teshuva, Pierre Le Bodic, Geoffrey I. Webb
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2101.08380)
 
 ## 2020
 
