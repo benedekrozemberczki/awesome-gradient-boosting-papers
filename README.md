@@ -85,18 +85,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Self-boosting for Feature Distillation (IJCAI 2021)**
   - Yulong Pei, Yanyun Qu, Junping Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/131)
 
 - **Boosting Variational Inference With Locally Adaptive Step-Sizes (IJCAI 2021)**
   - Gideon Dresdner, Saurav Shekhar, Fabian Pedregosa, Francesco Locatello, Gunnar Rätsch
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2105.09240)
 
 - **Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression (KDD 2021)**
   - Olivier Sprangers, Sebastian Schelter, Maarten de Rijke
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.01682)
 
 - **Task-wise Split Gradient Boosting Trees for Multi-center Diabetes Prediction (KDD 2021)**
   - Mingcheng Chen, Zhenghui Wang, Zhiyun Zhao, Weinan Zhang, Xiawei Guo, Jian Shen, Yanru Qu, Jieli Lu, Min Xu, Yu Xu, Tiange Wang, Mian Li, Weiwei Tu, Yong Yu, Yufang Bi, Weiqing Wang, Guang Ning
