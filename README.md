@@ -83,6 +83,31 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Aleksei Ustimenko, Liudmila Prokhorenkova
   - [[Paper]](https://arxiv.org/abs/2001.07248)
 
+- **Self-boosting for Feature Distillation (IJCAI 2021)**
+  - Yulong Pei, Yanyun Qu, Junping Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Variational Inference With Locally Adaptive Step-Sizes (IJCAI 2021)**
+  - Gideon Dresdner, Saurav Shekhar, Fabian Pedregosa, Francesco Locatello, Gunnar Rätsch
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression (KDD 2021)**
+  - Olivier Sprangers, Sebastian Schelter, Maarten de Rijke
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Task-wise Split Gradient Boosting Trees for Multi-center Diabetes Prediction (KDD 2021)**
+  - Mingcheng Chen, Zhenghui Wang, Zhiyun Zhao, Weinan Zhang, Xiawei Guo, Jian Shen, Yanru Qu, Jieli Lu, Min Xu, Yu Xu, Tiange Wang, Mian Li, Weiwei Tu, Yong Yu, Yufang Bi, Weiqing Wang, Guang Ning
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Better Short than Greedy: Interpretable Models through Optimal Rule Boosting (SDM 2021)**
+  - Mario Boley, Simon Teshuva, Pierre Le Bodic, Geoffrey I. Webb
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2020
 
 - **A Unified Framework for Knowledge Intensive Gradient Boosting: Leveraging Human Experts for Noisy Sparse Domains (AAAI 2020)**
