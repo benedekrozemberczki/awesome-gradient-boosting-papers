@@ -46,16 +46,13 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Mohammad Hossein Nikravan, Marjan Movahedan, Sandra Zilles
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17105)
 
-
 - **BNN: Boosting Neural Network Framework Utilizing Limited Amount of Data (CIKM 2021)**
   - Amit Livne, Roy Dor, Bracha Shapira, Lior Rokach
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482414)
 
 - **Unsupervised Domain Adaptation for Static Malware Detection based on Gradient Boosting Trees (CIKM 2021)**
   - Panpan Qi, Wei Wang, Lei Zhu, See-Kiong Ng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482400)
 
 - **Individually Fair Gradient Boosting (ICLR 2021)**
   - Alexander Vargo, Fan Zhang, Mikhail Yurochkin, Yuekai Sun
