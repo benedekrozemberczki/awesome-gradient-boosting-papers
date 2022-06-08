@@ -40,6 +40,18 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2022
+
+- **Federated Functional Gradient Boosting (AISTATS 2022)**
+  - Zebang Shen, Hamed Hassani, Satyen Kale, Amin Karbasi
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ExactBoost: Directly Boosting the Margin in Combinatorial and Non-decomposable Metrics (AISTATS 2022)**
+  - Daniel Csillag, Carolina Piazza, Thiago Ramos, João Vitor Romano, Roberto I. Oliveira, Paulo Orenstein
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2021
 
 - **Precision-based Boosting (AAAI 2021)**
