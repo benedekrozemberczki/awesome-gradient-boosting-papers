@@ -44,13 +44,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Federated Functional Gradient Boosting (AISTATS 2022)**
   - Zebang Shen, Hamed Hassani, Satyen Kale, Amin Karbasi
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2103.06972)
 
 - **ExactBoost: Directly Boosting the Margin in Combinatorial and Non-decomposable Metrics (AISTATS 2022)**
   - Daniel Csillag, Carolina Piazza, Thiago Ramos, João Vitor Romano, Roberto I. Oliveira, Paulo Orenstein
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v151/csillag22a.html)
 
 ## 2021
 
