@@ -44,23 +44,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion (AAAI 2022)**
   - Yiheng Sun, Tian Lu, Cong Wang, Yuan Li, Huaiyu Fu, Jingran Dong, Yunjie Xu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2112.02365)
 
 - **Fast Provably Robust Decision Trees and Boosting (ICML 2022)**
   - Jun-Qi Guo, Ming-Zhuo Teng, Wei Gao, Zhi-Hua Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v162/guo22h.html)
 
 - **Building Robust Ensembles via Margin Boosting (ICML 2022)**
   - Dinghuai Zhang, Hongyang Zhang, Aaron C. Courville, Yoshua Bengio, Pradeep Ravikumar, Arun Sai Suggala
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2206.03362)
 
 - **Retrieval-Based Gradient Boosting Decision Trees for Disease Risk Assessment (KDD 2022)**
   - Handong Ma, Jiahang Cao, Yuchen Fang, Weinan Zhang, Wenbo Sheng, Shaodian Zhang, Yong Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539052)
 
 - **Federated Functional Gradient Boosting (AISTATS 2022)**
   - Zebang Shen, Hamed Hassani, Satyen Kale, Amin Karbasi
