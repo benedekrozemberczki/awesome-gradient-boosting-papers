@@ -48,8 +48,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **A Resilient Distributed Boosting Algorithm (ICML 2022)**
   - Yuval Filmus, Idan Mehalel, Shay Moran
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2206.04713)
 
 - **Fast Provably Robust Decision Trees and Boosting (ICML 2022)**
   - Jun-Qi Guo, Ming-Zhuo Teng, Wei Gao, Zhi-Hua Zhou
