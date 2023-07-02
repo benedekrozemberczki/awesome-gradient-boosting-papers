@@ -42,6 +42,39 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2022
 
+- **Computing Abductive Explanations for Boosted Trees (AISTATS 2023)**
+  - Gilles Audemard, Jean-Marie Lagniez, Pierre Marquis, Nicolas Szczepanski
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosted Off-Policy Learning (AISTATS 2023)**
+  - Ben London, Levi Lu, Ted Sandler, Thorsten Joachims
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Variational Boosted Soft Trees (AISTATS 2023)**
+  - Tristan Cinquin, Tammo Rukat, Philipp Schmidt, Martin Wistuba, Artur Bekasov
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Krylov-Bellman boosting: Super-linear policy evaluation in general state spaces (AISTATS 2023)**
+  - Eric Xia, Martin J. Wainwright
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **FairGBM: Gradient Boosting with Fairness Constraints (ICLR 2023)**
+  - André Ferreira Cruz, Catarina Belém, João Bravo, Pedro Saleiro, Pedro Bizarro
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Gradient Boosting Performs Gaussian Process Inference (ICLR 2023)**
+  - Aleksei Ustimenko, Artem Beliakov, Liudmila Prokhorenkova
+  - [[Paper]]( )
+  - [[Code]]( )
+
+
+## 2022
+
 - **TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion (AAAI 2022)**
   - Yiheng Sun, Tian Lu, Cong Wang, Yuan Li, Huaiyu Fu, Jingran Dong, Yunjie Xu
   - [[Paper]](https://arxiv.org/abs/2112.02365)
