@@ -40,7 +40,7 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
-## 2022
+## 2023
 
 - **Computing Abductive Explanations for Boosted Trees (AISTATS 2023)**
   - Gilles Audemard, Jean-Marie Lagniez, Pierre Marquis, Nicolas Szczepanski
@@ -56,18 +56,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Krylov-Bellman boosting: Super-linear policy evaluation in general state spaces (AISTATS 2023)**
   - Eric Xia, Martin J. Wainwright
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2210.11377)
 
 - **FairGBM: Gradient Boosting with Fairness Constraints (ICLR 2023)**
   - André Ferreira Cruz, Catarina Belém, João Bravo, Pedro Saleiro, Pedro Bizarro
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2209.07850)
 
 - **Gradient Boosting Performs Gaussian Process Inference (ICLR 2023)**
   - Aleksei Ustimenko, Artem Beliakov, Liudmila Prokhorenkova
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2206.05608)
 
 
 ## 2022
