@@ -44,18 +44,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Computing Abductive Explanations for Boosted Trees (AISTATS 2023)**
   - Gilles Audemard, Jean-Marie Lagniez, Pierre Marquis, Nicolas Szczepanski
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2209.07740)
 
 - **Boosted Off-Policy Learning (AISTATS 2023)**
   - Ben London, Levi Lu, Ted Sandler, Thorsten Joachims
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2208.01148)
 
 - **Variational Boosted Soft Trees (AISTATS 2023)**
   - Tristan Cinquin, Tammo Rukat, Philipp Schmidt, Martin Wistuba, Artur Bekasov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2302.10706)
 
 - **Krylov-Bellman boosting: Super-linear policy evaluation in general state spaces (AISTATS 2023)**
   - Eric Xia, Martin J. Wainwright
