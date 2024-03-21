@@ -1834,6 +1834,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Aleksandar Lazarevic, Zoran Obradovic
   - [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611972719.14)
 
+- **Greedy function approximation: A gradient boosting machine (Ann. Statist 2001)**
+  - Jerome H. Friedman
+  - [[Paper]](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.full)
+
 ## 2000
 - **Boosted Wrapper Induction (AAAI 2000)**
   - Dayne Freitag, Nicholas Kushmerick
