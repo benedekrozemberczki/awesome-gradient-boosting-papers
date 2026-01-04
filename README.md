@@ -44,12 +44,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2025
 
 - **Free Lunch in the Forest: Functionally-Identical Pruning of Boosted Tree Ensembles (AAAI 2025)**
-  - Youssouf Emine, Alexandre Forel, Idriss Malek, Thibaut Vidal, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/EtesamCAJ25&amp;
+  - Youssouf Emine, Alexandre Forel, Idriss Malek, Thibaut Vidal
   - [[Paper]]( )
   - [[Code]]( )
 
 - **Supervised Score-Based Modeling by Gradient Boosting (AAAI 2025)**
-  - Changyuan Zhao, Hongyang Du, Guangyuan Liu, Dusit Niyato, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ZhaoPWYX025&amp;
+  - Changyuan Zhao, Hongyang Du, Guangyuan Liu, Dusit Niyato
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -59,12 +59,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 - **FairRegBoost: An End-to-End Data Processing Framework for Fair and Scalable Regression (CIKM 2025)**
-  - Nico Lässig, Melanie Herschel, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/LeeM25&amp;
+  - Nico Lässig, Melanie Herschel
   - [[Paper]]( )
   - [[Code]]( )
 
 - **Federated Gradient Boosting for Financial Fraud Detection: An Empirical Study in the Banking Sector (CIKM 2025)**
-  - Dae-Young Park, In-Young Ko, Taek-Ho Lee, Junghye Lee, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/ParkJKK25&amp;
+  - Dae-Young Park, In-Young Ko, Taek-Ho Lee, Junghye Lee
   - [[Paper]]( )
   - [[Code]]( )
 
