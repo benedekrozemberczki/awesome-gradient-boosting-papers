@@ -40,6 +40,1098 @@ A curated list of gradient and adaptive boosting papers with implementations fro
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2024
+- **Boosting Neural Cognitive Diagnosis with Student%27s Affective State Modeling (AAAI 2024)**
+  - Shanshan Wang, Zhen Zeng, Xun Yang, Ke Xu, Xingyi Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/WangZT24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ShapeBoost: Boosting Human Shape Estimation with Part-Based Parameterization and Clothing-Preserving Augmentation (AAAI 2024)**
+  - Siyuan Bian, Jiefeng Li, Jiasheng Tang, Cewu Lu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/BieLC24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Instance-Aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning (AAAI 2024)**
+  - Yang Jiao, Zequn Jie, Shaoxiang Chen, Lechao Cheng, Jingjing Chen, Lin Ma, Yu-Gang Jiang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/JinCLC24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Adversarial Transferability across Model Genus by Deformation-Constrained Warping (AAAI 2024)**
+  - Qinliang Lin, Cheng Luo, Zenghao Niu, Xilin He, Weicheng Xie, Yuanbo Hou, Linlin Shen, Siyang Song, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/0018C24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Multiple Instance Learning Models for Whole Slide Image Classification: A Model-Agnostic Framework Based on Counterfactual Inference (AAAI 2024)**
+  - Weiping Lin, Zhenfeng Zhuang, Lequan Yu, Liansheng Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/LinZY024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Residual Networks with Group Knowledge (AAAI 2024)**
+  - Shengji Tang, Peng Ye, Baopu Li, Weihao Lin, Tao Chen, Tong He, Chong Yu, Wanli Ouyang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/Tang0GMZWWL24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SiMA-Hand: Boosting 3D Hand-Mesh Reconstruction by Single-to-Multi-View Adaptation (AAAI 2024)**
+  - Yinqiao Wang, Hao Xu, Pheng-Ann Heng, Chi-Wing Fu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/WangLXJY24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation (AAAI 2024)**
+  - Zhehao Wang, Xian Lin, Nannan Wu, Li Yu, Kwang-Ting Cheng, Zengqiang Yan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/WangYY24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Few-Shot Learning via Attentive Feature Regularization (AAAI 2024)**
+  - Xingyu Zhu, Shuo Wang, Jinda Lu, Yanbin Hao, Haifeng Liu, Xiangnan He, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ZhuLYH24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BaCon: Boosting Imbalanced Semi-supervised Learning via Balanced Feature-Level Contrastive Learning (AAAI 2024)**
+  - Qianhan Feng, Lujing Xie, Shijie Fang, Tong Lin, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/FengMZZ24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients (AAAI 2024)**
+  - Mengdi Wang, Anna Bodonhelyi, Efe Bozkir, Enkelejda Kasneci, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/WangLZW24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Online Boosting Adaptive Learning under Concept Drift for Multistream Classification (AAAI 2024)**
+  - En Yu, Jie Lu, Bin Zhang, Guangquan Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/YuZZPW24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Liberating Seen Classes: Boosting Few-Shot and Zero-Shot Text Classification via Anchor Generation and Classification Reframing (AAAI 2024)**
+  - Han Liu, Siyang Zhao, Xiaotong Zhang, Feng Zhang, Wei Wang, Fenglong Ma, Hongyang Chen, Hong Yu, Xianchao Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/LiuZLWLJJXC24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **STAR: Boosting Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models (AAAI 2024)**
+  - Mingyu Derek Ma, Xiaoxuan Wang, Po-Nien Kung, P. Jeffrey Brantingham, Nanyun Peng, Wei Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ManDN24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Improving Neural Network Generalization on Data-Limited Regression with Doubly-Robust Boosting (AAAI 2024)**
+  - Hao Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/WangDWW24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Orthogonal Gradient Boosting for Simpler Additive Rule Ensembles (AISTATS 2024)**
+  - Fan Yang, Pierre Le Bodic, Michael Kamp, Mario Boley
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees (AISTATS 2024)**
+  - Alexia Jolicoeur-Martineau, Kilian Fatras, Tal Kachman
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BlockBoost: Scalable and Efficient Blocking through Boosting (AISTATS 2024)**
+  - Thiago Ramos, Rodrigo Loro Schuller, Alex Akira Okuno, Lucas Nissenbaum, Roberto I Oliveira, Paulo Orenstein
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NoisyMix: Boosting Model Robustness to Common Corruptions (AISTATS 2024)**
+  - N. Benjamin Erichson, Soon Hoe Lim, Winnie Xu, Francisco Utrera, Ziang Cao, Michael W. Mahoney
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Certificate Robustness for Time Series Classification with Efficient Self-Ensemble (CIKM 2024)**
+  - Chang George Dong, Zhengyang David Li, Liangwei Nathan Zheng, Weitong Chen, Wei Emma Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/DongLZ0Z0WWZ24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting (CIKM 2024)**
+  - Hubert Truchan, Christian Kalfar, Zahra Ahmadi, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/UrettiniARC24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Distributed Boosting: An Enhancing Method on Dataset Distillation (CIKM 2024)**
+  - Xuechao Chen, Wenchao Meng, Peiran Wang, Qihang Zhou, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/ChengWZWXZXWTLX24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching (CIKM 2024)**
+  - Yuyang Ding, Hanglei Hu, Jie Zhou, Qin Chen, Bo Jiang, Liang He, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/DongDDGL24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Entity Recognition by leveraging Cross-task Domain Models for Weak Supervision (CIKM 2024)**
+  - Sanjay Agrawal, Srujana Merugu, Vivek Sembium, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/AlamMW24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting LLM-based Relevance Modeling with Distribution-Aware Robust Learning (CIKM 2024)**
+  - Hong Liu, Saisai Gong, Yixin Ji, Kaixin Wu, Jia Xu, Jinjie Gu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/LiuXYXHLG24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Neural Representations for Videos with a Conditional Decoder (CVPR 2024)**
+  - Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/DingZTX24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Image Quality Assessment Through Efficient Transformer Adaptation with Local Feature Enhancement (CVPR 2024)**
+  - Kangmin Xu, Liang Liao, Jing Xiao, Chaofeng Chen, Haoning Wu, Qiong Yan, Weisi Lin, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/PotjeC0MN24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Image Restoration via Priors from Pre-Trained Models (CVPR 2024)**
+  - Xiaogang Xu, Shu Kong, Tao Hu, Zhe Liu, Hujun Bao, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/NiWWYW024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ASAM: Boosting Segment Anything Model with Adversarial Tuning (CVPR 2024)**
+  - Bo Li, Haoke Xiao, Lv Tang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/0005Y0024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Order-Preserving and Transferability for Neural Architecture Search: A Joint Architecture Refined Search and Fine-Tuning Approach (CVPR 2024)**
+  - Beichen Zhang, Xiaoxing Wang, Xiaohan Qin, Junchi Yan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/YuZYW24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-Based Image Editing (CVPR 2024)**
+  - Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/DrobyshevCVLPP24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Diffusion Models with Moving Average Sampling in Frequency Domain (CVPR 2024)**
+  - Yurui Qian, Qi Cai, Yingwei Pan, Yehao Li, Ting Yao, Qibin Sun, Tao Mei, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/ShirakawaU24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Initno: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization (CVPR 2024)**
+  - Xiefan Guo, Jinlin Liu, Miaomiao Cui, Jiankai Li, Hongyu Yang, Di Huang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/SunSYL24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation (CVPR 2024)**
+  - Keonhee Han, Dominik Muhle, Felix Wimbauer, Daniel Cremers, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/Li0SPGT24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions (CVPR 2024)**
+  - Hao Xu, Haipeng Li, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/ZhangZ0MHBXZ24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaptation by Combining 3D GANs and Diffusion Priors (CVPR 2024)**
+  - Biwen Lei, Kai Yu, Mengyang Feng, Miaomiao Cui, Xuansong Xie, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/0001LGGLC24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation (CVPR 2024)**
+  - Zhipeng Du, Miaojing Shi, Jiankang Deng, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/Wang0AS24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Causal-CoG: A Causal-Effect Look at Context Generation for Boosting Multi-Modal Language Models (CVPR 2024)**
+  - Shitian Zhao, Zhuowan Li, Yadong Lu, Alan L. Yuille, Yan Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/KooPS24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-Rank Experts (CVPR 2024)**
+  - Jialin Wu, Xia Hu, Yaqing Wang, Bo Pang, Radu Soricut, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/SameniKTJ24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-Labelling (CVPR 2024)**
+  - Chaokang Jiang, Guangming Wang, Jiuming Liu, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/DingSCG24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **RadarDistill: Boosting Radar-Based Object Detection Performance via Knowledge Distillation from LiDAR Features (CVPR 2024)**
+  - Geonho Bang, Kwangjin Choi, Jisong Kim, Dongsuk Kum, Jun Won Choi, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/LinC24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Summarize the Past to Predict the Future: Natural Language Descriptions of Context Boost Multimodal Object Interaction Anticipation (CVPR 2024)**
+  - Razvan-George Pasca, Alexey Gavryushin, Muhammad Hamza, Yen-Ling Kuo, Kaichun Mo, Luc Van Gool, Otmar Hilliges, Xi Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/WuZPSLWZ24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior (CVPR 2024)**
+  - Fangfu Liu, Diankun Wu, Yi Wei, Yongming Rao, Yueqi Duan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/0007Z0ZNZ024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (CVPR 2024)**
+  - Jiazuo Yu, Yunzhi Zhuge, Lu Zhang, Ping Hu, Dong Wang, Huchuan Lu, You He, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/WangCHHRRALPH24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds (CVPR 2024)**
+  - Zhimin Yuan, Wankang Zeng, Yanfei Su, Weiquan Liu, Ming Cheng, Yulan Guo, Cheng Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/DoKNKLCH24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Adversarial Transferability by Block Shuffle and Rotation (CVPR 2024)**
+  - Kunyu Wang, Xuanran He, Wenxuan Wang, Xiaosen Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/TangZ24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **One Prompt Word is Enough to Boost Adversarial Robustness for Pre-Trained Vision-Language Models (CVPR 2024)**
+  - Lin Li, Haoyan Guan, Jianing Qiu, Michael W. Spratling, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/Zhu0K24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Adversarial Training via Fisher-Rao Norm-Based Regularization (CVPR 2024)**
+  - Xiangyu Yin, Wenjie Ruan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/GongDMCN024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Spike Camera Image Reconstruction from a Perspective of Dealing with Spike Fluctuations (CVPR 2024)**
+  - Rui Zhao, Ruiqin Xiong, Jing Zhao, Jian Zhang, Xiaopeng Fan, Zhaofei Yu, Tiejun Huang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/0003CY24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Flow-based Generative Super-Resolution Models via Learned Prior (CVPR 2024)**
+  - Li-Yuan Tsao, Yi-Chen Lo, Chia-Che Chang, Hao-Wei Chen, Roy Tseng, Chien Feng, Chun-Yi Lee, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/LiLX24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation (EMNLP 2024)**
+  - Yongsen Zheng, Ruilin Xu, Guohua Wang, Liang Lin, Kwok-Yan Lam, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/emnlp/LiGW024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Scientific Concepts Understanding: Can Analogy from Teacher Models Empower Student Models (EMNLP 2024)**
+  - Siyu Yuan, Cheng Jiayang, Lin Qiu, Deqing Yang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/emnlp/QiSFB24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Position Engineering: Boosting Large Language Models through Positional Information Manipulation (EMNLP 2024)**
+  - Zhiyuan He, Huiqiang Jiang, Zilong Wang, Yuqing Yang, Luna Qiu, Lili Qiu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/emnlp/ChenGOGCCWCJWW24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **PreAlign: Boosting Cross-Lingual Transfer by Early Establishment of Multilingual Alignment (EMNLP 2024)**
+  - Jiahuan Li, Shujian Huang, Aarron Ching, Xinyu Dai, Jiajun Chen, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/emnlp/KhanujaRSN24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Logical Fallacy Reasoning in LLMs via Logical Structure Tree (EMNLP 2024)**
+  - Yuanyuan Lei, Ruihong Huang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/emnlp/FagnouCDA24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fewer is More: Boosting Math Reasoning with Reinforced Context Pruning (EMNLP 2024)**
+  - Xijie Huang, Li Lyna Zhang, Kwang-Ting Cheng, Fan Yang, Mao Yang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/emnlp/LiuLZY0T0ZJGNNY24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level (EMNLP 2024)**
+  - Zhaopeng Feng, Ruizhe Chen, Yan Zhang, Zijie Meng, Zuozhu Liu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/emnlp/DouY0CP24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Adaptive Rational Activations to Boost Deep Reinforcement Learning (ICLR 2024)**
+  - Quentin Delfosse, Patrick Schramowski, Martin Mundt, Alejandro Molina, Kristian Kersting
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language Models (ICLR 2024)**
+  - Sijia Chen, Baochun Li, Di Niu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Towards Faithful Explanations: Boosting Rationalization with Shortcuts Discovery (ICLR 2024)**
+  - Linan Yue, Qi Liu, Yichao Du, Li Wang, Weibo Gao, Yanqing An
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Ito Diffusion Approximation of Universal Ito Chains for Sampling%2C Optimization and Boosting (ICLR 2024)**
+  - Aleksei Ustimenko, Aleksandr Beznosikov
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Robustifying and Boosting Training-Free Neural Architecture Search (ICLR 2024)**
+  - Zhenfeng He, Yao Shu, Zhongxiang Dai, Bryan Kian Hsiang Low
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors (ICLR 2024)**
+  - Sheng Jin, Xueying Jiang, Jiaxing Huang, Lewei Lu, Shijian Lu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Adversarial Imitation Learning via Boosting (ICLR 2024)**
+  - Jonathan D. Chang, Dhruv Sreenivas, Yingbing Huang, Kianté Brantley, Wen Sun
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective (ICLR 2024)**
+  - Kuan Li, Yiwen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models (ICLR 2024)**
+  - Haoran Xu, Young Jin Kim, Amr Sharaf, Hany Hassan Awadalla
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Graph Anomaly Detection with Adaptive Message Passing (ICLR 2024)**
+  - Jingyan Chen, Guanghui Zhu, Chunfeng Yuan, Yihua Huang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting (ICLR 2024)**
+  - Rong Dai, Yonggang Zhang, Ang Li, Tongliang Liu, Xun Yang, Bo Han
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **PnP Inversion: Boosting Diffusion-based Editing with 3 Lines of Code (ICLR 2024)**
+  - Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Vanilla Lightweight Vision Transformers via Re-parameterization (ICLR 2024)**
+  - Zhentao Tan, Xiaodan Li, Yue Wu, Qi Chu, Le Lu, Nenghai Yu, Jieping Ye
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis (ICLR 2024)**
+  - Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, Shengpeng Ji, Qian Yang, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun Ma, Zhou Zhao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **PriorBoost: An Adaptive Algorithm for Learning from Aggregate Responses (ICML 2024)**
+  - Adel Javanmard, Matthew Fahrbach, Vahab Mirrokni
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ReconBoost: Boosting Can Achieve Modality Reconcilement (ICML 2024)**
+  - Cong Hua, Qianqian Xu, Shilong Bao, Zhiyong Yang, Qingming Huang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL (ICML 2024)**
+  - Yu Luo, Tianying Ji, Fuchun Sun, Jianwei Zhang, Huazhe Xu, Xianyuan Zhan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback (ICML 2024)**
+  - Ganqu Cui, Lifan Yuan, Ning Ding, Guanming Yao, Bingxiang He, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, Zhiyuan Liu, Maosong Sun
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Offline Optimizers with Surrogate Sensitivity (ICML 2024)**
+  - Manh Cuong Dao, Phi Le Nguyen, Truong Thao Nguyen, Trong Nghia Hoang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MMPareto: Boosting Multimodal Learning with Innocent Unimodal Assistance (ICML 2024)**
+  - Yake Wei, Di Hu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays (ICML 2024)**
+  - Qingyuan Wu, Simon Sinong Zhan, Yixuan Wang, Yuhui Wang, Chung-Wei Lin, Chen Lv, Qi Zhu, Jürgen Schmidhuber, Chao Huang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Parameter-Dependent Competitive Analysis for Online Capacitated Coverage Maximization through Boostings and Attenuations (ICML 2024)**
+  - Pan Xu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Two Heads Are Better Than One: Boosting Graph Sparse Training via Semantic and Topological Awareness (ICML 2024)**
+  - Guibin Zhang, Yanwei Yue, Kun Wang, Junfeng Fang, Yongduo Sui, Kai Wang, Yuxuan Liang, Dawei Cheng, Shirui Pan, Tianlong Chen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DiffStitch: Boosting Offline Reinforcement Learning with Diffusion-based Trajectory Stitching (ICML 2024)**
+  - Guanghe Li, Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **HGAP: Boosting Permutation Invariant and Permutation Equivariant in Multi-Agent Reinforcement Learning via Graph Attention Network (ICML 2024)**
+  - Bor-Jiun Lin, Chun-Yi Lee
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Diffusion Models with an Adaptive Momentum Sampler (IJCAI 2024)**
+  - Xiyu Wang, Anh-Dung Dinh, Daochang Liu, Chang Xu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CLIP-FSAC: Boosting CLIP for Few-Shot Anomaly Classification with Synthetic Anomalies (IJCAI 2024)**
+  - Zuo Zuo, Yao Wu, Baoqiang Li, Jiahao Dong, You Zhou, Lei Zhou, Yanyun Qu, Zongze Wu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Single Positive Multi-label Classification with Generalized Robust Loss (IJCAI 2024)**
+  - Yanxi Chen, Chunxiao Li, Xinyang Dai, Jinhuan Li, Weiyu Sun, Yiming Wang, Renyuan Zhang, Tinghe Zhang, Bo Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge (IJCAI 2024)**
+  - Yupei Yang, Biwei Huang, Shikui Tu, Lei Xu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion (IJCAI 2024)**
+  - Yonghao Yu, Shunan Zhu, Huai Qin, Haorui Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Model Resilience via Implicit Adversarial Data Augmentation (IJCAI 2024)**
+  - Xiaoling Zhou, Wei Ye, Zhemg Lee, Rui Xie, Shikun Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Iterative Weak Learnability and Multiclass AdaBoost (KDD 2024)**
+  - In-Koo Cho, Jonathan A. Libgober, Cheng Ding, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/Ciaperoni0G24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Uplift Modelling via Gradient Boosting (KDD 2024)**
+  - Bulat Ibragimov, Anton Vakhrushev, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/ImamuraN24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation (KDD 2024)**
+  - Weigang Lu, Ziyu Guan, Wei Zhao, Yaming Yang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/LuoHYHH0024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning (KDD 2024)**
+  - Bingchang Liu, Chaoyu Chen, Zi Gong, Cong Liao, Huan Wang, Zhichao Lei, Ming Liang, Dajun Chen, Min Shen, Hailian Zhou, Wei Jiang, Hang Yu, Jianguo Li, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/LiuWL0L24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **PEMBOT: Pareto-Ensembled Multi-task Boosted Trees (KDD 2024)**
+  - Gokul Swamy, Anoop Saladi, Arunita Das, Shobhit Niranjan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/TanCQSCCX024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Self-boosted Framework for Calibrated Ranking (KDD 2024)**
+  - Shunyu Zhang, Hu Liu, Wentian Bao, Enyun Yu, Yang Song, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/ZhangXYFHLLQA0H24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **LeanReasoner: Boosting Complex Logical Reasoning with Lean (NAACL 2024)**
+  - Dongwei Jiang, Marcio Fonseca, Shay B. Cohen, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/naacl/0001SLBB024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning (NAACL 2024)**
+  - Ming Li, Yong Zhang, Zhitao Li, Jiuhai Chen, Lichang Chen, Ning Cheng, Jianzong Wang, Tianyi Zhou, Jing Xiao, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/naacl/ShiCZ24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MedDiffusion: Boosting Health Risk Prediction via Diffusion-based Data Augmentation (SDM 2024)**
+  - Yuan Zhong, Suhan Cui, Jiaqi Wang, Xiaochen Wang, Ziyi Yin, Yaqing Wang, Houping Xiao, Mengdi Huai, Ting Wang, Fenglong Ma, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/sdm/ZhanDDHW024&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Offline Reward Perturbation Boosts Distributional Shift in Online RL (UAI 2024)**
+  - Zishun Yu, Siteng Kang, Xinhua Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models (WSDM 2024)**
+  - Qijiong Liu, Nuo Chen, Tetsuya Sakai, Xiao-Ming Wu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/wsdm/LiuYLYWPY24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **FairIF: Boosting Fairness in Deep Learning via Influence Functions with Validation Set Sensitive Attributes (WSDM 2024)**
+  - Haonan Wang, Ziwei Wu, Jingrui He, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/wsdm/Wang24&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+## 2025
+- **InstructOCR: Instruction Boosting Scene Text Spotting (AAAI 2025)**
+  - Chen Duan, Qianyi Jiang, Pei Fu, Jiamin Chen, Shengxi Li, Zining Wang, Shan Guo, Junfeng Luo, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/Duan0L0GZRL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering (AAAI 2025)**
+  - Chun-Mei Feng, Yang Bai, Tao Luo, Zhen Li, Salman H. Khan, Wangmeng Zuo, Rick Siow Mong Goh, Yong Liu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/FengGPZYW25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Segment Anything Model Towards Open-Vocabulary Learning (AAAI 2025)**
+  - Xumeng Han, Longhui Wei, Xuehui Yu, Zhiyang Dou, Xin He, Kuiran Wang, Yingfei Sun, Zhenjun Han, Qi Tian, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/HanZZWL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **AUTE: Peer-Alignment and Self-Unlearning Boost Adversarial Robustness for Training Ensemble Models (AAAI 2025)**
+  - Lifeng Huang, Tian Su, Chengying Gao, Ning Liu, Qiong Huang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/HuangLZW0ZL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MambaLCT: Boosting Tracking via Long-term Context State Space Model (AAAI 2025)**
+  - Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/LiZHXDZ025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Multimodal Large Language Models with Visual Tokens Withdrawal for Rapid Inference (AAAI 2025)**
+  - Zhihang Lin, Mingbao Lin, Luxi Lin, Rongrong Ji, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/LingTLY25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation%2C Spatial Purification%2C and Scale Diversification (AAAI 2025)**
+  - Yucong Meng, Zhiwei Yang, Yonghong Shi, Zhijian Song, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/MiaoMQZ025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Image De-Raining via Central-Surrounding Synergistic Convolution (AAAI 2025)**
+  - Long Peng, Yang Wang, Xin Di, Peizhe Xia, Xueyang Fu, Yang Cao, Zheng-Jun Zha, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/PengSYX25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models (AAAI 2025)**
+  - Fei Shen, Hu Ye, Sibo Liu, Jun Zhang, Cong Wang, Xiao Han, Yang Wei, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/Shen0HYW0L025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Vision State Space Model with Fractal Scanning (AAAI 2025)**
+  - Haoke Xiao, Lv Tang, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/XiaoHLH25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability (AAAI 2025)**
+  - Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ZengHW025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **RP-PGD: Boosting Segmentation Robustness with a Region-and-Prototype Based Adversarial Attack (AAAI 2025)**
+  - Yuxuan Zhang, Zhenbo Shi, Shuchang Wang, Wei Yang, Shaowei Wang, Yinxing Xue, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ZhangZSZTL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ESEG: Event-Based Segmentation Boosted by Explicit Edge-Semantic Guidance (AAAI 2025)**
+  - Yucheng Zhao, Gengyu Lyu, Ke Li, Zihao Wang, Hao Chen, Zhen Yang, Yongjian Deng, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ZhaoRLY25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Expanding the Scope of Negatives: Boosting Image-Text Matching with Negatives Distribution Guided Learning (AAAI 2025)**
+  - Zhao Zhou, Weizhong Zhang, Xiangcheng Du, Yingbin Zheng, Cheng Jin, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ZhouDZWJ25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning Valid Dual Bounds in Constraint Programming: Boosted Lagrangian Decomposition with Self-Supervised Learning (AAAI 2025)**
+  - Swann Bessa, Darius Dabert, Max Bourgeat, Louis-Martin Rousseau, Quentin Cappart, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/BleukxV0G25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Little Is Enough: Boosting Privacy by Sharing Only Hard Labels in Federated Semi-Supervised Learning (AAAI 2025)**
+  - Amr Abourayya, Jens Kleesiek, Kanishka Rao, Erman Ayday, Bharat Rao, Geoffrey I. Webb, Michael Kamp, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/AdamczykMTK25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Free Lunch in the Forest: Functionally-Identical Pruning of Boosted Tree Ensembles (AAAI 2025)**
+  - Youssouf Emine, Alexandre Forel, Idriss Malek, Thibaut Vidal, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/EtesamCAJ25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning (AAAI 2025)**
+  - Qingqing Fang, Qinliang Su, Wenxi Lv, Wenchao Xu, Jianxing Yu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/FangL0H25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CoffeeBoost: Gradient Boosting Native Conformal Inference for Bayesian Optimization (AAAI 2025)**
+  - Yuanhao Lai, Pengfei Zheng, Chenpeng Ji, Cheng Qiu, Tingkai Wang, Songhan Zhang, Zhengang Wang, Yunfei Du, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/LaiWF0025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **RILQ: Rank-Insensitive LoRA-Based Quantization Error Compensation for Boosting 2-Bit Large Language Model Accuracy (AAAI 2025)**
+  - Geonho Lee, Janghwan Lee, Sukjin Hong, Minsoo Kim, Euijai Ahn, Du-Seong Chang, Jungwook Choi, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/LeeAC25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Test Performance with Importance Sampling-a Subpopulation Perspective (AAAI 2025)**
+  - Hongyu Shen, Zhizhen Zhao, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ShenWHZGLZL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Causal Structure Learning: An Asymmetric Exponential Modulation Gaussian-Based Adaptive Sample Reweighting Framework (AAAI 2025)**
+  - Wei Xiao, Hongbin Wang, Ming He, Nianbin Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/Xie025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Quality over Quantity: Boosting Data Efficiency Through Ensembled Multimodal Data Curation (AAAI 2025)**
+  - Jinda Xu, Yuhao Song, Daming Wang, Weiwei Zhao, Minghua Chen, Kangliang Chen, Qinya Li, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/XuJLY25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Supervised Score-Based Modeling by Gradient Boosting (AAAI 2025)**
+  - Changyuan Zhao, Hongyang Du, Guangyuan Liu, Dusit Niyato, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/ZhaoPWYX025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Short Text Classification with Multi-Source Information Exploration and Dual-Level Contrastive Learning (AAAI 2025)**
+  - Yonghao Liu, Mengyu Li, Wei Pang, Fausto Giunchiglia, Lan Huang, Xiaoyue Feng, Renchu Guan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/LiuZLC25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **What Are Step-Level Reward Models Rewarding%3F Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning (AAAI 2025)**
+  - Yiran Ma, Zui Chen, Tianqiao Liu, Mi Tian, Zhuo Liu, Zitao Liu, Weiqi Luo, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/aaai/MaH0WZL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Additive Model Boosting: New Insights and Path%28ologie%29s (AISTATS 2025)**
+  - Rickmer Schulte, David Rügamer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Efficiency Boost in Decentralized Optimization: Reimagining Neighborhood Aggregation with Minimal Overhead (CIKM 2025)**
+  - Durgesh Kalwar, Mayank Baranwal, Harshad Khadilkar, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/Kang0PJJS25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **FairRegBoost: An End-to-End Data Processing Framework for Fair and Scalable Regression (CIKM 2025)**
+  - Nico Lässig, Melanie Herschel, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/LeeM25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Structure-Attribute Transformations with Markov Chain Boost Graph Domain Adaptation (CIKM 2025)**
+  - Zhen Liu, Yongtao Zhang, Shaobo Ren, Yuxin You, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/LoizouT25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Federated Gradient Boosting for Financial Fraud Detection: An Empirical Study in the Banking Sector (CIKM 2025)**
+  - Dae-Young Park, In-Young Ko, Taek-Ho Lee, Junghye Lee, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/ParkJKK25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images (CVPR 2025)**
+  - Lingen Li, Zhaoyang Zhang, Yaowei Li, Jiale Xu, Wenbo Hu, Xiaoyu Li, Weihao Cheng, Jinwei Gu, Tianfan Xue, Ying Shan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/Lin0FWL0LY25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception (CVPR 2025)**
+  - Yunpeng Qu, Kun Yuan, Qizhi Xie, Ming Sun, Chao Zhou, Jian Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/Wang000YLJ25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding (CVPR 2025)**
+  - Shuming Liu, Chen Zhao, Tianqi Xu, Bernard Ghanem, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/HuangLLWZLWCL025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model (CVPR 2025)**
+  - Benlin Liu, Yuhao Dong, Yiqin Wang, Zixian Ma, Yansong Tang, Luming Tang, Yongming Rao, Wei-Chiu Ma, Ranjay Krishna, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/KarypidisKGK25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need (CVPR 2025)**
+  - Qiang Wang, Xiang Song, Yuhang He, Jizhou Han, Chenhao Ding, Xinyuan Gao, Yihong Gong, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/ZhouTLSLYZ025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization (CVPR 2025)**
+  - Hongrui Jia, Chaoya Jiang, Haiyang Xu, Wei Ye, Mengfan Dong, Ming Yan, Ji Zhang, Fei Huang, Shikun Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/GholamiACZ25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boost the Inference with Co-training: A Depth-guided Mutual Learning Framework for Semi-supervised Medical Polyp Segmentation (CVPR 2025)**
+  - Yuxin Li, Zihao Zhu, Yuxiang Zhang, Yifan Chen, Zhibin Yu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/KumariS25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Bridging Viewpoint Gaps: Geometric Reasoning Boosts Semantic Correspondence (CVPR 2025)**
+  - Qiyang Qian, Hansheng Chen, Masayoshi Tomizuka, Kurt Keutzer, Qianqian Wang, Chenfeng Xu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/ChhariaGD25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CamPoint: Boosting Point Cloud Segmentation with Virtual Camera (CVPR 2025)**
+  - Jianhui Zhang, Yizhi Luo, Zicheng Zhang, Xuecheng Nie, Bonan Li, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/BerdanBROI25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ByTheWay: Boost Your Text-to-Video Generation Model to Higher Quality in a Training-free Way (CVPR 2025)**
+  - Jiazi Bu, Pengyang Ling, Pan Zhang, Tong Wu, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/0002YRMBDAL025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Point-Supervised Temporal Action Localization through Integrating Query Reformation and Optimal Transport (CVPR 2025)**
+  - Mengnan Liu, Le Wang, Sanping Zhou, Kun Xia, Xiaolong Sun, Gang Hua, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/ZhuZ0GK25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Adversarial Transferability through Augmentation in Hypothesis Space (CVPR 2025)**
+  - Yu Guo, Weiquan Liu, Qingshan Xu, Shijun Zheng, Shujun Huang, Yu Zang, Siqi Shen, Chenglu Wen, Cheng Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/HanZCL0L25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MVBoost: Boost 3D Reconstruction with Multi-View Refinement (CVPR 2025)**
+  - Xiangyu Liu, Xiaomei Zhang, Zhiyuan Ma, Xiangyu Zhu, Zhen Lei, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/VuongGRNT25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ADD: Attribution-Driven Data Augmentation Framework for Boosting Image Super-Resolution (CVPR 2025)**
+  - Ze-Yu Mi, Yu-Bin Yang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/YangR0BC25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boost Your Human Image Generation Model via Direct Preference Optimization (CVPR 2025)**
+  - Sanghyeon Na, Yonggyu Kim, Hyunjoon Lee, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/LiWWLX0KYW025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ROICtrl: Boosting Instance Control for Visual Generation (CVPR 2025)**
+  - Yuchao Gu, Yipin Zhou, Yunfan Ye, Yixin Nie, Licheng Yu, Pingchuan Ma, Kevin Qinghong Lin, Mike Zheng Shou, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/HuYLH0XBT025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions (CVPR 2025)**
+  - Chan Hur, Jeong-Hun Hong, Dong-hun Lee, Dabin Kang, Semin Myeong, Sang-hyo Park, Hyeyoung Park, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/ChenLCSZL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Taste More%2C Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (CVPR 2025)**
+  - Maochen Yang, Zekun Li, Jian Zhang, Lei Qi, Yinghuan Shi, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/JiangWB00SCL25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad (CVPR 2025)**
+  - Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Zeyu Zhang, Yue Huang, Kun Zhang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/MaXXWS025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Detect Any Mirrors: Boosting Learning Reliability on Large-Scale Unlabeled Data with an Iterative Data Engine (CVPR 2025)**
+  - Zhaohu Xing, Lihao Liu, Yijun Yang, Hongqiu Wang, Tian Ye, Sixiang Chen, Wenxue Li, Guang Liu, Lei Zhu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/ZhuCZ025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Gain from Neighbors: Boosting Model Robustness in the Wild via Adversarial Perturbations Toward Neighboring Classes (CVPR 2025)**
+  - Zhou Yang, Mingtao Feng, Tao Huang, Fangfang Wu, Weisheng Dong, Xin Li, Guangming Shi, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/SunCDF25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting the Dual-Stream Architecture in Ultra-High Resolution Segmentation with Resolution-Biased Uncertainty Estimation (CVPR 2025)**
+  - Rong Qin, Xingyu Liu, Jinglei Shi, Liang Lin, Jufeng Yang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/0003ZYTLW25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training (CVPR 2025)**
+  - Xuanpu Zhang, Dan Song, Pengxin Zhan, Tianyu Chang, Jianhao Zeng, Qingguo Chen, Weihua Luo, An-An Liu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/JinHXD0025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BOE-ViT: Boosting Orientation Estimation with Equivariance in Self-Supervised 3D Subtomogram Alignment (CVPR 2025)**
+  - Runmin Jiang, Jackson Daggett, Shriya Pingulkar, Yizhou Zhao, Priyanshu Dhingra, Daniel Brown, Qifeng Wu, Xiangrui Zeng, Xingjian Li, Min Xu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/0018ZC25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts (CVPR 2025)**
+  - Shijia Zhao, Qiming Xia, Xusheng Guo, Pufan Zou, Maoji Zheng, Hai Wu, Chenglu Wen, Cheng Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cvpr/TaiS0WC25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation (ICLR 2025)**
+  - Tiansheng Huang, Sihao Hu, Fatih Ilhan, Selim Furkan Tekin, Ling Liu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Ray Search Procedure of Hard-label Attacks with Transfer-based Priors (ICLR 2025)**
+  - Chen Ma, Xinjie Xu, Shuyu Cheng, Qi Xuan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Enhancing Pre-trained Representation Classifiability can Boost its Interpretability (ICLR 2025)**
+  - Shufan Shen, Zhaobo Qi, Junshu Sun, Qingming Huang, Qi Tian, Shuhui Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Neural Combinatorial Optimization for Large-Scale Vehicle Routing Problems (ICLR 2025)**
+  - Fu Luo, Xi Lin, Yaoxin Wu, Zhenkun Wang, Xialiang Tong, Mingxuan Yuan, Qingfu Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **L-WISE: Boosting Human Visual Category Learning Through Model-Based Image Selection and Enhancement (ICLR 2025)**
+  - Morgan Bruce Talbot, Gabriel Kreiman, James J. DiCarlo, Guy Gaziv
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization (ICLR 2025)**
+  - Bhavya Sukhija, Stelian Coros, Andreas Krause, Pieter Abbeel, Carmelo Sferrazza
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Multiple Views for pretrained-based Continual Learning (ICLR 2025)**
+  - Quyen Tran, Tung Lam Tran, Khanh Doan, Toan Tran, Dinh Q. Phung, Khoat Than, Trung Le
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts (ICLR 2025)**
+  - Divya Jyoti Bajpai, Manjesh Kumar Hanawal
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation (ICLR 2025)**
+  - Zongyi Li, Shujie Hu, Shujie Liu, Long Zhou, Jeongsoo Choi, Lingwei Meng, Xun Guo, Jinyu Li, Hefei Ling, Furu Wei
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CO-MOT: Boosting End-to-end Transformer-based Multi-Object Tracking via Coopetition Label Assignment and Shadow Sets (ICLR 2025)**
+  - Feng Yan, Weixin Luo, Yujie Zhong, Yiyang Gan, Lin Ma
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization (ICLR 2025)**
+  - Zhuoqun Li, Xuanang Chen, Haiyang Yu, Hongyu Lin, Yaojie Lu, Qiaoyu Tang, Fei Huang, Xianpei Han, Le Sun, Yongbin Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Methods for Interval-censored Data with Regression and Classification (ICLR 2025)**
+  - Yuan Bian, Grace Y. Yi, Wenqing He
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MuHBoost: Multi-Label Boosting For Practical Longitudinal Human Behavior Modeling (ICLR 2025)**
+  - Nguyen T. Thach, Patrick Habecker, Anika R. Eisenbraun, Alex Mason, Kimberly Tyler, Bilal Khan, Hau Chan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Generation and Comprehension Hand-in-Hand: Vision-guided Expression Diffusion for Boosting Referring Expression Generation and Comprehension (ICLR 2025)**
+  - Jingcheng Ke, Jun-Cheng Chen, I-Hong Jhuo, Chia-Wen Lin, Yen-Yu Lin
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Prompt as Knowledge Bank: Boost Vision-language model via Structural Representation for zero-shot medical detection (ICLR 2025)**
+  - Yuguang Yang, Tongfei Chen, Haoyu Huang, Linlin Yang, Chunyu Xie, Dawei Leng, Xianbin Cao, Baochang Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Perturbed Gradient Ascent for Last-Iterate Convergence in Games (ICLR 2025)**
+  - Kenshi Abe, Mitsuki Sakamoto, Kaito Ariu, Atsushi Iwasaki
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Ada-K Routing: Boosting the Efficiency of MoE-based LLMs (ICLR 2025)**
+  - Tongtian Yue, Longteng Guo, Jie Cheng, Xuange Gao, Hua Huang, Jing Liu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NRGBoost: Energy-Based Generative Boosted Trees (ICLR 2025)**
+  - João Bravo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **PEAR: Primitive Enabled Adaptive Relabeling for Boosting Hierarchical Reinforcement Learning (ICLR 2025)**
+  - Utsav Singh, Vinay P. Namboodiri
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs (ICLR 2025)**
+  - Sreyan Ghosh, Chandra Kiran Reddy Evuru, Sonal Kumar, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction (ICLR 2025)**
+  - Cheng Tan, Zhenxiao Cao, Zhangyang Gao, Lirong Wu, Siyuan Li, Yufei Huang, Jun Xia, Bozhen Hu, Stan Z. Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Latent Diffusion with Perceptual Objectives (ICLR 2025)**
+  - Tariq Berrada, Pietro Astolfi, Melissa Hall, Marton Havasi, Yohann Benchetrit, Adriana Romero-Soriano, Karteek Alahari, Michal Drozdzal, Jakob Verbeek
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Diffusing to the Top: Boost Graph Neural Networks with Minimal Hyperparameter Tuning (ICLR 2025)**
+  - Lequan Lin, Dai Shi, Andi Han, Zhiyong Wang, Junbin Gao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Masked Image Modeling Representations (ICLR 2025)**
+  - Benedikt Alkin, Lukas Miklautz, Sepp Hochreiter, Johannes Brandstetter
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Self-Boosting Large Language Models with Synthetic Preference Data (ICLR 2025)**
+  - Qingxiu Dong, Li Dong, Xingxing Zhang, Zhifang Sui, Furu Wei
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting the visual interpretability of CLIP via adversarial fine-tuning (ICLR 2025)**
+  - Shizhan Gong, Haoyu Lei, Qi Dou, Farzan Farnia
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boost Self-Supervised Dataset Distillation via Parameterization%2C Predefined Augmentation%2C and Approximation (ICLR 2025)**
+  - Sheng-Feng Yu, Jia-Jiun Yao, Wei-Chen Chiu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models (ICLR 2025)**
+  - Hulingxiao He, Geng Li, Zijun Geng, Jinglin Xu, Yuxin Peng
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography (ICLR 2025)**
+  - Xuanyu Zhang, Jiarui Meng, Zhipei Xu, Shuzhou Yang, Yanmin Wu, Ronggang Wang, Jian Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs (ICML 2025)**
+  - Jongwoo Ko, Tianyi Chen, Sungnyun Kim, Tianyu Ding, Luming Liang, Ilya Zharkov, Se-Young Yun
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Sample-Optimal Agnostic Boosting with Unlabeled Data (ICML 2025)**
+  - Udaya Ghai, Karan Singh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Protein Graph Representations through Static-Dynamic Fusion (ICML 2025)**
+  - Pengkang Guo, Bruno E. Correia, Pierre Vandergheynst, Daniel Probst
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Multi-Domain Fine-Tuning of Large Language Models through Evolving Interactions between Samples (ICML 2025)**
+  - Xize Liang, Lin Yang, Jie Wang, Yiyang Lu, Runyu Wu, Hanzhu Chen, Jianye Hao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Random Feature Representation Boosting (ICML 2025)**
+  - Nikita Zozoulenko, Thomas Cass, Lukas Gonon
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Product of Experts with LLMs: Boosting Performance on ARC Is a Matter of Perspective (ICML 2025)**
+  - Daniel Franzen, Jan Disselhoff, David Hartmann
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Quadratic Upper Bound for Boosting Robustness (ICML 2025)**
+  - Euijin You, Hyang-Won Lee
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Masked ECG-Text Auto-Encoders as Discriminative Learners (ICML 2025)**
+  - Manh Pham Hung, Aaqib Saeed, Dong Ma
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search (ICML 2025)**
+  - Zongyu Lin, Yao Tang, Xingcheng Yao, Da Yin, Ziniu Hu, Yizhou Sun, Kai-Wei Chang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Adversarial Robustness with CLAT: Criticality Leveraged Adversarial Training (ICML 2025)**
+  - Bhavna Gopal, Huanrui Yang, Jingyang Zhang, Mark Horton, Yiran Chen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation (ICML 2025)**
+  - Soobin Um, Beomsu Kim, Jong Chul Ye
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Come Together%2C But Not Right Now: A Progressive Strategy to Boost Low-Rank Adaptation (ICML 2025)**
+  - Zhan Zhuang, Xiequn Wang, Wei Li, Yulong Zhang, Qiushi Huang, Shuhao Chen, Xuehao Wang, Yanbin Wei, Yuhe Nie, Kede Ma, Yu Zhang, Ying Wei
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Gradient Boosting Reinforcement Learning (ICML 2025)**
+  - Benjamin Fuhrer, Chen Tessler, Gal Dalal
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Virtual Agent Learning and Reasoning: A Step-Wise%2C Multi-Dimensional%2C and Generalist Reward Model with Benchmark (ICML 2025)**
+  - Bingchen Miao, Yang Wu, Minghe Gao, Qifan Yu, Wendong Bu, Wenqiao Zhang, Yunfei Li, Siliang Tang, Tat-Seng Chua, Juncheng Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **FreeMesh: Boosting Mesh Generation with Coordinates Merging (ICML 2025)**
+  - Jian Liu, Haohan Weng, Biwen Lei, Xianghui Yang, Zibo Zhao, Zhuo Chen, Song Guo, Tao Han, Chunchao Guo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment (ICML 2025)**
+  - Chenghao Fan, Zhenyi Lu, Sichen Liu, Chengfeng Gu, Xiaoye Qu, Wei Wei, Yu Cheng
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Visual Knowledge-Intensive Training for LVLMs Through Causality-Driven Visual Object Completion (IJCAI 2025)**
+  - Qingguo Hu, Ante Wang, Jia Song, Delai Qiu, Qingsong Liu, Jinsong Su, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/ijcai/Huang025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Zero-shot Stereo Matching Using Large-Scale Mixed Images Sources in the Real World (IJCAI 2025)**
+  - Yuran Wang, Yingping Liang, Ying Fu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/ijcai/WangLYWWH25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CFII-Net: Explicit Class Embeddings and Feature Maps Through Iterative Interaction for Boosting Medical Image Segmentation (IJCAI 2025)**
+  - Xinyu Zhu, Xiwen Liu, Lianghua He, Yin Wen, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/ijcai/Zou00025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Time-Frequency Disentanglement Boosted Pre-Training: A Universal Spatio-Temporal Modeling Framework (IJCAI 2025)**
+  - Yudong Zhang, Zhaoyang Sun, Xu Wang, Xuan Yu, Kai Wang, Yang Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/ijcai/Zhao00CD0H25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Few-Shot Open-Set Object Detection via Prompt Learning and Robust Decision Boundary (IJCAI 2025)**
+  - Zhaowei Wu, Binyi Su, Qichuan Geng, Hua Zhang, Zhong Zhou, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/ijcai/WuLY0PW25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boost Embodied AI Models with Robust Compression Boundary (IJCAI 2025)**
+  - Chong Yu, Tao Chen, Zhongxue Gan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/ijcai/00010JZD25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SDDiff: Boosting Radar Perception via Spatial-Doppler Diffusion (IJCAI 2025)**
+  - Shengpeng Wang, Xin Luo, Yulong Xie, Wei Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/ijcai/ZhangLQWLWZS25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fast Calculation of Feature Contributions in Boosting Trees (UAI 2025)**
+  - Zhongli Jiang, Min Zhang, Dabao Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **When Extragradient Meets PAGE: Bridging Two Giants to Boost Variational Inequalities (UAI 2025)**
+  - Gleb Molodtsov, Valery Parfenov, Egor Petrov, Grigoriy Evseev, Daniil Medyakov, Aleksandr Beznosikov
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning Robust XGBoost Ensembles for Regression Tasks (UAI 2025)**
+  - Atri Vivek Sharma, Panagiotis Kouvaros, Alessio Lomuscio
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Combating Heterogeneous Model Biases in Recommendations via Boosting (WSDM 2025)**
+  - Jinhao Pan, James Caverlee, Ziwei Zhu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/wsdm/QiaoALXSH25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language Models (WSDM 2025)**
+  - Hao Yan, Chaozhuo Li, Jun Yin, Weihao Han, Hao Sun, Senzhang Wang, Jian Zhang, Jianxin Wang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/wsdm/0001HC0C25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Asynchronous Decentralized Learning with Model Fragmentation (WWW 2025)**
+  - Sayan Biswas, Anne-Marie Kermarrec, Alexis Marouani, Rafael Pires, Rishi Sharma, Martijn de Vos, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/www/Xie0025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning by Comparing: Boosting Multimodal Affective Computing through Ordinal Learning (WWW 2025)**
+  - Sijie Mai, Ying Zeng, Haifeng Hu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/www/LiuW0Z025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Boosting Graph Convolution with Disparity-induced Structural Refinement (WWW 2025)**
+  - Sujia Huang, Yueyang Pi, Tong Zhang, Wenzhe Liu, Zhen Cui, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/www/ShiGY0CCYVR25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation (WWW 2025)**
+  - Hongjin Qian, Zheng Liu, Peitian Zhang, Kelong Mao, Defu Lian, Zhicheng Dou, Tiejun Huang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/www/WenLTPHLH25&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **FUNU: Boosting Machine Unlearning Efficiency by Filtering Unnecessary Unlearning (WWW 2025)**
+  - Zitong Li, Qingqing Ye, Haibo Hu, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/www/GaoSY025&amp;
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2023
 
 - **Computing Abductive Explanations for Boosted Trees (AISTATS 2023)**
