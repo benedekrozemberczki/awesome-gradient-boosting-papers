@@ -101,7 +101,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 - **Distributed Boosting: An Enhancing Method on Dataset Distillation (CIKM 2024)**
-  - Xuechao Chen, Wenchao Meng, Peiran Wang, Qihang Zhou, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/ChengWZWXZXWTLX24&amp;
+  - Xuechao Chen, Wenchao Meng, Peiran Wang, Qihang Zhou
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -111,22 +111,22 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 - **Iterative Weak Learnability and Multiclass AdaBoost (KDD 2024)**
-  - In-Koo Cho, Jonathan A. Libgober, Cheng Ding, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/Ciaperoni0G24&amp;
+  - In-Koo Cho, Jonathan A. Libgober, Cheng Ding
   - [[Paper]]( )
   - [[Code]]( )
 
 - **Uplift Modelling via Gradient Boosting (KDD 2024)**
-  - Bulat Ibragimov, Anton Vakhrushev, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/ImamuraN24&amp;
+  - Bulat Ibragimov, Anton Vakhrushev
   - [[Paper]]( )
   - [[Code]]( )
 
 - **AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation (KDD 2024)**
-  - Weigang Lu, Ziyu Guan, Wei Zhao, Yaming Yang, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/LuoHYHH0024&amp;
+  - Weigang Lu, Ziyu Guan, Wei Zhao, Yaming Yang
   - [[Paper]]( )
   - [[Code]]( )
 
 - **PEMBOT: Pareto-Ensembled Multi-task Boosted Trees (KDD 2024)**
-  - Gokul Swamy, Anoop Saladi, Arunita Das, Shobhit Niranjan, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/kdd/TanCQSCCX024&amp;
+  - Gokul Swamy, Anoop Saladi, Arunita Das, Shobhit Niranjan
   - [[Paper]]( )
   - [[Code]]( )
 
