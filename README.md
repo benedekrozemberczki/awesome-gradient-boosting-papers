@@ -45,53 +45,48 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Free Lunch in the Forest: Functionally-Identical Pruning of Boosted Tree Ensembles (AAAI 2025)**
   - Youssouf Emine, Alexandre Forel, Idriss Malek, Thibaut Vidal
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2408.16167)
+  - [[Code]](https://github.com/eminyous/fipe)
 
 - **Supervised Score-Based Modeling by Gradient Boosting (AAAI 2025)**
   - Changyuan Zhao, Hongyang Du, Guangyuan Liu, Dusit Niyato
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2411.01159)
 
 - **Additive Model Boosting: New Insights and Pathologies (AISTATS 2025)**
   - Rickmer Schulte, David Rügamer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/2503.05538)
 
 - **FairRegBoost: An End-to-End Data Processing Framework for Fair and Scalable Regression (CIKM 2025)**
   - Nico Lässig, Melanie Herschel
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761277)
+  - [[Code]](https://github.com/NicoLaessig/fairregboost)
 
 - **Federated Gradient Boosting for Financial Fraud Detection: An Empirical Study in the Banking Sector (CIKM 2025)**
   - Dae-Young Park, In-Young Ko, Taek-Ho Lee, Junghye Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3746252.3760891)
 
 - **Boosting Methods for Interval-censored Data with Regression and Classification (ICLR 2025)**
   - Yuan Bian, Grace Y. Yi, Wenqing He
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://openreview.net/forum?id=DzbUL4AJPP)
+  - [[Code]](https://github.com/krisyuanbian/L2BOOST-IC)
 
 - **NRGBoost: Energy-Based Generative Boosted Trees (ICLR 2025)**
   - João Bravo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/2410.03535)
+  - [[Code]](https://github.com/ajoo/nrgboost)
 
 - **Gradient Boosting Reinforcement Learning (ICML 2025)**
   - Benjamin Fuhrer, Chen Tessler, Gal Dalal
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://github.com/NVlabs/gbrl)
+  - [[Code]](https://arxiv.org/abs/2407.08250)
 
 - **Fast Calculation of Feature Contributions in Boosting Trees (UAI 2025)**
   - Zhongli Jiang, Min Zhang, Dabao Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2407.03515)
 
 - **Learning Robust XGBoost Ensembles for Regression Tasks (UAI 2025)**
   - Atri Vivek Sharma, Panagiotis Kouvaros, Alessio Lomuscio
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v286/sharma25a.html)
 
 ## 2024
 
