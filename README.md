@@ -92,39 +92,33 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Orthogonal Gradient Boosting for Simpler Additive Rule Ensembles (AISTATS 2024)**
   - Fan Yang, Pierre Le Bodic, Michael Kamp, Mario Boley
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/2402.15691)
+  - [[Code]](https://github.com/fyan102/FCOGB)
 
 - **Distributed Boosting: An Enhancing Method on Dataset Distillation (CIKM 2024)**
   - Xuechao Chen, Wenchao Meng, Peiran Wang, Qihang Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679897)
 
 - **Adversarial Imitation Learning via Boosting (ICLR 2024)**
   - Jonathan D. Chang, Dhruv Sreenivas, Yingbing Huang, Kianté Brantley, Wen Sun
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2404.08513)
 
 - **Iterative Weak Learnability and Multiclass AdaBoost (KDD 2024)**
   - In-Koo Cho, Jonathan A. Libgober, Cheng Ding
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671842)
 
 - **Uplift Modelling via Gradient Boosting (KDD 2024)**
   - Bulat Ibragimov, Anton Vakhrushev
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3637528.3672019)
 
 - **AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation (KDD 2024)**
   - Weigang Lu, Ziyu Guan, Wei Zhao, Yaming Yang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/2405.14307)
+  - [[Code]](https://github.com/WeigangLu/AdaGMLP-KDD24)
 
 - **PEMBOT: Pareto-Ensembled Multi-task Boosted Trees (KDD 2024)**
   - Gokul Swamy, Anoop Saladi, Arunita Das, Shobhit Niranjan
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3637528.3671619)
 ## 2023
 
 - **Computing Abductive Explanations for Boosted Trees (AISTATS 2023)**
